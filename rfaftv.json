@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "CD Decorséneca - CD Santaella",
+        "portada": "https://d1b70esudesffp.cloudfront.net/category_cards/f6a91b03219e4fa6ae61d6c8fa3d3106.png?w=548&h=310&quality=mid",
+        "texto_ocr_portada": "Sábado 12 de septiembre 17:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/category/3997-rfaftv-1",
+        "streams": []
+    },
+    {
+        "titulo": "CD Boca FS Priego - Mancha Real FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/category_cards/91e0f5b974944527a52c9e8c776fd7f1.png?w=548&h=310&quality=mid",
+        "texto_ocr_portada": "Sábado 12 de septiembre 18:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/category/3998-rfaftv-2",
+        "streams": []
+    },
+    {
+        "titulo": "CD Cádiz Futsal - CD UD Los Amigos",
+        "portada": "https://d1b70esudesffp.cloudfront.net/category_cards/3faade333b4a4532bc3751225ee6ea26.png?w=548&h=310&quality=mid",
+        "texto_ocr_portada": "Sábado 12 de septiembre 19:45h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/category/4218-rfaftv-3",
+        "streams": []
+    },
+    {
+        "titulo": "CD Isleño San Fernando FS - CD Benalup",
+        "portada": "https://d1b70esudesffp.cloudfront.net/category_cards/88655c9008a6481d9563de0e5d679401.png?w=548&h=310&quality=mid",
+        "texto_ocr_portada": "Domingo 13 de septiembre 12:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/category/3999-rfaftv-4",
+        "streams": []
+    },
+    {
+        "titulo": "CD Albolote Futsal HEROGRA - Chirivel CF",
+        "portada": "https://d1b70esudesffp.cloudfront.net/category_cards/718519853ddb4daeb027441947f41db6.png?w=548&h=310&quality=mid",
+        "texto_ocr_portada": "Domingo 13 de septiembre 13:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/category/4000-rfaftv-5",
+        "streams": []
+    },
+    {
+        "titulo": "CD Castellar Íbero - Atletico Jamilena",
+        "portada": "https://d1b70esudesffp.cloudfront.net/category_cards/424b3f26cef44a1695caf5a9bf3f4867.png?w=548&h=310&quality=mid",
+        "texto_ocr_portada": "Domingo 13 de septiembre 20:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/category/4657-rfaftv-6",
+        "streams": []
+    }
+]
