@@ -2,7 +2,7 @@
     {
         "titulo": "CD Decorséneca - CD Santaella",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/de21e027d9db4e0fbc05c23256fd6ec1.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Sábado 12 de septiembre 17:30h",
+        "texto_ocr_portada": "Sábado 19 de septiembre 17:30h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel1.smil/playlist.m3u8"
@@ -11,7 +11,7 @@
     {
         "titulo": "CD Boca FS Priego - Mancha Real FS",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/c38083f2958d467eb1864ba86bbcd68d.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Sábado 12 de septiembre 18:30h",
+        "texto_ocr_portada": "Sábado 19 de septiembre 18:30h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
@@ -20,7 +20,7 @@
     {
         "titulo": "CD Cádiz Futsal - CD UD Los Amigos",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/82fa9779616c471eaf7bf0907cfae70a.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Sábado 12 de septiembre 19:45h",
+        "texto_ocr_portada": "Sábado 19 de septiembre 19:45h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel3.smil/playlist.m3u8"
@@ -29,7 +29,7 @@
     {
         "titulo": "CD Isleño San Fernando FS - CD Benalup",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/76ec743ba45044d6bb4bcf87ea137740.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 13 de septiembre 12:30h",
+        "texto_ocr_portada": "Domingo 20 de septiembre 12:30h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
@@ -38,7 +38,7 @@
     {
         "titulo": "CD Albolote Futsal HEROGRA - Chirivel CF",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/d4b5eb1b48874432a2f87daa06ff368f.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 13 de septiembre 13:00h",
+        "texto_ocr_portada": "Domingo 20 de septiembre 13:00h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
@@ -47,7 +47,7 @@
     {
         "titulo": "CD Castellar Íbero - Atletico Jamilena",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/3f106e48a8334a1fa70e88fa35085f22.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 13 de septiembre 20:00h",
+        "texto_ocr_portada": "Domingo 20 de septiembre 20:00h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel6.smil/playlist.m3u8"
