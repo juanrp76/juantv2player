@@ -23,7 +23,7 @@
         "texto_ocr_portada": "Sábado 19 de septiembre 19:00h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel3.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3"
         ]
     },
     {
@@ -32,7 +32,7 @@
         "texto_ocr_portada": "EE\n3 DIVISIGN 3GDIIABL2\nREAR FAA FUTSAL\nO-",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4"
         ]
     },
     {
