@@ -656,7 +656,7 @@
                             "epg_id": "Betis.TV",
                             "options": [
                                 {
-                                    "url": "https://betistv-live.flumotion.com/TEGlQqZsIzhAxdgbigrcMQ/1789746930/betistv/live_all/playlist.m3u8"
+                                    "url": "https://betistv-live.flumotion.com/R8hHQWxWObaGG_9WyqWOwg/1789749074/betistv/live_all/playlist.m3u8"
                                 }
                             ],
                             "extra_info": [
@@ -1334,6 +1334,13 @@
                                 {
                                     "format": "m3u8",
                                     "url": "https://ztnr.rtve.es/ztnr/6712432.m3u8",
+                                    "geo2": null,
+                                    "res": null,
+                                    "lang": null
+                                },
+                                {
+                                    "format": "m3u8",
+                                    "url": "https://ztnr.rtve.es/ztnr/6712453.m3u8",
                                     "geo2": null,
                                     "res": null,
                                     "lang": null
@@ -3176,7 +3183,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NjJiMTMyNmI4ZDhhYzM4MDBkODJjZmZmZDM0OGJiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzc2MzMyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.dTcxfLIwmHa5IBppjHe5waKn07wbuObxeHdXgOwEswts-7rhtVZvl4VPcsbqAo-YC_b8OSTyTnoCzd2fii6H0C0Yhrl4bc_1T3iey68URNoa9g7GfOmTGvbd-xiIJqNhFGqxolm_vqfreCOEZ5GZy29-h-uDHZhGI0M21TPtZ_R1PUIOc6RnRg_ec6Ekl-YJQBM7x_FVlntUNj-zX2ILJdk6f94D7SI6XZq7kXGnmJNB9YLTlhZy7NKk0287f1Ik2h-LfXOy0ha0GQtUrk2zrN5UZpp7X2Dp_Ktg8xEUV7DPZ_UD02W4swgqe_7gLRJg3HYrslidgmxHwZmz0llOuA/manifest/video.m3u8?CMCD=cid%3D%221789733133047%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22cdf7d9e9-2206-45f8-ac50-5dd371618ab2%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NjJiMTMyNmI4ZDhhYzM4MDBkODJjZmZmZDM0OGJiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzc4NDcxLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.POo2dKm5MT43ASnnxTtADnFclWYZJPWnSB8WPftomaygHfF-_X-VwC1y6qS2MThukvKQRY7gOttXWN0wUjRnzaFbxPPWbBEB1xhcKl2oLc5eAwtgZ7fq4dkyZiEQeowSwX3iRrGS8lu3lDYKTisCG1i8GHjhLxGGIavS9Vmx2XSqrTcuhBdpeCyZ2fhVIyMqi3Zf9jplBuqT6mEp5eGRizH9oYqJpMGMJvKlRhM6ocOglHdtI-WRfqD5IE3PmTzARQSj0ue5QyLKWKegWJfElDeJEXM1nhfVlhPjb1VOrGGRyMF1gTY5dUABocMkFvoikcHOjXM36tuvBVEt6X0liw/manifest/video.m3u8?CMCD=cid%3D%221789735272364%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2214f599e7-c26b-4bd3-bc87-9c28d224d9a3%22%2Csu"
                                 }
                             ],
                             "extra_info": [
@@ -6684,22 +6691,6 @@
                             "extra_info": []
                         },
                         {
-                            "name": "Tele 7",
-                            "web": "https://tele7.tv/tele-7-en-directo/",
-                            "logo": "https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200",
-                            "epg_id": null,
-                            "options": [
-                                {
-                                    "format": "m3u8",
-                                    "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
-                                    "geo2": null,
-                                    "res": null,
-                                    "lang": null
-                                }
-                            ],
-                            "extra_info": []
-                        },
-                        {
                             "name": "Hamaika TV",
                             "web": "https://www.hamaika.eus/zuzenean",
                             "logo": "https://graph.facebook.com/HamaikaTb/picture?width=200&height=200",
@@ -6860,28 +6851,12 @@
                             "epg_id": "TPA.TV",
                             "options": [
                                 {
-                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NTQ0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.0bMzl1SLElk8_y691OzdGtT2CDbchI-v1yxmo5g7Pu0/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8"
+                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NTYyMDIsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.4EOY-XmI0dFBfFKX24LXUYTZgdZCQdOpXrxx6cHLNwE/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8"
                                 }
                             ],
                             "extra_info": [
                                 "EXTA"
                             ]
-                        },
-                        {
-                            "name": "Junta General del Principado de Asturias",
-                            "web": "https://www.jgpa.es/emision-en-directo",
-                            "logo": "https://pbs.twimg.com/profile_images/2030898420681232384/TBZNbHLJ_200x200.jpg",
-                            "epg_id": null,
-                            "options": [
-                                {
-                                    "format": "m3u8",
-                                    "url": "https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8",
-                                    "geo2": null,
-                                    "res": null,
-                                    "lang": null
-                                }
-                            ],
-                            "extra_info": []
                         },
                         {
                             "name": "Gobierno del Principado de Asturias",
@@ -6906,20 +6881,6 @@
                 {
                     "name": "R. de Murcia",
                     "channels": [
-                        {
-                            "name": "La 7",
-                            "web": "https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html",
-                            "logo": "https://graph.facebook.com/la7tele/picture?width=200&height=200",
-                            "epg_id": "7RM.TV",
-                            "options": [
-                                {
-                                    "url": "https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc4OTc0MTE3M30.l-CtrSQW5bq4fHC6sFV3tibMq-iAuFRmz05xOuY3uHc"
-                                }
-                            ],
-                            "extra_info": [
-                                "EXTA"
-                            ]
-                        },
                         {
                             "name": "Popular TV Murcia",
                             "web": "https://populartvrm.com/directo",
@@ -7613,20 +7574,6 @@
                             ]
                         },
                         {
-                            "name": "RTP 2 Portugal",
-                            "web": "https://www.rtp.pt/play/direto/rtp2",
-                            "logo": "https://graph.facebook.com/rtpdois/picture?width=200&height=200",
-                            "epg_id": "RTP2.TV",
-                            "options": [
-                                {
-                                    "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd?tk=1789786800_6ef2078cd83a130a08cdb5cfa154c294cb18ee7b"
-                                }
-                            ],
-                            "extra_info": [
-                                "EXTA"
-                            ]
-                        },
-                        {
                             "name": "RTP Notícias",
                             "web": "https://www.rtp.pt/play/direto/rtp3",
                             "logo": "https://graph.facebook.com/rtpnoticias/picture?width=200&height=200",
@@ -7789,7 +7736,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=qoz2t7COtJaGPQpQ9hOoZQ&e=1789748060"
+                                    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=b1eRCz8mL7xvN-pyHXuxDQ&e=1789750332"
                                 }
                             ],
                             "extra_info": [
@@ -7803,7 +7750,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=9f12c8073b640fc66029bbdfc25c89d9&gdpr=1&gdpr_consent=CQqvPYAQqvPYAAcABBTRCwFgAAAAAEPgAChQAAAZoABMNDogDLIgUCBQEIIEACgrCACgQBAAAkBRAQAmDAhyBgAusIkAIAUAAQQAgABBgACAAASABCIAIACAQAgQCBQABgAQBAQAMDAAGAChEAgABAdAxSAggECwASIwoDBAhAAQCAlsqEEoGBBHCFIscAggREwUAACIABUBAIB4WAhJKiViQQBcQXQAIAAACUYIoCKQEwBRUGQLQVgScBkaYAg-YJEkOgiAJghIyDIhJUEg8UxRAghyA2KWYA6eIKAGXayQh_qBZsAXIl2HUlYAAAAA.YAAACHwAAAAA&dfp_paln=AQzzBGQEJPM3Xr-uqVzCXQdGQZH21g6q-CM0pBGOPraicwTIm-XkgU3aNCua3sDRXvxBGeHxMUpNOgDbPRvIBfNURx3DRmn_32FkRpOl1oxFM6AWrULcHswZct4ubC2-syLn7KXCvkUbtckwXWAUkqinNeESBTmx2so10ggRgGf2WdMt2uwIKR_R3tOUjxk_1dGrkBvNYbpR2AP0Lhs55NYMv-j25FRiTrKYZ_eV6DV_dR3vTs9BrBkP0RXqAeeznP4bT744r_D1nr_sE2LpsZa15PKRch4UZTblWK-qbpwHs3q4gyV8V8MlwuH8uuF3LD8w3TiFxRSRZltH89XZNt0t71V1wUJkHU60SS0p4fHyWeB31aYEQ0m0oFsrvo4SAeTwYVlKEdJyya5AqD6KvotJK2pSnhfURCYSiN94AbAF2GEZS32ag3XA9-oCGkwpW5TKX2roumyVI5NAOHIfcq0q5HTXCt-wtnF2op4LExlLA8MqvC055XxKbw_7dLyamwSVTdL0qm_n0BGcd8s-yDV6LC5wtpURdTag3We8pQAkNHDMA-XUpp2wrvpcGbbLVHoCWjO-g7EBAr6Eitt8rUfZ4Wd-TiCGcUp2EycUkdfH1e5TnY_Q80Y3LqcpIHWuwJ_WZffiY-iKF0trebYUBoGAcEdCXmlYzJ-weeH-hKgIeSdgcX1CLuGh_z2evGwZnuwSOBznV-Y5iNgFUz7n16wliJiWU4cj8nfPwuDGN-lQ3hKuYq-sjmvfoAODKv-KeEKTwUqxn0vD24yUvocr5gSZpJHqYzdYGKPe2ERfv9i7kcMHqC0meuN5g7u3MNHoQwkiebQoTPU8NOOU7kKQb_JltR6WIy-VsCHOYFX4gV19Ko37jXHln3KlCSJaWzGdLPvd3ukYHVVcki8sinNOGT79zj2sI1KoXEqsI6JiNG0e4SGUwLYKdBe-tOFxEXG0KWrwQWZEV1o_lWl2PXQYvmtbUT4fE6Ckibg7FaxPGdAZhIIW1hmI0_3IlK4gQnghdkUseCcDPEk2Y-TA8eZkp1CDz_lRyusSl_h-jbBJfF_pez8999bkkNetZMVCeMGqRaTdzY4WsH6WC8gAp7-ZNXfxSyp10eXULSTwxfKFfDrIIXm8QJQxjOJuxiuVO0Qv8xzrXfvXeKqKudv7IVmzt_rr-Nmzt8yTZ6e7B1F1xj596xfMi-OdZIUeUMx0qu05fU8-Uv0uDW43WpSmnYZ4vZ9X86zhDW_04eluRQL9Gtq26nrmn8kY1EZkwvc6oCVigtO37afne29Mf6Y4qcHIL1jyIVTUO3CUKUEFc2frH77-wRn0hGTyUK4gRcKGbb51-w2n5e3OIfs3g60jpQ.."
+                                    "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=0910fdfb54127be14104063461f0b38a&gdpr=1&gdpr_consent=CQqvPYAQqvPYAAcABBTRCwFgAAAAAEPgAChQAAAZoABMNDogDLIgUCBQEIIEACgrCACgQBAAAkBRAQAmDAhyBgAusIkAIAUAAQQAgABBgACAAASABCIAIACAQAgQCBQABgAQBAQAMDAAGAChEAgABAdAxSAggECwASIwoDBAhAAQCAlsqEEoGBBHCFIscAggREwUAACIABUBAIB4WAhJKiViQQBcQXQAIAAACUYIoCKQEwBRUGQLQVgScBkaYAg-YJEkOgiAJghIyDIhJUEg8UxRAghyA2KWYA6eIKAGXayQh_qBZsAXIl2HUlYAAAAA.YAAACHwAAAAA&dfp_paln=AQzzBGQEBiLWXrwQL_ILeumA6zLFEO49H7e3BDAl75FCmUaqzmB-vA9uGowD8RZcyyOpjRJuKUeSayInjxMfuTWJyTq3kvCmxegoutIbEYSfy7pekx7pRPMazCFZ6n2DXeHCFIT5Aoasj1Oz8jHecAAu7RKcor_g7-j-19Rpa9D4-ZcOYslMLP3nRst3icNl3S1SnoUM-JZ4VAhx7b52GrILzU5KoD6-gVkFwSusiUM-LKjQsc6G5abhjYv-q9PDsJB9SG-K05p9RSLLMzaSj-b_nHV7BU7YpaO2aUtRdGg1bxAKSbJCKsDUOZdOLLJ9Ii2UvUeAwDBLYrnivjiVfTo_TLYZ5RJjTBILWqaZMonCawbgrtGs6A5pNf4r-WRTyVk6OAU0Ag8lVhg2s869PxNv977_04b6mITylJ9aS16JQzarju1ATVSKBjeI2aK-EHlDYcvydUaX_Loy11qCmQhDrUYYMv8TjWp_xbPYRB_7dIK1kOC4NniV9n1OCLXHbC6xVFuuCWmpkhaMULeaDu-k61D31HmhNU9V2WgJabWRYdXnoVv7ASYjxsQtxnf5FAKgy_rwOiZ7Q-o9vH_-_yKZ2NjcRDDamDxiSCskF0PuTIBtZ4KNU3EjRXBtvaEGNUboSvk4Zg7z2WAdLJWL-CtB2NnBHoXnaqSlZF0YDf9X4A2T3IJJY6u9cq4rsGETGfJ425lzuaeFpk-WubkQBJy-oxOR_B7RoOBD_8o7l1xYCfp7gB6JBZyZd0qOVvb5wdflo7T9EKwSqlBTKdPtLuXlogIgOYSK70X7U3qQQ1mqCyZQbl6mzmEXZzg6VIPvg5jDzV1UO7_2Q_Zpr692iOgjHBwS4i7XcQW-QYSmH5Aopv1OFp7YdyH48NeBUi0ffkXnYloooRa5hXbtFnN6V_fFcja4i1VYNnvK5vULhnrn-7KDBQoyu_NIjetogsk5xD6u_KkgO9qHbQynje4Y7fx0nDdbCGwZhyn2I9jdhSgsi5aQZSKI_lDbkGgJyFKGJge4pWSaWi5qE-cf7-QOJcXx-fCS7H0d67iU2v7FoqfdrPScIK-qZHULaxZfxR6TTtfyPERKTcgUVzQyAMQpGo9fiaFYLgJQ3fyfbZtevYAn_ROELRfoBtwEMh9iOtsUuu1wdiDl3bG2LkDfrv8o_MYLKGRvWW3lu8OBq9_N4MeWSkp2B2exr1xkE2pGwg6S_CdYcL5_-yqJFM5UMteWyYBdNKPU5lA0k0pVmDv7YfiGe8uDILWrO-tKpZVwPcgG1-fSwvD7vlFiTrpzQNj2yAqF7KMbOBP7S153D1Grsw7CbsqwyF59hPBGTgq-MO9CV6qEBX9oj-VBVc7Dt28."
                                 }
                             ],
                             "extra_info": [
@@ -8095,13 +8042,6 @@
                                 {
                                     "format": "m3u8",
                                     "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
-                                    "geo2": null,
-                                    "res": null,
-                                    "lang": "EN"
-                                },
-                                {
-                                    "format": "m3u8",
-                                    "url": "https://www.bloomberg.com/media-manifest/streams/us-event.m3u8",
                                     "geo2": null,
                                     "res": null,
                                     "lang": "EN"
@@ -8785,7 +8725,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(P0GOQ-djOlyVwogbZ2l39lS-cJ13f6alDlwcgA2bmj9wx6mUe5mm6IoSQUtMncdpkslZwc6FpoDz4yRD0nlKzZGBcvg-8DPXWb6-oC4MMLcFcrcrQHQITqZqGiIN7SIK)/cloud/3/xa50i1c/s/live-720.m3u8"
+                                    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(nh27bSTFBc1qrTFZURtIRZgLSXYQnI1iReph26LJXCDG762p6i3qeCYJc1G1xAvoCWgYaT2o7qF6qh538MY96XD-r742KiTf7OF_AuGIMn3ItB2fwRq6CbDZRvFWfC1M)/cloud/3/xa50i1c/s/live-720.m3u8"
                                 }
                             ],
                             "extra_info": [
@@ -9219,7 +9159,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=57b8cfcf6581a291bfd9bf94db860c7d7abaab6ffc9bd1124c80e743183b382f&exp=1789734097"
+                                    "url": "https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=8639db01b753ec21ca8b828b721517577b7ff0734fd5ef57c81a2930a2e0e013&exp=1789736277"
                                 }
                             ],
                             "extra_info": [
@@ -9233,7 +9173,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=73203fbfb122038776032463c2d9adce2383a10c505c04a1f4086e6053b62474&exp=1789734106"
+                                    "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=0a6077e53d01b044281d531b2f359a44e6e10f08cdfa584894bec8bdafba6738&exp=1789736285"
                                 }
                             ],
                             "extra_info": [
@@ -9247,7 +9187,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=04e7a429f85416e3f3eafec7463ea608f516769014d97864d4346da7069be6de&exp=1789734123"
+                                    "url": "https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=b46d02b37437be6577c91a4126712e0e9425ea0c2259595ff3f6769eb1a94388&exp=1789736302"
                                 }
                             ],
                             "extra_info": [
@@ -10149,7 +10089,11 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rasd.tv/playlist.php?type=channel&id=1&format=json&timestamp=1789734265"
+                                    "format": "m3u8",
+                                    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1",
+                                    "geo2": null,
+                                    "res": null,
+                                    "lang": null
                                 }
                             ],
                             "extra_info": []
@@ -10601,7 +10545,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://ca2.oxira.net.pe/bestcablesports/index.m3u8?token=5155b5f171d92d946341bbd9f0950d4d1b11905b-a47b9048aacf0bc3328c4ea3d933d92b-1789744800-1789734000&remote=79.72.63.218"
+                                    "url": "https://ca2.oxira.net.pe/bestcablesports/index.m3u8?token=e62f6faf3467d667e5d7aa4919ad86c767bc6f2d-734c6d0b0a258984cd8525eb809f06f5-1789746975-1789736175&remote=79.72.63.218"
                                 }
                             ],
                             "extra_info": [
@@ -10652,7 +10596,7 @@
                             "epg_id": "IbizaGlobal.TV",
                             "options": [
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzc3NTE5LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.UA0424O3Sl53tByU6uMZLBHDZobXYjNYZlgf42LiSZzhV5wkzae3lWcCvV9CzowbSkOdPUYwHpbtYLvXSCwuKJYKNXlpE70DFuF1VpqjHZ8-wp2lkaGxFzhJtr8t7s8ePNWJ1fiwn98GotGvsXqNcs4MSV99h2kQ3hTsJg1QJXubpDiAOqs5CaqA7F4Kp2eZpj_jn3s8O3GyWP4egnUYk7O9IkBZIg3kSwhWIAm0cxl-c4nf6ksshsBg5p7931OAvkgatDd3DSeGBPR8J_oWmNlTAtojeIRMAFE8ct-_13Cy5ULetmhoDkscQ92YDFklcSi4LRWT7N0-t6fOcqTC7A/manifest/video.m3u8?CMCD=cid%3D%221789734319552%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228c9c29b8-ba4f-434a-a1c9-f2db295ae2c4%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzc5Njk3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.bsqAQMtrATolY12vSfxkrxrS45b7DHTu3kASPlwl4ogD0HmmK-rTZ5dJ6GyVqGly5NesXWfldi8Akh-gAPybffWcWCBq7MEkumQjOxev70zfbjlxPOVxTKSvkdvuTchbTAZCPkw8-RONoMVSXWmVaB1MPXMURTddExrpf3X5RU1cBdzuMQqJ5wJSw0LjQqdQebi2YCEZ4al-EzZSzJZh1a1VqeBQ6_jwkm1PwSF48aFKJlErRnr2_82MpA5Tsu8fBBmL89ngNOaBlbdMlBUj9x2VjC6Rx4HbA9PmVjxtEP2JzkjFH6DoL3yI_2BbTn8nCOfQIJkew6URBJ3c1NQk6w/manifest/video.m3u8?CMCD=cid%3D%221789736497404%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225e1b9348-157c-46ec-9281-799da470aec8%22%2Csu"
                                 }
                             ],
                             "extra_info": [
@@ -11217,7 +11161,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://vsd115.okcdn.ru/hls/229927553538.m3u8/sig/8uMr1egnpBw/expires/1789820763807/srcIp/79.72.63.218/urls/95.163.35.107/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p"
+                                    "url": "https://vsd288.okcdn.ru/hls/229927553538.m3u8/sig/JBlM47o-XQk/expires/1789822941797/srcIp/79.72.63.218/urls/95.163.35.52/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p"
                                 }
                             ],
                             "extra_info": [
@@ -11287,7 +11231,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1789734377&wowzatokenendtime=1789735377&wowzatokenhash=tkcUiHOOSPKvZuzx04YOGdgkqP6lHEByjWD1_ILvdDQ="
+                                    "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1789736555&wowzatokenendtime=1789737555&wowzatokenhash=sHTaP4w1Q7qqiQvLOeGXG85I5qPdq4PQ1_VcAe-kp7Q="
                                 }
                             ],
                             "extra_info": [
@@ -11301,7 +11245,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://server80.servistreaming.com:3477/stream/play.m3u8?_=1789734392532"
+                                    "url": "https://server80.servistreaming.com:3477/stream/play.m3u8?_=1789736570644"
                                 }
                             ],
                             "extra_info": []
@@ -11793,7 +11737,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg5ODIwODU1LCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.R-oL37AtyMA1RBqSiK7mB-OALIOQE6nMIFIV8lT0RDc"
+                                    "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg5ODIzMDMyLCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.lXdP-D3cl-4Og_FPnr8f91JtgHTURpHbo6OS1Qlzez4"
                                 }
                             ],
                             "extra_info": [
