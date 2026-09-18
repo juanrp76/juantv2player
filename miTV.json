@@ -656,10 +656,10 @@
                             "epg_id": "Betis.TV",
                             "options": [
                                 {
-                                    "url": "https://betistv-live.flumotion.com/3eJSfUvIoSS5zdflOInYxA/1789757340/betistv/live_all/playlist.m3u8"
+                                    "url": "https://betistv-live.flumotion.com/hK9H55TkMPTcHFef6TuzEg/1789766685/betistv/live_all/playlist.m3u8"
                                 },
                                 {
-                                    "url": "https://betistv-live.flumotion.com/3eJSfUvIoSS5zdflOInYxA/1789757340/betistv/live_all/betistv/live_720p/chunks.m3u8"
+                                    "url": "https://betistv-live.flumotion.com/hK9H55TkMPTcHFef6TuzEg/1789766685/betistv/live_all/betistv/live_720p/chunks.m3u8"
                                 }
                             ],
                             "extra_info": [
@@ -3207,13 +3207,13 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NjJiMTMyNmI4ZDhhYzM4MDBkODJjZmZmZDM0OGJiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzg2NzM0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.IZplccENwyBSo-_QO2HkdZyYsclgfHbXervzHWNUWNTp-EEbEraMlMTZTUapg4qOka1cSab4bP2yfYFXLhkvf1rzMiUqBWrlyjGwwWG0lUT54dTzhS5pVcPFtdUNdQ3yTzrcqgl0a1kFSb-uX4y5glrGhnAkbCjN9bjBC6tJ_6R-6jS2yPLq2-z1VWvC353mC554G0DBzWxE3pEQYkFyZj31wnYH7INWRCo-LPcC3tNvokdJ_ExAh1m-ubSuEO8KIE-WeN1mMxXvZ2HWtn169K9JM5aEeNcPO6E5bGMI7Z7iO9301tZKXp_Oo4ybEUN22AiNi7QQ0ot_xK601-Qe7A/manifest/video.m3u8?CMCD=cid%3D%221789743534732%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2258339023-439a-4457-aec3-2320cdec4bbf%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NzAwMTNhYzc4MTcxYzViYjdlYTIwZDQ1YWViMDkxNSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzk2MDg3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.VuMyLn8rabEvRpSR-f9Q6yG_SjGVzH9M9dKy138cscNVJOUj4AmHtk1ooGolKKjNGeoLCGXH30UrgYDlu8i0MBptoZO22WDlIL8BcFGhj05V2qTFQZfJy_8RQ4AZpgDq6snzJpir98XE0eQ8oBvA1NY6RRms5zH6v-GABGQtW59yns70jFtPhkK3Q_MrfDV0XKsq1av759kois3jZ2YOXqn0-ShLdbdmzq0SozVvLHlXQxfpMUKDxVuRlazbvI7FciCMxpEunC64-r1SHZ30KjEzmwucKcgmIkZOwUiEQ0yrIb2OEZ3ytvSDUWg79oD0O9y5x8pxK7E4FcNd1wSBKw/manifest/video.m3u8?CMCD=cid%3D%221789752887841%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22864c5d81-5301-4c02-acc9-cbeb7ffb3508%22%2Csu"
                                 },
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NjJiMTMyNmI4ZDhhYzM4MDBkODJjZmZmZDM0OGJiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzg2NzM0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.IZplccENwyBSo-_QO2HkdZyYsclgfHbXervzHWNUWNTp-EEbEraMlMTZTUapg4qOka1cSab4bP2yfYFXLhkvf1rzMiUqBWrlyjGwwWG0lUT54dTzhS5pVcPFtdUNdQ3yTzrcqgl0a1kFSb-uX4y5glrGhnAkbCjN9bjBC6tJ_6R-6jS2yPLq2-z1VWvC353mC554G0DBzWxE3pEQYkFyZj31wnYH7INWRCo-LPcC3tNvokdJ_ExAh1m-ubSuEO8KIE-WeN1mMxXvZ2HWtn169K9JM5aEeNcPO6E5bGMI7Z7iO9301tZKXp_Oo4ybEUN22AiNi7QQ0ot_xK601-Qe7A/manifest/stream_t5f493ffc799f94fef0b7501ddabf7fcf_r1894392757.m3u8?llhlsHBs=0.9&lps=4095a9632f4338ab&rcu=1789743654888&CMCD=cid%3D%221789743534732%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2258339023-439a-4457-aec3-2320cdec4bbf%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NzAwMTNhYzc4MTcxYzViYjdlYTIwZDQ1YWViMDkxNSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzk2MDg3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.VuMyLn8rabEvRpSR-f9Q6yG_SjGVzH9M9dKy138cscNVJOUj4AmHtk1ooGolKKjNGeoLCGXH30UrgYDlu8i0MBptoZO22WDlIL8BcFGhj05V2qTFQZfJy_8RQ4AZpgDq6snzJpir98XE0eQ8oBvA1NY6RRms5zH6v-GABGQtW59yns70jFtPhkK3Q_MrfDV0XKsq1av759kois3jZ2YOXqn0-ShLdbdmzq0SozVvLHlXQxfpMUKDxVuRlazbvI7FciCMxpEunC64-r1SHZ30KjEzmwucKcgmIkZOwUiEQ0yrIb2OEZ3ytvSDUWg79oD0O9y5x8pxK7E4FcNd1wSBKw/manifest/stream_t09b39c5a077e32c767905b10c7bef970_r1896287643.m3u8?llhlsHBs=0.9&lps=7581e99d37f43545&rcu=1789753008071&CMCD=cid%3D%221789752887841%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22864c5d81-5301-4c02-acc9-cbeb7ffb3508%22%2Csu"
                                 },
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NjJiMTMyNmI4ZDhhYzM4MDBkODJjZmZmZDM0OGJiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzg2NzM0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.IZplccENwyBSo-_QO2HkdZyYsclgfHbXervzHWNUWNTp-EEbEraMlMTZTUapg4qOka1cSab4bP2yfYFXLhkvf1rzMiUqBWrlyjGwwWG0lUT54dTzhS5pVcPFtdUNdQ3yTzrcqgl0a1kFSb-uX4y5glrGhnAkbCjN9bjBC6tJ_6R-6jS2yPLq2-z1VWvC353mC554G0DBzWxE3pEQYkFyZj31wnYH7INWRCo-LPcC3tNvokdJ_ExAh1m-ubSuEO8KIE-WeN1mMxXvZ2HWtn169K9JM5aEeNcPO6E5bGMI7Z7iO9301tZKXp_Oo4ybEUN22AiNi7QQ0ot_xK601-Qe7A/manifest/stream_t677cc78ca537e1f6ddd12bb214bf7307_r1894392758.m3u8?llhlsHBs=0.9&lps=4095a9632f4338ab&rcu=1789743654888&CMCD=cid%3D%221789743534732%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2258339023-439a-4457-aec3-2320cdec4bbf%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NzAwMTNhYzc4MTcxYzViYjdlYTIwZDQ1YWViMDkxNSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzk2MDg3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.VuMyLn8rabEvRpSR-f9Q6yG_SjGVzH9M9dKy138cscNVJOUj4AmHtk1ooGolKKjNGeoLCGXH30UrgYDlu8i0MBptoZO22WDlIL8BcFGhj05V2qTFQZfJy_8RQ4AZpgDq6snzJpir98XE0eQ8oBvA1NY6RRms5zH6v-GABGQtW59yns70jFtPhkK3Q_MrfDV0XKsq1av759kois3jZ2YOXqn0-ShLdbdmzq0SozVvLHlXQxfpMUKDxVuRlazbvI7FciCMxpEunC64-r1SHZ30KjEzmwucKcgmIkZOwUiEQ0yrIb2OEZ3ytvSDUWg79oD0O9y5x8pxK7E4FcNd1wSBKw/manifest/stream_tf0f97b05cb68ffa2e2ba92093b5c5635_r1896287644.m3u8?llhlsHBs=0.9&lps=7581e99d37f43545&rcu=1789753008071&CMCD=cid%3D%221789752887841%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22864c5d81-5301-4c02-acc9-cbeb7ffb3508%22%2Csu"
                                 }
                             ],
                             "extra_info": [
@@ -3436,10 +3436,10 @@
                                     "url": "https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3"
                                 },
                                 {
-                                    "url": "https://eu.mdstrm.com/live-stream-playlist/699341cfc03fcc0e33b898c3.m3u8?_=1789743573290&dnt=true&player=699bddbe0712fddd5e3b3f72&access_token=eFTper6m5p7OfHE7r84eX0zsUNKghll5v5SWyr51YPd6wqfXMEJ3PMlZC3icdKFKkgcfuBRBl3d&uid=sBVl5KPJUrB0TREBqcIQeAeR5sYFCTrl&sid=1X7if6H56raqgPKpzrecca9dWpUBYZGG&pid=fWiMwaKZxrwO5CtVvU8h64GhHskHrV7O&an=aragon-play-app-web&at=web-app&av=v1.0.104&sc=0&ref=www.aragonplay.es&res=1920x1080&ext_pb=0&CMCD=cid%3D%22699341cfc03fcc0e33b898c3%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fWiMwaKZxrwO5CtVvU8h64GhHskHrV7O%22%2Csu"
+                                    "url": "https://eu.mdstrm.com/live-stream-playlist/699341cfc03fcc0e33b898c3.m3u8?_=1789752926887&dnt=true&player=699bddbe0712fddd5e3b3f72&access_token=3qcKpbypBkjDVdb3ARS5xGaFnUF6ZIfkw9T75TDb8GQSk6yQzTy02mzm7FRCRXFyXWY27XCnIam&uid=ZRRdzNd4y3kyuUcitjHevMXaffOkBQaj&sid=pVUm2DM4AO2GW42Hxg6Y3lAiHBR6KyMX&pid=vsEBW9sRaPf1lE6jHd6J9zOb0BsoNVYN&an=aragon-play-app-web&at=web-app&av=v1.0.104&sc=0&ref=www.aragonplay.es&res=1920x1080&ext_pb=0&CMCD=cid%3D%22699341cfc03fcc0e33b898c3%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22vsEBW9sRaPf1lE6jHd6J9zOb0BsoNVYN%22%2Csu"
                                 },
                                 {
-                                    "url": "https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-secure/699341cfc03fcc0e33b898c3/publish/media_2500.m3u8?aid=698b79117070d0ead9468dda&dnt=true&access_token=eFTper6m5p7OfHE7r84eX0zsUNKghll5v5SWyr51YPd6wqfXMEJ3PMlZC3icdKFKkgcfuBRBl3d&uid=sBVl5KPJUrB0TREBqcIQeAeR5sYFCTrl&sid=1X7if6H56raqgPKpzrecca9dWpUBYZGG&pid=fWiMwaKZxrwO5CtVvU8h64GhHskHrV7O&ref=www.aragonplay.es&ext_pb=0&es=eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com&proto=https&pz=eu&CMCD=cid%3D%22699341cfc03fcc0e33b898c3%22%2Cmtp%3D2900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fWiMwaKZxrwO5CtVvU8h64GhHskHrV7O%22%2Csu"
+                                    "url": "https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-secure/699341cfc03fcc0e33b898c3/publish/media_2500.m3u8?aid=698b79117070d0ead9468dda&dnt=true&access_token=3qcKpbypBkjDVdb3ARS5xGaFnUF6ZIfkw9T75TDb8GQSk6yQzTy02mzm7FRCRXFyXWY27XCnIam&uid=ZRRdzNd4y3kyuUcitjHevMXaffOkBQaj&sid=pVUm2DM4AO2GW42Hxg6Y3lAiHBR6KyMX&pid=vsEBW9sRaPf1lE6jHd6J9zOb0BsoNVYN&ref=www.aragonplay.es&ext_pb=0&es=eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com&proto=https&pz=eu&CMCD=cid%3D%22699341cfc03fcc0e33b898c3%22%2Cmtp%3D2900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22vsEBW9sRaPf1lE6jHd6J9zOb0BsoNVYN%22%2Csu"
                                 }
                             ],
                             "extra_info": [
@@ -5137,13 +5137,7 @@
                                     "url": "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls-dvr.m3u8"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=aa193eff8e7c1b3f64373f34&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Ftelemadrid&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&delivery_type=ondemand&time=1789744014100&event=play_request&video=6389770581112&video_name=Telemadrid&reference_id=Live_Telemadrid&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=false&tags=&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389770581112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU%2Fplaylist-hls-dvr.m3u8&seq=4_-1"
-                                },
-                                {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=aa193eff8e7c1b3f64373f34&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Ftelemadrid&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&delivery_type=ondemand&media_type=video&time=1789744014059&event=video_impression&video=6389770581112&video_name=Telemadrid&reference_id=Live_Telemadrid&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=false&tags=&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389770581112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=5_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.48.4%22%2C%22requestMode%22%3A%22onload%22%2C%22timeout%22%3A4000%7D&preload=auto"
-                                },
-                                {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=aa193eff8e7c1b3f64373f34&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Ftelemadrid&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&delivery_type=ondemand&media_type=video&time=1789744014100&event=video_view&video=6389770581112&video_name=Telemadrid&reference_id=Live_Telemadrid&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=false&tags=&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389770581112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU%2Fplaylist-hls-dvr.m3u8&seq=6_0&start_time_ms=-1"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=5a75e63c7df81e12514c1ce&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Ftelemadrid&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&delivery_type=ondemand&time=1789753382928&event=play_request&video=6389770581112&video_name=Telemadrid&reference_id=Live_Telemadrid&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=false&tags=&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389770581112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU%2Fplaylist-hls-dvr.m3u8&seq=4_-1"
                                 }
                             ],
                             "extra_info": [
@@ -5164,7 +5158,7 @@
                                     "url": "https://live.telemadrid.cross-media.es/6389770474112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNDc0MTEyIn0.1KSxZK60xNAZZsa7dbYR8Equ8aG930d6qFDsYKUmmdE/playlist-hls-dvr.m3u8"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=ea1e70dedbc54c93cf812a1&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Flaotra&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&media_type=video&time=1789744019666&event=video_impression&video=6389770474112&video_name=LaOtra&reference_id=Live_LaOtra&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=tm%2Cemisiones%20en%20directo&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389770474112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNDc0MTEyIn0.1KSxZK60xNAZZsa7dbYR8Equ8aG930d6qFDsYKUmmdE%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=4_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.48.4%22%2C%22requestMode%22%3A%22onload%22%2C%22timeout%22%3A4000%7D&preload=auto"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=5b087580c048fe8425a7f004&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Flaotra&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&media_type=video&time=1789753386305&event=video_impression&video=6389770474112&video_name=LaOtra&reference_id=Live_LaOtra&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=tm%2Cemisiones%20en%20directo&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389770474112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNDc0MTEyIn0.1KSxZK60xNAZZsa7dbYR8Equ8aG930d6qFDsYKUmmdE%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=4_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.48.4%22%2C%22requestMode%22%3A%22onload%22%2C%22timeout%22%3A4000%7D&preload=auto"
                                 }
                             ],
                             "extra_info": [
@@ -5251,7 +5245,7 @@
                                     "url": "https://live.telemadrid.cross-media.es/6389769037112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzY5MDM3MTEyIn0.mSEPQICNIKBAWWzolDpDk6cERGe7k93rkqQunSc6cG4/playlist-hls-dvr.m3u8"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=95c4d0b6a20830bd74acc0c2&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Fonda-madrid-1013&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&media_type=video&time=1789744028524&event=video_impression&video=6389769037112&video_name=Onda%20Madrid%20101.3&reference_id=Live_OndaMadrid101.3&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=tm%2Cemisiones%20en%20directo&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389769037112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzY5MDM3MTEyIn0.mSEPQICNIKBAWWzolDpDk6cERGe7k93rkqQunSc6cG4%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=4_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.48.4%22%2C%22requestMode%22%3A%22onload%22%2C%22timeout%22%3A4000%7D&preload=auto"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=e03e05dd6020b58450820b55&player_mode=media&account=6416060453001&destination=https%3A%2F%2Fwww.tlmad.es%2Fpages%2Flive%2Fonda-madrid-1013&platform_version=7.48.4&player=players.brightcove.com%2F6416060453001%2Fa6CZuJSHG_default&player_name=OTT%20Player%20&source=&autoplay=play&ads_enabled=true&media_type=video&time=1789753395461&event=video_impression&video=6389769037112&video_name=Onda%20Madrid%20101.3&reference_id=Live_OndaMadrid101.3&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=tm%2Cemisiones%20en%20directo&media_url=https%3A%2F%2Flive.telemadrid.cross-media.es%2F6389769037112%2Feu-central-1%2F6416060453001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzY5MDM3MTEyIn0.mSEPQICNIKBAWWzolDpDk6cERGe7k93rkqQunSc6cG4%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=4_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.48.4%22%2C%22requestMode%22%3A%22onload%22%2C%22timeout%22%3A4000%7D&preload=auto"
                                 }
                             ],
                             "extra_info": [
@@ -5463,7 +5457,7 @@
                                     "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=d6a0db4d55481fb376f089c1&player_mode=media&account=6057955885001&destination=https%3A%2F%2Fwww.apuntmedia.es%2Fdirecte%2Fdirecte-tv_136_1392524.html&platform_version=7.40.0&player=players.brightcove.com%2F6057955885001%2FwM4NX8x9T_default&player_name=Directe%20TV%20StartOver&source=&autoplay=false&ads_enabled=true&media_type=video&time=1789744039270&event=video_impression&video=6137605659001&video_name=%C3%80%20Punt%20LIVE%20-%20DVR%204%20horas&reference_id=live%20canal%201%20-%20DVR&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=live&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F1846756479408303045%2Feu-central-1%2F6057955885001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=4_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.40.0%22%2C%22requestMode%22%3A%22onplay%22%2C%22timeout%22%3A4000%7D&preload=metadata"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=62ac316bad172819f8764ef9&player_mode=media&account=6057955885001&destination=https%3A%2F%2Fwww.apuntmedia.es%2Fdirecte%2Fdirecte-tv_136_1392524.html&platform_version=7.40.0&player=players.brightcove.com%2F6057955885001%2FwM4NX8x9T_default&player_name=Directe%20TV%20StartOver&source=&autoplay=false&ads_enabled=true&media_type=video&time=1789753405991&event=video_impression&video=6137605659001&video_name=%C3%80%20Punt%20LIVE%20-%20DVR%204%20horas&reference_id=live%20canal%201%20-%20DVR&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=live&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F1846756479408303045%2Feu-central-1%2F6057955885001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE%2Fplaylist-hls-dvr.m3u8&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=4_0&web_ad_info=%7B%22plugin%22%3A%22ima3%22%2C%22pluginVersion%22%3A%227.40.0%22%2C%22requestMode%22%3A%22onplay%22%2C%22timeout%22%3A4000%7D&preload=metadata"
                                 }
                             ],
                             "extra_info": [
@@ -5849,13 +5843,11 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://play.turesportmedia.com:4433/hls/abr_tvalmassora/index.m3u8"
-                                },
-                                {
-                                    "url": "https://play.turesportmedia.com:4433/hls/abr_tvalmassora/0_4/index.m3u8?tkn=1817986150"
-                                },
-                                {
-                                    "url": "https://play.turesportmedia.com:4433/hls/abr_tvalmassora/0_4/index.m3u8?tkn=2758741323"
+                                    "format": "m3u8",
+                                    "url": "https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8",
+                                    "geo2": null,
+                                    "res": null,
+                                    "lang": null
                                 }
                             ],
                             "extra_info": []
@@ -6715,10 +6707,10 @@
                                     "url": "https://etbon.eus/api/v1/stream/el-conquistador"
                                 },
                                 {
-                                    "url": "https://fast-cdn-eitb.mediapro-dev.com/v1/channel/eitb-etbon-conquistador/dash.mpd?start=1789743780"
+                                    "url": "https://fast-cdn-eitb.mediapro-dev.com/v1/channel/eitb-etbon-conquistador/dash.mpd?start=1789748810"
                                 },
                                 {
-                                    "url": "https://infinity-c35.youboranqs01.com/start?triggeredEvents=%5B%22playListener%22%5D&accountCode=etb&rendition=1920x1080%403.85Mbps&player=Shaka&title=T2%20Final&title2=T2%20Final&live=true&mediaDuration=84&mediaResource=https%3A%2F%2Ffast-cdn-eitb.mediapro-dev.com%2Fv1%2Fchannel%2Feitb-etbon-conquistador%2Fdash.mpd%3Fstart%3D1789743780&transactionCode=etbon&properties=%7B%22appMode%22%3A%22web%22%2C%22sessionId%22%3A%22hplg1697xq%22%2C%22seriesId%22%3A2133%2C%22epgStartDate%22%3A%222026-09-18T15%3A03%3A00.000Z%22%2C%22epgEndDate%22%3A%222026-09-18T16%3A26%3A50.000Z%22%2C%22isFastChannel%22%3Atrue%2C%22channelId%22%3A29%7D&playerVersion=v4.7.1&param1=web&param2=hplg1697xq&param3=es&param4=none&playerStartupTime=810&obfuscateIp=true&p2pEnabled=false&pluginVersion=6.8.9-shaka-js&pluginInfo=%7B%22lib%22%3A%226.8.46%22%2C%22adapter%22%3A%226.8.9-shaka-js%22%2C%22adAdapter%22%3Anull%7D&referer=https%3A%2F%2Fwww.etbon.eus%2Fch%2Fel-conquistador&adsExpected=false&deviceUUID=2ca7077eddb163ec5e9a32054a74aafc&libVersion=6.8.46&appName=etbon&appReleaseVersion=3.1.62&tvshow=T2%20Final&titleEpisode=El%20Conquistador%20(17%3A03%20-%2018%3A26)&channel=El%20Conquistador%20Finalak&contentType=movie&playbackType=online&contentId=745741&timemark=1789744137114&system=etb&sessionRoot=V_30039274_1zytpl555iu3wekg&pingTime=5&code=V_30039274_1zytpl555iu3wekg_1789744137112"
+                                    "url": "https://nqs-cgcp.youboranqs01.com/start?triggeredEvents=%5B%22playListener%22%5D&accountCode=etb&rendition=1920x1080%403.88Mbps&player=Shaka&title=T3%20C15&title2=T3%20C15&live=true&mediaDuration=90&mediaResource=https%3A%2F%2Ffast-cdn-eitb.mediapro-dev.com%2Fv1%2Fchannel%2Feitb-etbon-conquistador%2Fdash.mpd%3Fstart%3D1789748810&transactionCode=etbon&properties=%7B%22appMode%22%3A%22web%22%2C%22sessionId%22%3A%22l7rdi3szwn%22%2C%22seriesId%22%3A2133%2C%22epgStartDate%22%3A%222026-09-18T16%3A26%3A50.000Z%22%2C%22epgEndDate%22%3A%222026-09-18T17%3A56%3A32.000Z%22%2C%22isFastChannel%22%3Atrue%2C%22channelId%22%3A29%7D&playerVersion=v4.7.1&param1=web&param2=l7rdi3szwn&param3=es&param4=none&playerStartupTime=1425&obfuscateIp=true&p2pEnabled=false&pluginVersion=6.8.9-shaka-js&pluginInfo=%7B%22lib%22%3A%226.8.46%22%2C%22adapter%22%3A%226.8.9-shaka-js%22%2C%22adAdapter%22%3Anull%7D&referer=https%3A%2F%2Fwww.etbon.eus%2Fch%2Fel-conquistador&adsExpected=false&deviceUUID=a1ddae26b54a2617c7fe3faf57b7b97d&libVersion=6.8.46&appName=etbon&appReleaseVersion=3.1.62&tvshow=T3%20C15&titleEpisode=El%20Conquistador%20(18%3A26%20-%2019%3A56)&channel=El%20Conquistador%20Finalak&contentType=movie&playbackType=online&contentId=745742&timemark=1789753491174&system=etb&sessionRoot=V_30039274_dppyvadw6cik3hma&pingTime=5&code=V_30039274_dppyvadw6cik3hma_1789753491172"
                                 }
                             ],
                             "extra_info": [
@@ -6735,10 +6727,10 @@
                                     "url": "https://etbon.eus/api/v1/stream/herri-txiki"
                                 },
                                 {
-                                    "url": "https://fast-cdn-eitb.mediapro-dev.com/v1/channel/eitb-etbon-herri-txiki/dash.mpd?start=1789739869"
+                                    "url": "https://fast-cdn-eitb.mediapro-dev.com/v1/channel/eitb-etbon-herri-txiki/dash.mpd?start=1789753425"
                                 },
                                 {
-                                    "url": "https://infinity-c38.youboranqs01.com/start?triggeredEvents=%5B%22playListener%22%5D&accountCode=etb&rendition=1920x1080%403.83Mbps&player=Shaka&title=Gaintza&title2=Gaintza&live=true&mediaDuration=76&mediaResource=https%3A%2F%2Ffast-cdn-eitb.mediapro-dev.com%2Fv1%2Fchannel%2Feitb-etbon-herri-txiki%2Fdash.mpd%3Fstart%3D1789739869&transactionCode=etbon&properties=%7B%22appMode%22%3A%22web%22%2C%22sessionId%22%3A%22waqyb0xuv7j%22%2C%22seriesId%22%3A1912%2C%22epgStartDate%22%3A%222026-09-18T13%3A57%3A49.000Z%22%2C%22epgEndDate%22%3A%222026-09-18T15%3A13%3A59.000Z%22%2C%22isFastChannel%22%3Atrue%2C%22channelId%22%3A33%7D&playerVersion=v4.7.1&param1=web&param2=waqyb0xuv7j&param3=eu&param4=none&playerStartupTime=639&obfuscateIp=true&p2pEnabled=false&pluginVersion=6.8.9-shaka-js&pluginInfo=%7B%22lib%22%3A%226.8.46%22%2C%22adapter%22%3A%226.8.9-shaka-js%22%2C%22adAdapter%22%3Anull%7D&referer=https%3A%2F%2Fwww.etbon.eus%2Fch%2Fherri-txiki&adsExpected=false&deviceUUID=23b6ae4c6152d9d47b0e0c302333fe68&libVersion=6.8.46&appName=etbon&appReleaseVersion=3.1.62&tvshow=Gaintza&titleEpisode=Herri%20Txiki%2C%20Infernu%20Handi%20(15%3A57%20-%2017%3A13)&channel=Herri%20txiki%20infernu%20handi&contentType=movie&playbackType=online&contentId=749964&timemark=1789744145064&system=etb&sessionRoot=V_30039274_dulqcmo11wenku1t&pingTime=5&code=V_30039274_dulqcmo11wenku1t_1789744145062"
+                                    "url": "https://infinity-c37.youboranqs01.com/start?triggeredEvents=%5B%22playListener%22%5D&accountCode=etb&rendition=1920x1080%403.84Mbps&player=Shaka&title=Narbarte&title2=Narbarte&live=true&mediaDuration=75&mediaResource=https%3A%2F%2Ffast-cdn-eitb.mediapro-dev.com%2Fv1%2Fchannel%2Feitb-etbon-herri-txiki%2Fdash.mpd%3Fstart%3D1789753425&transactionCode=etbon&properties=%7B%22appMode%22%3A%22web%22%2C%22sessionId%22%3A%22915k1uk4dvk%22%2C%22seriesId%22%3A1912%2C%22epgStartDate%22%3A%222026-09-18T17%3A43%3A45.000Z%22%2C%22epgEndDate%22%3A%222026-09-18T18%3A58%3A57.000Z%22%2C%22isFastChannel%22%3Atrue%2C%22channelId%22%3A33%7D&playerVersion=v4.7.1&param1=web&param2=915k1uk4dvk&param3=eu&param4=none&playerStartupTime=616&obfuscateIp=true&p2pEnabled=false&pluginVersion=6.8.9-shaka-js&pluginInfo=%7B%22lib%22%3A%226.8.46%22%2C%22adapter%22%3A%226.8.9-shaka-js%22%2C%22adAdapter%22%3Anull%7D&referer=https%3A%2F%2Fwww.etbon.eus%2Fch%2Fherri-txiki&adsExpected=false&deviceUUID=89aca4279b88a29b222d0ed65c013e86&libVersion=6.8.46&appName=etbon&appReleaseVersion=3.1.62&tvshow=Narbarte&titleEpisode=Herri%20Txiki%2C%20Infernu%20Handi%20(19%3A43%20-%2020%3A58)&channel=Herri%20txiki%20infernu%20handi&contentType=movie&playbackType=online&contentId=749967&timemark=1789753499081&system=etb&sessionRoot=V_30039274_5lfb7hq17pfsbppi&pingTime=5&code=V_30039274_5lfb7hq17pfsbppi_1789753499079"
                                 }
                             ],
                             "extra_info": [
@@ -6755,10 +6747,10 @@
                                     "url": "https://etbon.eus/api/v1/stream/vaya-semanita"
                                 },
                                 {
-                                    "url": "https://fast-cdn-eitb.mediapro-dev.com/v1/channel/eitb-vaya-semanita/dash.mpd?start=1789741758"
+                                    "url": "https://fast-cdn-eitb.mediapro-dev.com/v1/channel/eitb-vaya-semanita/dash.mpd?start=1789753379"
                                 },
                                 {
-                                    "url": "https://infinity-c38.youboranqs01.com/start?triggeredEvents=%5B%22playListener%22%5D&accountCode=etb&rendition=1920x1080%403.83Mbps&player=Shaka&title=4.%20atala&title2=4.%20atala&live=true&mediaDuration=49&mediaResource=https%3A%2F%2Ffast-cdn-eitb.mediapro-dev.com%2Fv1%2Fchannel%2Feitb-vaya-semanita%2Fdash.mpd%3Fstart%3D1789741758&transactionCode=etbon&properties=%7B%22appMode%22%3A%22web%22%2C%22sessionId%22%3A%22c5pt7xcead%22%2C%22seriesId%22%3A2171%2C%22epgStartDate%22%3A%222026-09-18T14%3A29%3A18.000Z%22%2C%22epgEndDate%22%3A%222026-09-18T15%3A17%3A52.000Z%22%2C%22isFastChannel%22%3Atrue%2C%22channelId%22%3A22%7D&playerVersion=v4.7.1&param1=web&param2=c5pt7xcead&param3=es&param4=none&playerStartupTime=936&obfuscateIp=true&p2pEnabled=false&pluginVersion=6.8.9-shaka-js&pluginInfo=%7B%22lib%22%3A%226.8.46%22%2C%22adapter%22%3A%226.8.9-shaka-js%22%2C%22adAdapter%22%3Anull%7D&referer=https%3A%2F%2Fwww.etbon.eus%2Fch%2Fvaya-semanita&adsExpected=false&deviceUUID=b9a60c7e26e9aa9377c7fbcab8a19360&libVersion=6.8.46&appName=etbon&appReleaseVersion=3.1.62&tvshow=4.%20atala&titleEpisode=Vaya%20Semanita%20(16%3A29%20-%2017%3A17)&channel=Vaya%20Semanita&contentType=movie&playbackType=online&contentId=752001&timemark=1789744153555&system=etb&sessionRoot=V_30039274_21ynk1x1cfuqgwi6&pingTime=5&code=V_30039274_21ynk1x1cfuqgwi6_1789744153553"
+                                    "url": "https://infinity-c37.youboranqs01.com/start?triggeredEvents=%5B%22playListener%22%5D&accountCode=etb&rendition=1920x1080%403.82Mbps&player=Shaka&title=8.%20atala&title2=8.%20atala&live=true&mediaDuration=49&mediaResource=https%3A%2F%2Ffast-cdn-eitb.mediapro-dev.com%2Fv1%2Fchannel%2Feitb-vaya-semanita%2Fdash.mpd%3Fstart%3D1789753379&transactionCode=etbon&properties=%7B%22appMode%22%3A%22web%22%2C%22sessionId%22%3A%225xejrobbjn%22%2C%22seriesId%22%3A2171%2C%22epgStartDate%22%3A%222026-09-18T17%3A42%3A59.000Z%22%2C%22epgEndDate%22%3A%222026-09-18T18%3A31%3A57.000Z%22%2C%22isFastChannel%22%3Atrue%2C%22channelId%22%3A22%7D&playerVersion=v4.7.1&param1=web&param2=5xejrobbjn&param3=es&param4=none&playerStartupTime=920&obfuscateIp=true&p2pEnabled=false&pluginVersion=6.8.9-shaka-js&pluginInfo=%7B%22lib%22%3A%226.8.46%22%2C%22adapter%22%3A%226.8.9-shaka-js%22%2C%22adAdapter%22%3Anull%7D&referer=https%3A%2F%2Fwww.etbon.eus%2Fch%2Fvaya-semanita&adsExpected=false&deviceUUID=21ae8cb6763d66434b2558fe7ef13c59&libVersion=6.8.46&appName=etbon&appReleaseVersion=3.1.62&tvshow=8.%20atala&titleEpisode=Vaya%20Semanita%20(19%3A42%20-%2020%3A31)&channel=Vaya%20Semanita&contentType=movie&playbackType=online&contentId=752005&timemark=1789753507477&system=etb&sessionRoot=V_30039274_4qla3u6ede7gw8yz&pingTime=5&code=V_30039274_4qla3u6ede7gw8yz_1789753507474"
                                 }
                             ],
                             "extra_info": [
@@ -6958,13 +6950,13 @@
                             "epg_id": "TPA.TV",
                             "options": [
                                 {
-                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NjUyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.JTCZIDn5JoQb4D7T9kiKta_r-7Mbf2QALoQ9AB-BVnM/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8"
+                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NzQyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.3uuVlq12QDm0v4D6JIi3BF0pYhiEVLqKsgyYMgERzyo/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8"
                                 },
                                 {
-                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NjUyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.JTCZIDn5JoQb4D7T9kiKta_r-7Mbf2QALoQ9AB-BVnM/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/576p_25fps_h264_high_1M_aac_96k.m3u8"
+                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NzQyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.3uuVlq12QDm0v4D6JIi3BF0pYhiEVLqKsgyYMgERzyo/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/576p_25fps_h264_high_1M_aac_96k.m3u8"
                                 },
                                 {
-                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NjUyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.JTCZIDn5JoQb4D7T9kiKta_r-7Mbf2QALoQ9AB-BVnM/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/1080p_25fps_h264_high_2.4M_aac_128k.m3u8"
+                                    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk3NzQyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.3uuVlq12QDm0v4D6JIi3BF0pYhiEVLqKsgyYMgERzyo/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/1080p_25fps_h264_high_2.4M_aac_128k.m3u8"
                                 }
                             ],
                             "extra_info": [
@@ -6995,13 +6987,13 @@
                     "name": "R. de Murcia",
                     "channels": [
                         {
-                            "name": "La 7+",
-                            "web": "https://www.la7tv.es/video/a-la-carta/la-7/20221004091316003030.html",
+                            "name": "La 7",
+                            "web": "https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html",
                             "logo": "https://graph.facebook.com/la7tele/picture?width=200&height=200",
-                            "epg_id": null,
+                            "epg_id": "7RM.TV",
                             "options": [
                                 {
-                                    "url": "https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc4OTc1MzEwOH0.cP5K8EpZKERFTsBDaf3b7mdZiw5Zdx2PvEBFJe8psBE"
+                                    "url": "https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc4OTc1NzkzMn0.XF2t5H7cGm_g4Lhpb4RTE9vS7YTG6c32GNBIHF519-g"
                                 }
                             ],
                             "extra_info": [
@@ -7682,13 +7674,13 @@
                                     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpismilplaylistm3u8&i=Festa%20das%20Vindimas&g0=RTP&g1=RTP&u=B6fik2B3C55ICvZtx2&t=Cw2xtHUdZAk3C1-GDTZo-GX3msQ&x=0&y=0&V=153&n=1&b=1439&r=&_vd=3600000&_vi=Direto%20RTP%20Mundo%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&_vh=rtp.pt&_pu=3JUeZPVlp4F9o0D&_pt=CpeKdSC5b_2dCc5Do1CFSB2BCHHjOw&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-312926260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpismilplaylistm3u8&i=Portugal%20em%20Rede&g0=RTP&g1=RTP&u=hC44EPf3oJBOzjPY&t=C1w4_oBEwfymabT0SBtf0y9DPCEnM&x=0&y=0&V=153&n=1&b=1537&r=&_vd=3600000&_vi=Direto%20RTP%20Mundo%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&_vh=rtp.pt&_pu=CPk7p_kyfrxDMAk5P&_pt=Cm83e1Dqjc1HBJZXlAZYk4AD5BjXf&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.005&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-312926260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpinternacional&u=3JUeZPVlp4F9o0D&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&b=575&t=CpeKdSC5b_2dCc5Do1CFSB2BCHHjOw&V=153&tz=-120&_vi=Festa%20das%20Vindimas&_vp=liverepeatersmilrtpismilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-312926260903.png&_vd=3600000&sn=2&sv=MjPeDpPi5XCt---z1CvnIDtYo_b&sr=external&sd=1&im=060b0f33&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpinternacional&u=CPk7p_kyfrxDMAk5P&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&b=641&t=Cm83e1Dqjc1HBJZXlAZYk4AD5BjXf&V=153&tz=-120&_vi=Portugal%20em%20Rede&_vp=liverepeatersmilrtpismilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-312926260903.png&_vd=3600000&sn=2&sv=CcPy0pcB03fUfdKuCX76xjBq3F3J&sr=external&sd=1&im=060b0f33&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpismilplaylistm3u8&i=Festa%20das%20Vindimas&g0=RTP&g1=RTP&u=B6fik2B3C55ICvZtx2&t=Cw2xtHUdZAk3C1-GDTZo-GX3msQ&x=0&y=0&V=153&n=1&b=1439&_vd=3600000&_vi=Direto%20RTP%20Mundo%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&_vh=rtp.pt&_pu=3JUeZPVlp4F9o0D&_pt=CpeKdSC5b_2dCc5Do1CFSB2BCHHjOw&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.002&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-312926260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpismilplaylistm3u8&i=Portugal%20em%20Rede&g0=RTP&g1=RTP&u=hC44EPf3oJBOzjPY&t=C1w4_oBEwfymabT0SBtf0y9DPCEnM&x=0&y=0&V=153&n=1&b=1537&_vd=3600000&_vi=Direto%20RTP%20Mundo%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&_vh=rtp.pt&_pu=CPk7p_kyfrxDMAk5P&_pt=Cm83e1Dqjc1HBJZXlAZYk4AD5BjXf&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.007&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-312926260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
                                 }
                             ],
                             "extra_info": [
@@ -7705,27 +7697,13 @@
                                     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?tk=1789786800_adbbff3fe4d55f919220a3b9798d6345738cc29b"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtp1HDsmilplaylistm3u8tk1789786800adbbff3fe4d55f919220a3b9798d6345738cc29b&i=Festa%20das%20Vindimas&g0=RTP&g1=RTP&u=D-ju0HnlXyJBo5y71&t=erzjikopMCDzD_XgC_pm0ODJy2Yg&x=0&y=0&V=153&n=1&b=1463&r=&_vd=3600000&_vi=Direto%20RTP1%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp1&_vh=rtp.pt&_pu=CrhATCpu2nKDSr-Ff&_pt=zTjS-XKswnCoBJ-mCmurrJDqpGHV&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-372126260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtp1HDsmilplaylistm3u8tk1789786800adbbff3fe4d55f919220a3b9798d6345738cc29b&i=Portugal%20em%20Rede&g0=RTP&g1=RTP&u=CqeIF70wK46BeZvrU&t=DQWO5PDqX7N-BAJ7D5D_RNjABgeFEK&x=0&y=0&V=153&n=1&b=1434&r=&_vd=3600000&_vi=Direto%20RTP1%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp1&_vh=rtp.pt&_pu=Chdc-doUObWDJNN_k&_pt=C7jOT5CpGiPGg3ZkjDQZBmEKFV-D&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.003&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-372126260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtp1&u=CrhATCpu2nKDSr-Ff&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtp1&b=555&t=zTjS-XKswnCoBJ-mCmurrJDqpGHV&V=153&tz=-120&_vi=Festa%20das%20Vindimas&_vp=liverepeatersmilrtp1HDsmilplaylistm3u8tk1789786800adbbff3fe4d55f919220a3b9798d6345738cc29b&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-372126260903.png&_vd=3600000&sn=2&sv=D-_jNzBh-h9GNOFtxC92tzuB__jfY&sr=external&sd=1&im=060b0f33&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtp1&u=Chdc-doUObWDJNN_k&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtp1&b=542&t=C7jOT5CpGiPGg3ZkjDQZBmEKFV-D&V=153&tz=-120&_vi=Portugal%20em%20Rede&_vp=liverepeatersmilrtp1HDsmilplaylistm3u8tk1789786800adbbff3fe4d55f919220a3b9798d6345738cc29b&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-372126260903.png&_vd=3600000&sn=2&sv=DTAVZ-Dosp3XCxR2pJCWUvNqBrYXqC&sr=external&sd=1&im=060b0f33&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtp1HDsmilplaylistm3u8tk1789786800adbbff3fe4d55f919220a3b9798d6345738cc29b&i=Festa%20das%20Vindimas&g0=RTP&g1=RTP&u=D-ju0HnlXyJBo5y71&t=erzjikopMCDzD_XgC_pm0ODJy2Yg&x=0&y=0&V=153&n=1&b=1463&_vd=3600000&_vi=Direto%20RTP1%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp1&_vh=rtp.pt&_pu=CrhATCpu2nKDSr-Ff&_pt=zTjS-XKswnCoBJ-mCmurrJDqpGHV&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.002&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-372126260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
-                                }
-                            ],
-                            "extra_info": [
-                                "EXTA"
-                            ]
-                        },
-                        {
-                            "name": "RTP 2 Portugal",
-                            "web": "https://www.rtp.pt/play/direto/rtp2",
-                            "logo": "https://graph.facebook.com/rtpdois/picture?width=200&height=200",
-                            "epg_id": "RTP2.TV",
-                            "options": [
-                                {
-                                    "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd?tk=1789786800_6ef2078cd83a130a08cdb5cfa154c294cb18ee7b"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtp1HDsmilplaylistm3u8tk1789786800adbbff3fe4d55f919220a3b9798d6345738cc29b&i=Portugal%20em%20Rede&g0=RTP&g1=RTP&u=CqeIF70wK46BeZvrU&t=DQWO5PDqX7N-BAJ7D5D_RNjABgeFEK&x=0&y=0&V=153&n=1&b=1434&_vd=3600000&_vi=Direto%20RTP1%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp1&_vh=rtp.pt&_pu=Chdc-doUObWDJNN_k&_pt=C7jOT5CpGiPGg3ZkjDQZBmEKFV-D&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.009&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-372126260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
                                 }
                             ],
                             "extra_info": [
@@ -7742,13 +7720,13 @@
                                     "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=livetvhlsDVRrtpnHDdvrsmilplaylistm3u8DVR&i=Not%C3%ADcias%2016&g0=RTP&g1=RTP&u=RewkvCTFtwDDXY4n1&t=7tcC36c204B4UNnq4LKQRvkBO2&x=0&y=0&V=153&n=1&b=1330&r=&_vd=3600000&_vi=Direto%20RTP%20Not%C3%ADcias%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp3&_vh=rtp.pt&_pu=CsumdoCZsg0nB5zqtq&_pt=6OX8fS7OID2vS6WjOHGBzEqBV&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=5391032.143&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F64-042825131610.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=livetvhlsDVRrtpnHDdvrsmilplaylistm3u8DVR&i=Not%C3%ADcias%20Seis%20da%20Tarde&g0=RTP&g1=RTP&u=B6k0ZJBLlAH2CTvVu6&t=C1iLnRCynOobqTdHZuN4pDCUTsz0&x=0&y=0&V=153&n=1&b=1404&r=&_vd=3600000&_vi=Direto%20RTP%20Not%C3%ADcias%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp3&_vh=rtp.pt&_pu=B1PyesWBif1T17rc&_pt=xBylYBlhonE1h7A1BH2Gp6CNR4Iq&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=5393038.941&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F64-042825131610.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtp3&u=CsumdoCZsg0nB5zqtq&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2423&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtp3&b=542&t=6OX8fS7OID2vS6WjOHGBzEqBV&V=153&tz=-120&_vi=Not%C3%ADcias%2016&_vp=livetvhlsDVRrtpnHDdvrsmilplaylistm3u8DVR&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F64-042825131610.png&_vd=3600000&sn=2&sv=sTFErB2dZJXq5U1ZfLOlFBJwL5h&sr=external&sd=1&im=060b0f33&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtp3&u=B1PyesWBif1T17rc&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2397&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtp3&b=549&t=xBylYBlhonE1h7A1BH2Gp6CNR4Iq&V=153&tz=-120&_vi=Not%C3%ADcias%20Seis%20da%20Tarde&_vp=livetvhlsDVRrtpnHDdvrsmilplaylistm3u8DVR&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F64-042825131610.png&_vd=3600000&sn=2&sv=BF_szDBWs81mvknsFDnqr7bCOjMKy&sr=external&sd=1&im=060b0f33&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=livetvhlsDVRrtpnHDdvrsmilplaylistm3u8DVR&i=Not%C3%ADcias%2016&g0=RTP&g1=RTP&u=RewkvCTFtwDDXY4n1&t=7tcC36c204B4UNnq4LKQRvkBO2&x=0&y=0&V=153&n=1&b=1330&_vd=3600000&_vi=Direto%20RTP%20Not%C3%ADcias%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp3&_vh=rtp.pt&_pu=CsumdoCZsg0nB5zqtq&_pt=6OX8fS7OID2vS6WjOHGBzEqBV&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.007&_vpt=5396036.524&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F64-042825131610.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=livetvhlsDVRrtpnHDdvrsmilplaylistm3u8DVR&i=Not%C3%ADcias%20Seis%20da%20Tarde&g0=RTP&g1=RTP&u=B6k0ZJBLlAH2CTvVu6&t=C1iLnRCynOobqTdHZuN4pDCUTsz0&x=0&y=0&V=153&n=1&b=1404&_vd=3600000&_vi=Direto%20RTP%20Not%C3%ADcias%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtp3&_vh=rtp.pt&_pu=B1PyesWBif1T17rc&_pt=xBylYBlhonE1h7A1BH2Gp6CNR4Iq&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.002&_vpt=5398039.25&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F64-042825131610.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
                                 }
                             ],
                             "extra_info": [
@@ -7765,13 +7743,13 @@
                                     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpmadeirasmilplaylistm3u8&i=RTP%20Not%C3%ADcias%20(RTP%20Madeira)&g0=RTP&g1=RTP&u=DNSch-CHOFCjDL7SV-&t=DDu_UpCh2rLvBw-RmpPSN2z_djay&x=0&y=0&V=153&n=1&b=1813&r=&_vd=3600000&_vi=Direto%20RTP%20Madeira%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpmadeira&_vh=rtp.pt&_pu=Bw5MKvT4_CLC4uTh3&_pt=e510WBm3xj2rU9FICQ9Vi2BwQpjX&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F107-303426260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpmadeirasmilplaylistm3u8&i=RTP%20Not%C3%ADcias%20(RTP%20Madeira)&g0=RTP&g1=RTP&u=DBpt6V46nTC4Uo4m&t=CbZTWeGa-siDr2cBZiBeAbCTwM9a&x=0&y=0&V=153&n=1&b=1336&r=&_vd=3600000&_vi=Direto%20RTP%20Madeira%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpmadeira&_vh=rtp.pt&_pu=Dzj_b5CKt2vkafyHS&_pt=BombuSCJTapqf9zALBdp1HOY7Fa2&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F107-303426260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpmadeira&u=Bw5MKvT4_CLC4uTh3&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpmadeira&b=1006&t=e510WBm3xj2rU9FICQ9Vi2BwQpjX&V=153&tz=-120&_vi=RTP%20Not%C3%ADcias%20(RTP%20Madeira)&_vp=liverepeatersmilrtpmadeirasmilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F107-303426260903.png&_vd=3600000&sn=2&sv=BECSz71SePXDgoJb_DW0LtOBpb3pv&sr=external&sd=1&im=060b0f33&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpmadeira&u=Dzj_b5CKt2vkafyHS&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpmadeira&b=551&t=BombuSCJTapqf9zALBdp1HOY7Fa2&V=153&tz=-120&_vi=RTP%20Not%C3%ADcias%20(RTP%20Madeira)&_vp=liverepeatersmilrtpmadeirasmilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F107-303426260903.png&_vd=3600000&sn=2&sv=DQQLw-iNtoLDCQlMHCBV_pQB1d6uj&sr=external&sd=1&im=060b0f33&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpmadeirasmilplaylistm3u8&i=RTP%20Not%C3%ADcias%20(RTP%20Madeira)&g0=RTP&g1=RTP&u=DNSch-CHOFCjDL7SV-&t=DDu_UpCh2rLvBw-RmpPSN2z_djay&x=0&y=0&V=153&n=1&b=1813&_vd=3600000&_vi=Direto%20RTP%20Madeira%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpmadeira&_vh=rtp.pt&_pu=Bw5MKvT4_CLC4uTh3&_pt=e510WBm3xj2rU9FICQ9Vi2BwQpjX&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.002&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F107-303426260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpmadeirasmilplaylistm3u8&i=RTP%20Not%C3%ADcias%20(RTP%20Madeira)&g0=RTP&g1=RTP&u=DBpt6V46nTC4Uo4m&t=CbZTWeGa-siDr2cBZiBeAbCTwM9a&x=0&y=0&V=153&n=1&b=1336&_vd=3600000&_vi=Direto%20RTP%20Madeira%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpmadeira&_vh=rtp.pt&_pu=Dzj_b5CKt2vkafyHS&_pt=BombuSCJTapqf9zALBdp1HOY7Fa2&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.002&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F107-303426260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
                                 }
                             ],
                             "extra_info": [
@@ -7788,13 +7766,13 @@
                                     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpacoresHDsmilplaylistm3u8&i=RTP%20Noticias%2FRTP%20A%C3%A7ores&g0=RTP&g1=RTP&u=CsX7jXCoPE4fB_9P1n&t=B5laJGCJM8SKObdt_D_spnBVG3md&x=0&y=0&V=153&n=1&b=1850&r=&_vd=3600000&_vi=Direto%20RTP%20A%C3%A7ores%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpacores&_vh=rtp.pt&_pu=BSeCZC47wewC_mz0_&_pt=xZmfiBkMxJHfzHJsBjLVLhCV_Cvh&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F106-333926260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpacoresHDsmilplaylistm3u8&i=Conselho%20de%20Reda%C3%A7%C3%A3o&g0=RTP&g1=RTP&u=DsY4lMCyTR5XCgDeol&t=Db1XKwCw7kThB_hYO1B07a6YJti24&x=0&y=0&V=153&n=1&b=1453&r=&_vd=3600000&_vi=Direto%20RTP%20A%C3%A7ores%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpacores&_vh=rtp.pt&_pu=BLLV-0C_PfuKCKHGNF&_pt=DxKbu-C5YvlnDsi1OXCDRQa4C19giv&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.003&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F106-333926260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpacores&u=BSeCZC47wewC_mz0_&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpacores&b=988&t=xZmfiBkMxJHfzHJsBjLVLhCV_Cvh&V=153&tz=-120&_vi=RTP%20Noticias%2FRTP%20A%C3%A7ores&_vp=liverepeatersmilrtpacoresHDsmilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F106-333926260903.png&_vd=3600000&sn=2&sv=DceFNsCD56X_Cwh9VkD0oMVOD-6_5Z&sr=external&sd=1&im=060b0f33&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpacores&u=BLLV-0C_PfuKCKHGNF&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpacores&b=638&t=DxKbu-C5YvlnDsi1OXCDRQa4C19giv&V=153&tz=-120&_vi=Conselho%20de%20Reda%C3%A7%C3%A3o&_vp=liverepeatersmilrtpacoresHDsmilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F106-333926260903.png&_vd=3600000&sn=2&sv=BbjDQKCRoZCHDWJCBT1RDSMD65Bu2&sr=external&sd=1&im=060b0f33&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpacoresHDsmilplaylistm3u8&i=RTP%20Noticias%2FRTP%20A%C3%A7ores&g0=RTP&g1=RTP&u=CsX7jXCoPE4fB_9P1n&t=B5laJGCJM8SKObdt_D_spnBVG3md&x=0&y=0&V=153&n=1&b=1850&_vd=3600000&_vi=Direto%20RTP%20A%C3%A7ores%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpacores&_vh=rtp.pt&_pu=BSeCZC47wewC_mz0_&_pt=xZmfiBkMxJHfzHJsBjLVLhCV_Cvh&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.005&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F106-333926260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpacoresHDsmilplaylistm3u8&i=Conselho%20de%20Reda%C3%A7%C3%A3o&g0=RTP&g1=RTP&u=DsY4lMCyTR5XCgDeol&t=Db1XKwCw7kThB_hYO1B07a6YJti24&x=0&y=0&V=153&n=1&b=1453&_vd=3600000&_vi=Direto%20RTP%20A%C3%A7ores%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpacores&_vh=rtp.pt&_pu=BLLV-0C_PfuKCKHGNF&_pt=DxKbu-C5YvlnDsi1OXCDRQa4C19giv&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.003&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F106-333926260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
                                 }
                             ],
                             "extra_info": [
@@ -7811,10 +7789,10 @@
                                     "url": "https://front-api.iol.pt/api/v1/live/broadcast?canal=CNN"
                                 },
                                 {
-                                    "url": "https://video-auth4.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDM6MTI6MyBQTSZoYXNoX3ZhbHVlPU5QN0NSbkhkb3hhbGx4QkVjRUN3RUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMzVhMTZjZC1mOWViLTQ4Y2YtYmNlZi03MmRiNmZjYjU5NWE="
+                                    "url": "https://video-auth4.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDU6NDc6NTcgUE0maGFzaF92YWx1ZT1NQldWVjZpbEk4eTdtWlBHc015TEJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGIzN2E2NWEtMWUxNy00ZDExLWEyMGMtZWMyNGRkMGZjNGYw"
                                 },
                                 {
-                                    "url": "https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=782415787&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDM6MTI6MyBQTSZoYXNoX3ZhbHVlPU5QN0NSbkhkb3hhbGx4QkVjRUN3RUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMzVhMTZjZC1mOWViLTQ4Y2YtYmNlZi03MmRiNmZjYjU5NWE="
+                                    "url": "https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=782444132&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDU6NDc6NTcgUE0maGFzaF92YWx1ZT1NQldWVjZpbEk4eTdtWlBHc015TEJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGIzN2E2NWEtMWUxNy00ZDExLWEyMGMtZWMyNGRkMGZjNGYw"
                                 }
                             ],
                             "extra_info": [
@@ -7922,33 +7900,16 @@
                             "extra_info": []
                         },
                         {
-                            "name": "NOW TV Turquía",
-                            "web": "https://www.nowtv.com.tr/canli-yayin",
-                            "logo": "https://graph.facebook.com/nowtvturkiye/picture?width=200&height=200",
-                            "epg_id": null,
-                            "options": [
-                                {
-                                    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=uY4OmW_I8XLLXUla-5PCUg&e=1789758717"
-                                },
-                                {
-                                    "url": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1789801917&st=eyh8p0mKwiU8bKCbglkdpw"
-                                }
-                            ],
-                            "extra_info": [
-                                "EXTA"
-                            ]
-                        },
-                        {
                             "name": "STAR TV Turquía",
                             "web": "https://www.startv.com.tr/canli-yayin",
                             "logo": "https://graph.facebook.com/startv/picture?width=200&height=200",
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=ca740e5964e247c2ca786d4c484a2c63&gdpr=1&gdpr_consent=CQqvPYAQqvPYAAcABBTRCwFgAAAAAEPgAChQAAAZoABMNDogDLIgUCBQEIIEACgrCACgQBAAAkBRAQAmDAhyBgAusIkAIAUAAQQAgABBgACAAASABCIAIACAQAgQCBQABgAQBAQAMDAAGAChEAgABAdAxSAggECwASIwoDBAhAAQCAlsqEEoGBBHCFIscAggREwUAACIABUBAIB4WAhJKiViQQBcQXQAIAAACUYIoCKQEwBRUGQLQVgScBkaYAg-YJEkOgiAJghIyDIhJUEg8UxRAghyA2KWYA6eIKAGXayQh_qBZsAXIl2HUlYAAAAA.YAAACHwAAAAA&dfp_paln=AQzzBGQEklVAAxiPaqVVlADH-E28mkb9I6VDbQqvqNRP42xGeWY-BsCTN67x8uCEiMsAu5wnBTRlfgrTkIK0F7J9l4Uja171bUpA4eGk1bm7N2ibL_GRE4i_loD5R2J8sF6UnLvR8QsJqQJ27XxV7IN-VYKDf1GByAa57FNjd6jV8Iv8lwaa7ENbJklZ_5B_bd-UkJ2n0swwDCv882xyMFP0l0aWGfNprQfsNPmrkv-3A5ghcPxQiTdIG0w_GLXCU4ZXOQFTVS3RoDQZaNvOH1Q44wYIcw-tVfTr1ta3MxFRSom5pxqdWT2dZxHsALHnk7tD3rlc5z98sTGP2llOKhfqFyhJTcKb6TYXsh0sKrZTbq4vPXkO8dGmOZGofOUehPUeM9QXKTdFTYQVYkZAdd3OPPbi5aQe37hCJprtsLNclDxurdFLWbDvlN0cBrJTgOjSBByTgnW2w8oDLPWY5DqFectG60rYKXLtrXH_uCeyD4lKDeQ6Z3Lm-PVAAiKWScybCAnwW-lcP_aDRCza1kUOvbfkAYeamZR-LcLxxKZR755j4W4bjOxb9XNx-6UfMJ8FYPKKpgg5qGJfl-M6xXOcxGNVVlL0tRBXKxkWUmMpe6WElfIlXl5VzCqyRrSXLew_ykQrpX88-X0mXpu7RWU6suSDLlHlQbBnYE8glC-Ge5x6vce_VDN7qX-hpUa-Xu2tXK01zjtJ-WRg3KwDtOE7Tpsu6P_Tee3ZrkLvC1wuJS7GRu37NvB0lLZYjuzoyaXq7dBShbyWa1QT0sy8AOhfpLUB8GF7kCAuGqNbGeXCtjJT-Or8hzhUYIu4SektpFz1obHxVobMuV7pNxBmQQ1mqFvBUy511KZVzCijQp9tVAKHeBb7MPG5EHKXydHV5LZubW1S2sws6qKlYA1wc2x815wljjK2ZMi24g926_jbDwQt4reqJObi9NTyYcq0kqFQB1eLxzmbfTo8YyuOiIJirdbHvaoSGZyHrgv1yNKs9kVRA7OlTeGIr7jq3mzFrNMSjGxzg-kyMyVJQ60GdRDD_AyKKp9vwjIbYBOOel32xreTtaW_aXMHklwFyYEWfis0O23fm9MyNbwWhtklLkOYt0x4u01DwpavpmgSBdbQ-C4uH4w7iV2JSn4L2nW_dN-psEqWrMuSW3RTvZtG2Qy_D12n15uPcC9x7r84vvL9Fb8c0iQj5Z6wXGtdjkcCaWIC_BLLlcv0qaiwFyz-NKmaxHehet3nN79SJYmJnHyRdSbp2p8eUzNI9XXqTFRXVu7ik1-hVwcPMf7X1io3KJ6QfVdkHyo3meYRSrh4bYUAqYjs6iuY-Fb9ByUYS8XGQRMh0O8Z17jocU-o_g.."
+                                    "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=5016ff85f086cdef18915fac45d3c9e1&gdpr=1&gdpr_consent=CQqvPYAQqvPYAAcABBTRCwFgAAAAAEPgAChQAAAZoABMNDogDLIgUCBQEIIEACgrCACgQBAAAkBRAQAmDAhyBgAusIkAIAUAAQQAgABBgACAAASABCIAIACAQAgQCBQABgAQBAQAMDAAGAChEAgABAdAxSAggECwASIwoDBAhAAQCAlsqEEoGBBHCFIscAggREwUAACIABUBAIB4WAhJKiViQQBcQXQAIAAACUYIoCKQEwBRUGQLQVgScBkaYAg-YJEkOgiAJghIyDIhJUEg8UxRAghyA2KWYA6eIKAGXayQh_qBZsAXIl2HUlYAAAAA.YAAACHwAAAAA&dfp_paln=AQzzBGQEKcdUcAFslIfs1Zpk3L42opsPknw2CnlzeV9e_AoXkJ5PRZoUMWsZKrUpHdubn-S1y3rDHyOdN9OcB02RsNC2647YnANTdY9rIoTe8qR__ARnw_1y2tbx-LwnXjRedLhLXOA9u2nsmccpQnp2iyMTOzHb7MowjB3eBNVnwF3wKXjpxQl5FZmxz1K4M15S7y1gQEsIjQXtwUKhRGN-zMuTZAX6BszRwdGcCB4K7-TyTTA3E9kD3djhX_R6My4mzyvZF4qIPyDAbDEVd6RVciQ_cgzgXhKk4WwwEqaqnAB2eFg1J-AiO9fB_gFsnSTjur5tXd3NwubN_OeOhPD7VtoDlqT3Wg1JWzsnoQoXuGvLjSb0uO07ivNTctreO-Fadm0rKuTOVqpTv3XbfjoSGriUiTitDTVPdhi_BAVfSCXW24ulhrp-XQynw1DIG1GQbzcDvr2IfIu0QX8bvijlbQImJPbCQhbK6W6uZNish2tIpi3JeFlcugA1T9BbrAP27Y30CeaTrC94C3chdHPSV-bmI-DCVA2zV5syj7CjU5PuoPDBHwvWvG23aPYtPqJAynmZ0IrqgS1vTP8c7Ni2aw5ErJfpq7BLQpkBgf-TEEIznAlDIw7tvjJF9-kknSpKx8GfC7zfBsL9-UyS1tDllAeXPstCbFKzxbsHs4qiTWrCugxNbIhGMYMFW1ZvdpD2r7KlhyR8i6tM7_bMzLud0KI1KO5TsA8MgWTXb8WlNURl4YzvF8ZQwHp07OLlwY32X_ntbU2pp2ov5KUV8Az-fFAeSVo1Sugj7HfGfy9XF748jn4LDr0Oi5oKXIYbB3W9RNOdHmLTK4Qc9REUWb5r4D6cXRLyeprjVeMvYsA_PkN_2VLqDASTtbKDjP8sZJw41B91IlO61Rl_-KLFJ_4Xg7uFZZFkKRutwJu6IdkF9VTsoyAzsasUUXl8nKq4Rpg0C5in329LjAcLOtMEUSeNuN6eyRh-6utHUocGOwMHJ24yxHZN4eMrJ8HI19GzHOfttufEt9TyhNKCFXwVJhPk3VifSlONC5bpzXzEm5JEV2rdM3ZUgeBIFA5pNQAvYjnvh8RJ_sk_VBiPXVzCBw_GBpmz8s9JD5jIC0ZVBKzoazJu7bmWFVut0g8YYhoRfWgucZ8tK1nRxpBpwzPKwcFEz0MFKUh-feuzWzy1-5UAZRpL8iu4OgfZd3cT4fSFJSv9XTBswLct_xnUfN9MAaJN0Mrn1iIJ17LnXuJjFjKskcCabWSoJqCbfNiawiHArmjShfqrYaOH1Uim4M3pEaYltJ8H3jtmJz5ZGYgY135KO5qUez9vc1JWVBvoeeSPT4Se_nEoTS3AadTunJ4."
                                 },
                                 {
-                                    "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8rgboovy52ay&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+                                    "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8rgplf4h3rds&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
                                 }
                             ],
                             "extra_info": [
@@ -8930,7 +8891,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZaY9erOwT8Rezgk8aHLzmHlMlnP6xPzPzzdDYCeVnOsws7N6k1d4UJKwEdluiyYPWMx0vPIHcna0p9gQMkgZprpYklsH4gOt_FgZ9H40gFV6Uo_1DhDct86bQ3InIhY8)/cloud/3/xa50i1c/s/live-720.m3u8"
+                                    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(b-xkIdUzTLR8FvqTQ8KdTwOvJs0O3fc1geW5YFQ3Tf93Edn6UNzPq2VaVZVnV2SJuy7iQ1W4ReVJ0kDBPX4rU2GzAxEvCap6KRoqyuHISHKc1NeIyxhokpgwKENAKmx-)/cloud/3/xa50i1c/s/live-720.m3u8"
                                 }
                             ],
                             "extra_info": [
@@ -9303,19 +9264,19 @@
                                     "url": "https://live2.telemicro.com.do/live/55/playlist.m3u8"
                                 },
                                 {
-                                    "url": "https://live2.telemicro.com.do/live/55/chunks.m3u8?nimblesessionid=37466732"
+                                    "url": "https://live2.telemicro.com.do/live/55/chunks.m3u8?nimblesessionid=37479975"
                                 },
                                 {
-                                    "url": "https://live2.telemicro.com.do/live/55/l_547_15234428_2539.ts?nimblesessionid=37466732"
+                                    "url": "https://live2.telemicro.com.do/live/55/l_547_24594908_4099.ts?nimblesessionid=37479975"
                                 },
                                 {
-                                    "url": "https://live2.telemicro.com.do/live/55/l_547_15240434_2540.ts?nimblesessionid=37466732"
+                                    "url": "https://live2.telemicro.com.do/live/55/l_547_24600914_4100.ts?nimblesessionid=37479975"
                                 },
                                 {
-                                    "url": "https://live2.telemicro.com.do/live/55/l_547_15246440_2541.ts?nimblesessionid=37466732"
+                                    "url": "https://live2.telemicro.com.do/live/55/l_547_24606920_4101.ts?nimblesessionid=37479975"
                                 },
                                 {
-                                    "url": "https://live2.telemicro.com.do/live/55/l_547_15252446_2542.ts?nimblesessionid=37466732"
+                                    "url": "https://live2.telemicro.com.do/live/55/l_547_24612926_4102.ts?nimblesessionid=37479975"
                                 }
                             ],
                             "extra_info": [
@@ -9366,6 +9327,24 @@
                             "options": [
                                 {
                                     "url": "https://dmxleo.dailymotion.com/cdn/manifest/video/kQRS6ZAjGuMkByE4Mtc.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=1&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Fwww.abc.com.py%2F"
+                                },
+                                {
+                                    "url": "https://www.abc.com.py/pf/api/v3/content/fetch/abc-api?query=%7B%22action%22%3A%22videos%22%2C%22queryParams%22%3A%22playlistId%3Dxaybra%22%2C%22uri%22%3A%22tv%22%2C%22version%22%3A%22v2%22%7D&d=2617&mxId=00000000&_website=abccolor"
+                                },
+                                {
+                                    "url": "https://www.abc.com.py/pf/api/v3/content/fetch/abc-api?query=%7B%22action%22%3A%22videos%22%2C%22queryParams%22%3A%22playlistId%3Dxar6b8%22%2C%22uri%22%3A%22tv%22%2C%22version%22%3A%22v2%22%7D&d=2617&mxId=00000000&_website=abccolor"
+                                },
+                                {
+                                    "url": "https://www.abc.com.py/pf/api/v3/content/fetch/abc-api?query=%7B%22action%22%3A%22videos%22%2C%22queryParams%22%3A%22playlistId%3Dxar6hk%22%2C%22uri%22%3A%22tv%22%2C%22version%22%3A%22v2%22%7D&d=2617&mxId=00000000&_website=abccolor"
+                                },
+                                {
+                                    "url": "https://www.abc.com.py/pf/api/v3/content/fetch/abc-api?query=%7B%22action%22%3A%22videos%22%2C%22queryParams%22%3A%22playlistId%3Dxar6h2%22%2C%22uri%22%3A%22tv%22%2C%22version%22%3A%22v2%22%7D&d=2617&mxId=00000000&_website=abccolor"
+                                },
+                                {
+                                    "url": "https://www.abc.com.py/pf/api/v3/content/fetch/abc-api?query=%7B%22action%22%3A%22videos%22%2C%22queryParams%22%3A%22playlistId%3Dxar6go%22%2C%22uri%22%3A%22tv%22%2C%22version%22%3A%22v2%22%7D&d=2617&mxId=00000000&_website=abccolor"
+                                },
+                                {
+                                    "url": "https://www.abc.com.py/pf/api/v3/content/fetch/abc-api?query=%7B%22action%22%3A%22videos%22%2C%22queryParams%22%3A%22playlistId%3Dxar6ek%22%2C%22uri%22%3A%22tv%22%2C%22version%22%3A%22v2%22%7D&d=2617&mxId=00000000&_website=abccolor"
                                 }
                             ],
                             "extra_info": [
@@ -9379,7 +9358,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=87551fc50490c73ca7480dad011abb1e1e7c4dab0a6637e5b97fa6c49f88e649&exp=1789744504"
+                                    "url": "https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=df435fb45b88a074c0f28ea8a2761dc4b74afaaa9372a6e36536be93536b1c2e&exp=1789753876"
                                 }
                             ],
                             "extra_info": [
@@ -9393,7 +9372,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=77508642f2b07d67dfdf3867bcc85fcbd0313eb15e969d4a2c2fff4b911ce9e6&exp=1789744513"
+                                    "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=66f376c5e761bf374783ee77bd78fb55326be678eadb13bac25570bf387437ca&exp=1789753884"
                                 }
                             ],
                             "extra_info": [
@@ -9407,7 +9386,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=cba1d71adb45955c628a3d8ad80383b2c42d4b7441af7d55ce6999363b63ba48&exp=1789744530"
+                                    "url": "https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=012535cfe535129c5ac634b1d8e57be1da47d300d0e0050328fb8d9bf3d8fa32&exp=1789753902"
                                 }
                             ],
                             "extra_info": [
@@ -10298,13 +10277,13 @@
                                     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpafricasmilplaylistm3u8&i=Agarra-me%20Se%20Puderes&g0=RTP&g1=RTP&u=Dv3_bdDEO1QgBk509T&t=DLnhtaBSYbDfC3DcqUC_I5KMC_oEik&x=0&y=0&V=153&n=1&b=1401&r=&_vd=3600000&_vi=Direto%20RTP%20%C3%81frica%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpafrica&_vh=rtp.pt&_pu=D-I7vtD08lNPBnGU8r&_pt=DrokNuC_NlJ7pVziiC1lnCMBymBW_&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F27-272226260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpafricasmilplaylistm3u8&i=Em%20Pratos%20Limpos&g0=RTP&g1=RTP&u=CNweQb7ZWwmC8hHjG&t=Bh6wr3eHH5pDd5EicCaXAVnxIWT&x=0&y=0&V=153&n=1&b=3266&r=&_vd=3600000&_vi=Direto%20RTP%20%C3%81frica%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpafrica&_vh=rtp.pt&_pu=bs_uyP6vZxJziZR&_pt=D3VyWLB1pZuSCAig8uCw83m1BGl7EL&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=0&_vbr=1024000&_vvs=0.002&_vpt=100&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F27-272226260903.png&_vaup=auto&_vplt=radiantMP&_vce=0&c=0&W=0&R=1&I=0&E=0&j=20&tz=-120&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpafrica&u=D-I7vtD08lNPBnGU8r&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpafrica&b=549&t=DrokNuC_NlJ7pVziiC1lnCMBymBW_&V=153&tz=-120&_vi=Agarra-me%20Se%20Puderes&_vp=liverepeatersmilrtpafricasmilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F27-272226260903.png&_vd=3600000&sn=2&sv=BDtMiFDUAalcDtphWhBwP2ksRFcJ-&sr=external&sd=1&im=060b0f33&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=play.rtp.pt&p=%2Fplay%2Fdireto%2Frtpafrica&u=bs_uyP6vZxJziZR&d=rtp.pt&g=60571&g0=RTP&g1=RTP&n=1&f=00001&c=0.04&x=0&m=0&y=2001&o=1920&w=1080&j=30&R=1&W=0&I=0&E=2&e=2&r=&PA=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpafrica&b=1793&t=D3VyWLB1pZuSCAig8uCw83m1BGl7EL&V=153&tz=-120&_vi=Em%20Pratos%20Limpos&_vp=liverepeatersmilrtpafricasmilplaylistm3u8&_vdd=video%40play.rtp.pt&_vs=s2&_vt=ct&_vap=a1&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F27-272226260903.png&_vd=3600000&sn=2&sv=DRrkLxCsmQsCTb4oXBf6xNnBX7Eol&sr=external&sd=1&im=060b0f33&_"
                                 },
                                 {
-                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpafricasmilplaylistm3u8&i=Agarra-me%20Se%20Puderes&g0=RTP&g1=RTP&u=Dv3_bdDEO1QgBk509T&t=DLnhtaBSYbDfC3DcqUC_I5KMC_oEik&x=0&y=0&V=153&n=1&b=1401&_vd=3600000&_vi=Direto%20RTP%20%C3%81frica%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpafrica&_vh=rtp.pt&_pu=D-I7vtD08lNPBnGU8r&_pt=DrokNuC_NlJ7pVziiC1lnCMBymBW_&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.002&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F27-272226260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
+                                    "url": "https://ping.chartbeat.net/ping?h=video%40play.rtp.pt&g=60571&p=liverepeatersmilrtpafricasmilplaylistm3u8&i=Em%20Pratos%20Limpos&g0=RTP&g1=RTP&u=CNweQb7ZWwmC8hHjG&t=Bh6wr3eHH5pDd5EicCaXAVnxIWT&x=0&y=0&V=153&n=1&b=3266&_vd=3600000&_vi=Direto%20RTP%20%C3%81frica%20-%20RTP%20Play&_vp=rtp.pt%2Fplay%2Fdireto%2Frtpafrica&_vh=rtp.pt&_pu=bs_uyP6vZxJziZR&_pt=D3VyWLB1pZuSCAig8uCw83m1BGl7EL&_pr=&_vdd=play.rtp.pt&_vt=ct&_vap=a1&_vs=s2&_vcs=1&_vbr=1024000&_vvs=5.009&_vpt=5099.999999999998&_vtn=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F27-272226260903.png&_vaup=auto&_vplt=radiantMP&_vce=5&c=0.08&W=0&R=1&I=0&E=5&j=20&tz=-120&_"
                                 }
                             ],
                             "extra_info": [
@@ -10774,10 +10753,10 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://ca2.oxira.net.pe/bestcablesports/index.m3u8?token=c82567b9a38a174cf3d899620297e7223ef88b30-6037877d731cfe7b909599b7d6d74431-1789755212-1789744412&remote=79.72.63.218"
+                                    "url": "https://ca2.oxira.net.pe/bestcablesports/index.m3u8?token=87992063657872399ab0a6b0690b86da2c419702-6635ceae3b7d03456efc676e98229b8b-1789764585-1789753785&remote=79.72.63.218"
                                 },
                                 {
-                                    "url": "https://ca2.oxira.net.pe/bestcablesports/tracks-v1a1/mono.m3u8?remote=79.72.63.218&token=c82567b9a38a174cf3d899620297e7223ef88b30-6037877d731cfe7b909599b7d6d74431-1789755212-1789744412"
+                                    "url": "https://ca2.oxira.net.pe/bestcablesports/tracks-v1a1/mono.m3u8?remote=79.72.63.218&token=87992063657872399ab0a6b0690b86da2c419702-6635ceae3b7d03456efc676e98229b8b-1789764585-1789753785"
                                 }
                             ],
                             "extra_info": [
@@ -10828,13 +10807,13 @@
                             "epg_id": "IbizaGlobal.TV",
                             "options": [
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzg3OTMxLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.HtUyCaF7_2qtfZCJthS-cro49a6ABhTAIzzbgkRvab3w7eUneYmPBPQiryyt32qnBTFO5y9KVaygsgo2PiSpvENhLuOy_TrSQdcMt62tJYfvOQ-DXSV2-ZY1_p-aJdGrE42ZF3IS9uinKHEoztq2wlZJV3RLLcPZMtVPxmlypHZ5Yl-Ary-hKCP1PmWPVSNXDRT0-BHabIt_ENevKqrLedtmBlqFk9XRQTIGVB_hbgPgl3iLbWnm1lZ3GziOxA53TMYX_I-JTtLclLUpv1iviqJHfWmImeT53DB4sSQliXPdUceCVGOfxchLhY_lNaVHO0lXJ4aDuYfxslobdNlByA/manifest/video.m3u8?CMCD=cid%3D%221789744732250%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bbbf2b2d-2e53-4c35-8cd6-0e80eb0e84b8%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzk3MzA2LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.pa_IDnNAQz1aOsWDLSWlaGR7oz7a8P2kx08K-ukAzSli57Us9G1WrDXz1Uh342xJ-adD0saqsY1FU7VRoSW9-_C5iy50uZJxEsBVhO1F48wy2uMIUJJIavp-ZJRO6dRB1lYr6MphOrIllfdK6HdpEClRVykGNzAhPopxqI1-44HZFnde7pFnHv7HFfPiY4_yiFvIHzFONxUHoR9zRI1ag0nVEYoVHPjHHaT8Q0ACvyXOvZV7Esvq8pHaU0weVswK2NrG4kRsFCZMuU7S5hOFGkv7XpRQlgfA9IrWe3PicCYm6Df832jQa-B8rUSOAiuK--kpZ-n04UtAQ-ZYhrvPFQ/manifest/video.m3u8?CMCD=cid%3D%221789754106715%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2274843c16-05d7-4f9d-b70a-b50a96475108%22%2Csu"
                                 },
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzg3OTMxLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.HtUyCaF7_2qtfZCJthS-cro49a6ABhTAIzzbgkRvab3w7eUneYmPBPQiryyt32qnBTFO5y9KVaygsgo2PiSpvENhLuOy_TrSQdcMt62tJYfvOQ-DXSV2-ZY1_p-aJdGrE42ZF3IS9uinKHEoztq2wlZJV3RLLcPZMtVPxmlypHZ5Yl-Ary-hKCP1PmWPVSNXDRT0-BHabIt_ENevKqrLedtmBlqFk9XRQTIGVB_hbgPgl3iLbWnm1lZ3GziOxA53TMYX_I-JTtLclLUpv1iviqJHfWmImeT53DB4sSQliXPdUceCVGOfxchLhY_lNaVHO0lXJ4aDuYfxslobdNlByA/manifest/stream_t80e28ebb5820046469e69fee712e27f2_r1895743687.m3u8?llhlsHBs=0.9&lps=9158e224e3c71a12&rcu=1789744852355&CMCD=cid%3D%221789744732250%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bbbf2b2d-2e53-4c35-8cd6-0e80eb0e84b8%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzk3MzA2LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.pa_IDnNAQz1aOsWDLSWlaGR7oz7a8P2kx08K-ukAzSli57Us9G1WrDXz1Uh342xJ-adD0saqsY1FU7VRoSW9-_C5iy50uZJxEsBVhO1F48wy2uMIUJJIavp-ZJRO6dRB1lYr6MphOrIllfdK6HdpEClRVykGNzAhPopxqI1-44HZFnde7pFnHv7HFfPiY4_yiFvIHzFONxUHoR9zRI1ag0nVEYoVHPjHHaT8Q0ACvyXOvZV7Esvq8pHaU0weVswK2NrG4kRsFCZMuU7S5hOFGkv7XpRQlgfA9IrWe3PicCYm6Df832jQa-B8rUSOAiuK--kpZ-n04UtAQ-ZYhrvPFQ/manifest/stream_te4b32b52331acd2f2a75b6dd1e183175_r1896382127.m3u8?llhlsHBs=0.9&lps=9489a3cb10cfa535&rcu=1789754227033&CMCD=cid%3D%221789754106715%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2274843c16-05d7-4f9d-b70a-b50a96475108%22%2Csu"
                                 },
                                 {
-                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzg3OTMxLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.HtUyCaF7_2qtfZCJthS-cro49a6ABhTAIzzbgkRvab3w7eUneYmPBPQiryyt32qnBTFO5y9KVaygsgo2PiSpvENhLuOy_TrSQdcMt62tJYfvOQ-DXSV2-ZY1_p-aJdGrE42ZF3IS9uinKHEoztq2wlZJV3RLLcPZMtVPxmlypHZ5Yl-Ary-hKCP1PmWPVSNXDRT0-BHabIt_ENevKqrLedtmBlqFk9XRQTIGVB_hbgPgl3iLbWnm1lZ3GziOxA53TMYX_I-JTtLclLUpv1iviqJHfWmImeT53DB4sSQliXPdUceCVGOfxchLhY_lNaVHO0lXJ4aDuYfxslobdNlByA/manifest/stream_t68ee58d790ad9d3a710f1cc30f03db22_r1895743688.m3u8?llhlsHBs=0.9&lps=9158e224e3c71a12&rcu=1789744852355&CMCD=cid%3D%221789744732250%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bbbf2b2d-2e53-4c35-8cd6-0e80eb0e84b8%22%2Csu"
+                                    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2OGM0N2U0NTAxNTYzNjM0ZjQxM2U0MzVjZjQyZDNmYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg5Nzk3MzA2LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.pa_IDnNAQz1aOsWDLSWlaGR7oz7a8P2kx08K-ukAzSli57Us9G1WrDXz1Uh342xJ-adD0saqsY1FU7VRoSW9-_C5iy50uZJxEsBVhO1F48wy2uMIUJJIavp-ZJRO6dRB1lYr6MphOrIllfdK6HdpEClRVykGNzAhPopxqI1-44HZFnde7pFnHv7HFfPiY4_yiFvIHzFONxUHoR9zRI1ag0nVEYoVHPjHHaT8Q0ACvyXOvZV7Esvq8pHaU0weVswK2NrG4kRsFCZMuU7S5hOFGkv7XpRQlgfA9IrWe3PicCYm6Df832jQa-B8rUSOAiuK--kpZ-n04UtAQ-ZYhrvPFQ/manifest/stream_t50caa2a04ef67fa702176324aed192d5_r1896382128.m3u8?llhlsHBs=0.9&lps=9489a3cb10cfa535&rcu=1789754227033&CMCD=cid%3D%221789754106715%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2274843c16-05d7-4f9d-b70a-b50a96475108%22%2Csu"
                                 }
                             ],
                             "extra_info": [
@@ -11402,16 +11381,16 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://vsd115.okcdn.ru/hls/229927553538.m3u8/sig/P_i1JIB0WfA/expires/1789831179010/srcIp/79.72.63.218/urls/95.163.35.107/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p"
+                                    "url": "https://vsd123.okcdn.ru/hls/229927553538.m3u8/sig/WA10j0JBxDU/expires/1789840560533/srcIp/79.72.63.218/urls/95.163.35.52/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p"
                                 },
                                 {
-                                    "url": "https://vsd115.okcdn.ru/hls/229927553538.m3u8/sig/P_i1JIB0WfA/expires/1789831179010/srcIp/79.72.63.218/urls/95.163.35.107/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_lowest/index.m3u8"
+                                    "url": "https://vsd123.okcdn.ru/hls/229927553538.m3u8/sig/WA10j0JBxDU/expires/1789840560533/srcIp/79.72.63.218/urls/95.163.35.52/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_lowest/index.m3u8"
                                 },
                                 {
-                                    "url": "https://vsd115.okcdn.ru/hls/229927553538.m3u8/sig/P_i1JIB0WfA/expires/1789831179010/srcIp/79.72.63.218/urls/95.163.35.107/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_medium/index.m3u8"
+                                    "url": "https://vsd123.okcdn.ru/hls/229927553538.m3u8/sig/WA10j0JBxDU/expires/1789840560533/srcIp/79.72.63.218/urls/95.163.35.52/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_medium/index.m3u8"
                                 },
                                 {
-                                    "url": "https://vsd115.okcdn.ru/hls/229927553538.m3u8/sig/P_i1JIB0WfA/expires/1789831179010/srcIp/79.72.63.218/urls/95.163.35.107/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_high/index.m3u8"
+                                    "url": "https://vsd123.okcdn.ru/hls/229927553538.m3u8/sig/WA10j0JBxDU/expires/1789840560533/srcIp/79.72.63.218/urls/95.163.35.52/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_high/index.m3u8"
                                 }
                             ],
                             "extra_info": [
@@ -11481,7 +11460,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1789744793&wowzatokenendtime=1789745793&wowzatokenhash=u9K29H7B9AhzqUlnT18FaIi3L7MKlUbAAHU6ra4eKA0="
+                                    "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1789754177&wowzatokenendtime=1789755177&wowzatokenhash=6DONJ-LnfPodi6x_BWarhTtyd6UHeeA83IzI0Fqy6fc="
                                 }
                             ],
                             "extra_info": [
@@ -11495,7 +11474,7 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://server80.servistreaming.com:3477/stream/play.m3u8?_=1789744808761"
+                                    "url": "https://server80.servistreaming.com:3477/stream/play.m3u8?_=1789754193089"
                                 },
                                 {
                                     "url": "https://server80.servistreaming.com:3477/stream/play.m3u8"
@@ -11990,13 +11969,13 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg5ODMxMjQ2LCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.7TsCXGrc0lR29WLBoIFfby9GGyChst6Ybnkj3X3A3kk"
+                                    "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg5ODQwNjM4LCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.59bM4fnGi9Bm5hV9OiPCZ8sEzb4vUXJBWWGxydi63qQ"
                                 },
                                 {
-                                    "url": "https://mf.zype.com/zype_live/live_720p30.m3u8?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZV83MjBwMzAubTN1OCIsImV4cCI6MTc4OTgzMTI0NiwicGFyYW1zIjp7fSwiZGVzdGluYXRpb25fcGFyYW1zIjp7InNpdGVfaWQiOiI1YjYyMTk5OWIwY2M1YjEyNmMwMDExNzAiLCJwbGF5b3V0X2NoYW5uZWxfaWQiOiI2NTNkODcwZC1hNWZmLTQ1YzMtYjNmYS1lZWRjY2UxZmIyYWYiLCJ6cCI6ImxpdmUiLCJzZXNzaW9uX2lkIjoiOTk4MDYxNmQtMWI4Ni00NzRlLWI0MTktN2Y5ODQ5NzZmZGY1IiwicmVuZGl0aW9uIjoiNzIwIn0sImlhdCI6MTc4OTc0NDg0N30.jx9SQ5j8o6ldohx6nGvdyzDjHldTsEi8oEUxxwrAweY"
+                                    "url": "https://mf.zype.com/zype_live/live_720p30.m3u8?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZV83MjBwMzAubTN1OCIsImV4cCI6MTc4OTg0MDYzOCwicGFyYW1zIjp7fSwiZGVzdGluYXRpb25fcGFyYW1zIjp7InNpdGVfaWQiOiI1YjYyMTk5OWIwY2M1YjEyNmMwMDExNzAiLCJwbGF5b3V0X2NoYW5uZWxfaWQiOiI2NTNkODcwZC1hNWZmLTQ1YzMtYjNmYS1lZWRjY2UxZmIyYWYiLCJ6cCI6ImxpdmUiLCJzZXNzaW9uX2lkIjoiNDIzYjczYjAtYjVkNS00YTQ3LThkMzEtZWI3N2U2ODQ0ZjQ4IiwicmVuZGl0aW9uIjoiNzIwIn0sImlhdCI6MTc4OTc1NDI0MH0.ZYWVsZNs065uH9TdwescS9GZKAR8pFzFojebrlQxdgs"
                                 },
                                 {
-                                    "url": "https://mf.zype.com/zype_live/live_audio-192kb.m3u8?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZV9hdWRpby0xOTJrYi5tM3U4IiwiZXhwIjoxNzg5ODMxMjQ2LCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSIsInNlc3Npb25faWQiOiI5OTgwNjE2ZC0xYjg2LTQ3NGUtYjQxOS03Zjk4NDk3NmZkZjUifSwiaWF0IjoxNzg5NzQ0ODQ3fQ.pgyoj1WSwou22dbcgN62RGO-0yPIoXKJhBc0NUnWs80"
+                                    "url": "https://mf.zype.com/zype_live/live_audio-192kb.m3u8?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZV9hdWRpby0xOTJrYi5tM3U4IiwiZXhwIjoxNzg5ODQwNjM4LCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSIsInNlc3Npb25faWQiOiI0MjNiNzNiMC1iNWQ1LTRhNDctOGQzMS1lYjc3ZTY4NDRmNDgifSwiaWF0IjoxNzg5NzU0MjQwfQ.W9xYo6ppbNQcRIq5Ui7W3qGaozCyktWAzuH2UZhelFk"
                                 }
                             ],
                             "extra_info": [
@@ -12013,13 +11992,13 @@
                                     "url": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=c874dbb532041ea4641043f&account=734546207001&destination=https%3A%2F%2Fcbn.com%2Fvideo%2Fcbn-espanol-channel-live-https&platform_version=6.67.7&player=players.brightcove.com%2F734546207001%2FTADSYViJy_default&player_name=D9CBN-Player-V2&source=&qos.locked=1&autoplay=false&ads_enabled=false&time=1789744857858&event=play_request&video=5721890224001&video_name=CBN%20Espa%C3%B1ol%20Channel%20Live%20-%20HTTPS&custom_fields=&video_data=&video_ads_supported=true&tags=live_stream&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fplaylist-hls.m3u8&seq=6_-1"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=5784c30f3b1e3c0242359bf&account=734546207001&destination=https%3A%2F%2Fcbn.com%2Fvideo%2Fcbn-espanol-channel-live-https&platform_version=6.67.7&player=players.brightcove.com%2F734546207001%2FTADSYViJy_default&player_name=D9CBN-Player-V2&source=&qos.locked=1&autoplay=false&ads_enabled=false&time=1789754249737&event=play_request&video=5721890224001&video_name=CBN%20Espa%C3%B1ol%20Channel%20Live%20-%20HTTPS&custom_fields=&video_data=&video_ads_supported=true&tags=live_stream&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fplaylist-hls.m3u8&seq=6_-1"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=c874dbb532041ea4641043f&account=734546207001&destination=https%3A%2F%2Fcbn.com%2Fvideo%2Fcbn-espanol-channel-live-https&platform_version=6.67.7&player=players.brightcove.com%2F734546207001%2FTADSYViJy_default&player_name=D9CBN-Player-V2&source=&qos.locked=1&autoplay=false&ads_enabled=false&time=1789744857845&event=video_impression&video=5721890224001&video_name=CBN%20Espa%C3%B1ol%20Channel%20Live%20-%20HTTPS&custom_fields=&video_data=&video_ads_supported=true&tags=live_stream&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fplaylist-hls.m3u8&preload=metadata&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=7_0"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=5784c30f3b1e3c0242359bf&account=734546207001&destination=https%3A%2F%2Fcbn.com%2Fvideo%2Fcbn-espanol-channel-live-https&platform_version=6.67.7&player=players.brightcove.com%2F734546207001%2FTADSYViJy_default&player_name=D9CBN-Player-V2&source=&qos.locked=1&autoplay=false&ads_enabled=false&time=1789754249734&event=video_impression&video=5721890224001&video_name=CBN%20Espa%C3%B1ol%20Channel%20Live%20-%20HTTPS&custom_fields=&video_data=&video_ads_supported=true&tags=live_stream&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fplaylist-hls.m3u8&preload=metadata&qos.content.sourceMimeType=application%2Fvnd.apple.mpegurl&seq=7_0"
                                 },
                                 {
-                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=c874dbb532041ea4641043f&account=734546207001&destination=https%3A%2F%2Fcbn.com%2Fvideo%2Fcbn-espanol-channel-live-https&platform_version=6.67.7&player=players.brightcove.com%2F734546207001%2FTADSYViJy_default&player_name=D9CBN-Player-V2&source=&qos.locked=1&autoplay=false&ads_enabled=false&time=1789744858393&event=video_view&load_time_ms=548&start_time_ms=528&video=5721890224001&video_name=CBN%20Espa%C3%B1ol%20Channel%20Live%20-%20HTTPS&custom_fields=&video_data=&video_ads_supported=true&tags=live_stream&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fplaylist-hls.m3u8&seq=8_0"
+                                    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=5784c30f3b1e3c0242359bf&account=734546207001&destination=https%3A%2F%2Fcbn.com%2Fvideo%2Fcbn-espanol-channel-live-https&platform_version=6.67.7&player=players.brightcove.com%2F734546207001%2FTADSYViJy_default&player_name=D9CBN-Player-V2&source=&qos.locked=1&autoplay=false&ads_enabled=false&time=1789754250601&event=video_view&load_time_ms=867&start_time_ms=857&video=5721890224001&video_name=CBN%20Espa%C3%B1ol%20Channel%20Live%20-%20HTTPS&custom_fields=&video_data=&video_ads_supported=true&tags=live_stream&media_url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fplaylist-hls.m3u8&seq=8_0"
                                 }
                             ],
                             "extra_info": [
@@ -12033,11 +12012,13 @@
                             "epg_id": null,
                             "options": [
                                 {
-                                    "format": "m3u8",
-                                    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
-                                    "geo2": null,
-                                    "res": null,
-                                    "lang": null
+                                    "url": "https://componentes.enlace.org/live/"
+                                },
+                                {
+                                    "url": "https://livecdnusa.enlace.plus/enlace/master.m3u8"
+                                },
+                                {
+                                    "url": "https://livecdnusa.enlace.plus/enlace/0/index.m3u8"
                                 }
                             ],
                             "extra_info": []
