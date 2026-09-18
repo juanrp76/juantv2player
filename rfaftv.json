@@ -68,7 +68,7 @@
         "texto_ocr_portada": "Domingo 20 de septiembre 13:15h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12850-rfaftv-8",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12850-rfaftv-8"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel8.smil/playlist.m3u8"
         ]
     },
     {
