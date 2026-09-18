@@ -14,7 +14,7 @@
         "texto_ocr_portada": "BT\n\n2 : IO BLAMED  Y\nA LU\nRFARY MY E",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2"
         ]
     },
     {
@@ -24,15 +24,6 @@
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel3.smil/playlist.m3u8"
-        ]
-    },
-    {
-        "titulo": "UD Alchoyano - CD Cádiz Futsal",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/ba78bdf710a9462a85ae1b37e4335cce.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "EE\n3 DIVISIGN 3GDIIABL2\nREAR FAA FUTSAL\nO-",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
-        "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
         ]
     },
     {
@@ -54,39 +45,12 @@
         ]
     },
     {
-        "titulo": "CD Virgili Cádiz - Nawter Blanca FS",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/9c94d334196c4c10862651588ba34548.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 20 de septiembre 12:00h",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12849-rfaftv-7",
-        "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12849-rfaftv-7"
-        ]
-    },
-    {
-        "titulo": "SIMA Granada FS - GHD Moral FS",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/844aec258b63460b992654e44eb9972c.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 20 de septiembre 13:15h",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12850-rfaftv-8",
-        "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel8.smil/playlist.m3u8"
-        ]
-    },
-    {
         "titulo": "Granada FS - ADECOR Aire Sport",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/835012e79d7147d3871577664ef909b0.png?w=400&h=226&quality=mid",
         "texto_ocr_portada": "Domingo 20 de septiembre",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel9.smil/playlist.m3u8"
-        ]
-    },
-    {
-        "titulo": "Atletico Jaén FC - UD Maracena",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/9b743256534f4c8f8016eb3d8493988a.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 20 de septiembre 18:10h",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12852-rfaftv-10",
-        "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel0.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9"
         ]
     },
     {
