@@ -1,11 +1,47 @@
 [
     {
+        "titulo": "CD Beconet Bujalance FS - CD Malacitano Futsal",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/3929f9d9f1d24de28ae3dc405d4fd814.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 19 de septiembre 18:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel1.smil/playlist.m3u8"
+        ]
+    },
+    {
         "titulo": "GTS Nazareno DH FS - Sporting FS Almería",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/15d9a49c747342269692be7146b3280c.png?w=400&h=226&quality=mid",
         "texto_ocr_portada": "BT\n\n2 : IO BLAMED  Y\nA LU\nRFARY MY E",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Benalup - CD Villaba FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/a7ba1f40734b4680b1253e0be7006f87.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 19 de septiembre 19:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel3.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "UD Alchoyano - CD Cádiz Futsal",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/ba78bdf710a9462a85ae1b37e4335cce.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "EE\n3 DIVISIGN 3GDIIABL2\nREAR FAA FUTSAL\nO-",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "Torremolinos FS - CD Boca FS Priego",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/01824cc4e9494bd494a903e09ffa8427.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 19 de septiembre 19:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
         ]
     },
     {
