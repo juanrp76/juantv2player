@@ -77,7 +77,16 @@
         "texto_ocr_portada": "Domingo 20 de septiembre",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel9.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "Atletico Jaén FC - UD Maracena",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/9b743256534f4c8f8016eb3d8493988a.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 20 de septiembre 18:10h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12852-rfaftv-10",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel0.smil/playlist.m3u8"
         ]
     },
     {
