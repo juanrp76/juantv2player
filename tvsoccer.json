@@ -1,5 +1,29 @@
 [
   {
+    "event": "Deportivo la Coruña 🆚 Real Betis Balompié",
+    "image_url": null,
+    "streams": [
+      "https://cdn.zicotv.cc/dazn-liga-2/tracks-v1a1/mono.m3u8?token=6b98de4b49d5e91dac10778586198d521ea06014-6386571b05c7499d966124a5bdce1219-1789933226-",
+      "https://live05.meung.app/live/75915087_tsc.m3u8",
+      "https://cdn.zicotv.cc/dazn-liga-2/index.m3u8?token=6b98de4b49d5e91dac10778586198d521ea06014-6386571b05c7499d966124a5bdce1219-1789933226-",
+      "https://w6.sportsonliine.click/channels/hd/hd6.php",
+      "https://live05.meung.app/live/75915087_tsc-1789921284.ts?txspiseq=117878799151649424532",
+      "https://live05.meung.app/live/75915087_tsc-1789921280.ts?txspiseq=117878799151649424532",
+      "https://live.vkvideo.ru/freddy-49",
+      "https://in-streams.click/tr5.php",
+      "https://live05.meung.app/live/75915087_tsc-1789921281.ts?txspiseq=117878799151649424532",
+      "https://live05.meung.app/live/75915087_tsc-1789921287.ts?txspiseq=117878799151649424532",
+      "https://live05.meung.app/live/75915087_tsc-1789921286.ts?txspiseq=117878799151649424532",
+      "https://cdn.zicotv.cc/dazn-liga-2/tracks-v1a1/2026/09/20/17/15/41-06000.ts?token=6b98de4b49d5e91dac10778586198d521ea06014-6386571b05c7499d966124a5bdce1219-1789933226-",
+      "https://cdn.zicotv.cc/dazn-liga-2/tracks-v1a1/2026/09/20/17/15/47-06000.ts?token=6b98de4b49d5e91dac10778586198d521ea06014-6386571b05c7499d966124a5bdce1219-1789933226-",
+      "https://live05.meung.app/live/75915087_tsc-1789921283.ts?txspiseq=117878799151649424532",
+      "https://live05.meung.app/live/75915087_tsc-1789921285.ts?txspiseq=117878799151649424532",
+      "https://theog446.gk8bloud123lkitchen.sbs/es/football/spanish-la-liga-4432866/rc-deportivo-vs-real-betis.html?icg=RVM",
+      "https://live05.meung.app/live/75915087_tsc-1789921282.ts?txspiseq=117878799151649424532"
+    ],
+    "timestamp": "2026-09-20T19:17:51.124151"
+  },
+  {
     "event": "Villarreal 🆚 Levante \n La Liga EA Sports 🇪🇸⚽🏆 \n Domingo 20 18:30h",
     "image_url": null,
     "streams": [
