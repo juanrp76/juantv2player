@@ -1,5 +1,15 @@
 [
   {
+    "event": "Evento en Directo",
+    "image_url": null,
+    "streams": [
+      "https://t3b4str3am3r.brukyon.com/relay/daznlaliga/master.m3u8?exp=1789918577&sig=34b49e79f682cb073324a645f2b5f16c38714a056586f9edae2b7dbe5e75cac0",
+      "https://epidd.hundxvision.co.uk/main/secure/18b359c57309999c24daaaa0d947f88eb9e0d91e848d7d1f5116f386e52a8305/1789924333/daznlaliga-es.m3u8",
+      "https://live.vkvideo.ru/freddy-49"
+    ],
+    "timestamp": "2026-09-20T16:42:35.711195"
+  },
+  {
     "event": "Getafe 🆚 Málaga \n La liga EA Sports 🇪🇸⚽🏆 \n Domingo 20 14:00h",
     "image_url": null,
     "streams": [
