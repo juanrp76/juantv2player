@@ -1,5 +1,13 @@
 [
   {
+    "event": "Getafe 🆚 Málaga \n La liga EA Sports 🇪🇸⚽🏆 \n Domingo 20 14:00h",
+    "image_url": null,
+    "streams": [
+      "https://ppvtv.icu/api/playlist.json?t=1789905104044"
+    ],
+    "timestamp": "2026-09-20T13:51:53.393674"
+  },
+  {
     "event": "Leeds 🆚 Cristal Palace",
     "image_url": null,
     "streams": [
