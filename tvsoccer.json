@@ -1,5 +1,31 @@
 [
   {
+    "event": "Juventus 🆚 Benfica",
+    "image_url": null,
+    "streams": [
+      "https://live05.miekgo.app/live/97885009_tsc.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.meung.app/live/97885009_tsc.m3u8",
+      "https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_autoChange.m3u8?auth_key=1790120001-0-0-a7b3228a014210bf285d47994a410fcf",
+      "https://live05.meung.app/live/97885009.m3u8",
+      "https://live05.meung.app/live/97885009_tsc-1790103155.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103147.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103156.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103159.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103163.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103160.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103148.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103162.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103157.ts?txspiseq=115167528820028622185",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/97885009_tsc-1790103158.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103161.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103164.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103146.ts?txspiseq=115167528820028622185"
+    ],
+    "timestamp": "2026-09-22T21:39:01.871608"
+  },
+  {
     "event": "Bayern Múnich 🆚 Manchester City",
     "image_url": null,
     "streams": [
@@ -574,18 +600,5 @@
       "https://live05.meung.app/live/78905744_tsc-1789822807.ts?txspiseq=11339951497464480586"
     ],
     "timestamp": "2026-09-19T21:03:27.531175"
-  },
-  {
-    "event": "Sevilla 🆚 Barcelona \n La Liga EA Sports ⚽🏆🇪🇸 \n Sábado 19 21:00h",
-    "image_url": null,
-    "streams": [
-      "https://live-cdn.tofi-xtv.com/hls/bein2.m3u8",
-      "https://live-cdn.tofi-xtv.com/hls/_standby/standby_loop.m3u8",
-      "https://live.vkvideo.ru/freddy-49",
-      "https://live-cdn.tofi-xtv.com/hls/_standby/standby_static_004.ts",
-      "https://live-cdn.tofi-xtv.com/hls/_standby/standby_static_005.ts",
-      "https://live-cdn.tofi-xtv.com/hls/_standby/standby_static_003.ts"
-    ],
-    "timestamp": "2026-09-19T21:01:21.608749"
   }
 ]
