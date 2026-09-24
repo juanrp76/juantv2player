@@ -1,0 +1,545 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png?t=1664334405" group-title="Generalista",La 1
+https://live.tvup.edge2befaster.io/la1-neutra-plus/la1-neutra-plus.mpd
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png?t=1664334405" group-title="Generalista",La 2
+https://live.tvup.edge2befaster.io/la2/la2.mpd
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png?t=1664334405" group-title="Generalista",Antena 3
+https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png?t=1664334405" group-title="Generalista",Cuatro
+https://live.tvup.edge2befaster.io/cuatro/cuatro.mpd
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png?t=1664334405" group-title="Generalista",Telecinco
+https://live.tvup.edge2befaster.io/telecincohd/telecincohd.mpd
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png?t=1664334405" group-title="Generalista",La Sexta
+https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png?t=1664334405" group-title="Generalista",Aragón TV
+https://live.tvup.edge2befaster.io/aragontvsd/aragontvsd.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png?t=1664334405" group-title="Generalista",TVG
+https://live.tvup.edge2befaster.io/tvghd/tvghd.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png?t=1664334405" group-title="Generalista",Canal Sur
+https://live.tvup.edge2befaster.io/canalsur/canalsur.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png?t=1664334405" group-title="Generalista",Telemadrid
+https://live.tvup.edge2befaster.io/telemadrid6/telemadrid6.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png?t=1664334405" group-title="Generalista",À Punt
+https://live.tvup.edge2befaster.io/apunt6/apunt6.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png?t=1664334405" group-title="Generalista",TPA7
+https://live.tvup.edge2befaster.io/tpa7/tpa7.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png?t=1664334405" group-title="Generalista",Canal Extremadura
+https://live.tvup.edge2befaster.io/canalextremadura/canalextremadura.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png?t=1664334405" group-title="Generalista",TV3
+https://live.tvup.edge2befaster.io/tv3hd/tv3hd.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png?t=1664334405" group-title="Generalista",IB3
+https://live.tvup.edge2befaster.io/ib3hd/ib3hd.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png?t=1664334405" group-title="Generalista",7 Región de Murcia
+https://live.tvup.edge2befaster.io/7rmhd/7rmhd.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png?t=1664334405" group-title="Generalista",CMM TV
+https://live.tvup.edge2befaster.io/castillalamancha/castillalamancha.mpd
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png?t=1664334405" group-title="Generalista",TV Canaria
+https://live.tvup.edge2befaster.io/tvcanaria/tvcanaria.mpd
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png?t=1664334405" group-title="Generalista",Super 3-33
+https://live.tvup.edge2befaster.io/super333hdsrt/super333hdsrt.mpd
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png?t=1664334405" group-title="Generalista",Andalucía TV
+https://live.tvup.edge2befaster.io/andaluciatv/andaluciatv.mpd
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png?t=1664334405" group-title="Generalista",TPA8
+https://live.tvup.edge2befaster.io/tpa8/tpa8.mpd
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png?t=1664334405" group-title="Generalista",TVG 2
+https://live.tvup.edge2befaster.io/tvg2/tvg2.mpd
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png?t=1664334405" group-title="Generalista",La Otra
+https://live.tvup.edge2befaster.io/laotra/laotra.mpd
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png?t=1664334405" group-title="Generalista",TRECE
+https://live.tvup.edge2befaster.io/trece6/trece6.mpd
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png?t=1664334405" group-title="Generalista",El Toro TV
+https://live.tvup.edge2befaster.io/eltorotv/eltorotv.mpd
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png?t=1664334405" group-title="Generalista",Cubavisión
+https://live.tvup.edge2befaster.io/cubavision/cubavision.mpd
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://media.tvup.cloud/canales/color_lg_67370b261e1c3816fa9569c1_1738687237781.png?t=1664334405" group-title="Generalista",Ecuavisa
+https://ecuavisa-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=entertainment&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://media.tvup.cloud/canales/color_lg_69299750b210457d13ff20f9_1772119274027.png?t=1664334405" group-title="Generalista",Caracol Mix
+https://caracolmix-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&carrier=[carrier]
+#EXTINF:-1 tvg-chno="280" tvg-logo="https://media.tvup.cloud/canales/5c59a481df377c004c5519aalogoColor.png?t=1664334405" group-title="Generalista",TV3 CAT
+https://live.tvup.edge2befaster.io/tv3esp/tv3esp.mpd
+#EXTINF:-1 tvg-chno="282" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ee9f9b1b5254100802858a6.png?t=1657533648?t=1664334405" group-title="Generalista",TVG Sat
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-logo="https://media.tvup.cloud/canales/color_lg_5eea025168808e0075a18ebf.png?t=1664334405" group-title="Generalista",Canal Extremadura Sat
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-logo="https://media.tvup.cloud/canales/color_lg_69e0f790f1d3f99df26ff0ee_1776351120456.png?t=1664334405" group-title="Generalista",ETB 1 ON
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ee9fb1628d1e700655d6c44_1775741749679.png?t=1664334405" group-title="Generalista",ETB 2 ON
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://media.tvup.cloud/canales/color_lg_60d9ee5620076b001a8401af.png?t=1664334405" group-title="Generalista",IB3 Global
+https://live-tcsgra-orangecdn.thechannel.store/ib3global/ib3global.mpd
+#EXTINF:-1 tvg-chno="296" tvg-logo="https://media.tvup.cloud/canales/color_lg_60d9f0a21627ac0021b5163a.png?t=1664334405" group-title="Generalista",7TV Andalucía
+https://live.tvup.edge2befaster.io/7andalucia/7andalucia.mpd
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://media.tvup.cloud/canales/color_lg_67fe47b34f9cb1be714d6adc_1744717748635.png?t=1664334405" group-title="Generalista",Telegranada
+https://telegranada-tivify.fastlive.tcscdn.net/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c6d7b39a1759118f5209679_1770304520641.png?t=1664334405" group-title="Generalista",Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-logo="https://media.tvup.cloud/canales/5b042f54b63af22346518c50logoColor.png?t=1664334405" group-title="Generalista",VOTV
+https://live.tvup.edge2befaster.io/votv/votv.m3u8
+#EXTINF:-1 tvg-chno="331" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png?t=1664334405" group-title="Generalista",Canal 4 Televisió
+https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-chno="357" tvg-logo="https://media.tvup.cloud/canales/color_lg_5eea1958178246005fe5275d.png?t=1664334405" group-title="Generalista",CMM Global
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-chno="510" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png?t=1664334405" group-title="Generalista",SIC Internacional
+https://live-tcsand.c511.transparentedge.io/sicinternacional/sicinternacional.mpd
+#EXTINF:-1 tvg-chno="512" tvg-logo="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png?t=1664334405" group-title="Generalista",RTPi
+https://live-tcsand.c511.transparentedge.io/rtpi/rtpi.mpd
+#EXTINF:-1 tvg-chno="529" tvg-logo="https://media.tvup.cloud/canales/color_lg_68db8269b99dbf029928301a_1760975061436.png?t=1664334405" group-title="Generalista",Nuestra Tele
+https://live.tvup.edge2befaster.io/rcn-nuestratele/rcn-nuestratele.mpd
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png?t=1664334405" group-title="Noticias",Euronews
+https://euronews-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12ic=IAB12&content_genre=news&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png?t=1664334405" group-title="Noticias",Canal 24 horas
+https://live.tvup.edge2befaster.io/canal24hhd/canal24hhd.mpd
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png?t=1664334405" group-title="Noticias",Negocios TV
+https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png?t=1664334405" group-title="Noticias",3CatInfo
+https://live.tvup.edge2befaster.io/324hdsrt/324hdsrt.mpd
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png?t=1679501776?t=1664334405" group-title="Noticias",El País
+https://elpais-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png?t=1664334405" group-title="Noticias",El Confidencial
+https://elconfidencial-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12&content_genre=news&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png?t=1664334405" group-title="Noticias",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://media.tvup.cloud/canales/color_lg_679b4ebbfb38496ae410cd19_1739869091770.png?t=1664334405" group-title="Noticias",Actualidad 360
+https://amg01821-amg01821c27-tivify-international-5968.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-tivifyinternational/playlist.m3u8?w=1920&h=1080&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_store_url=[storeUrl]&app_name=[appName]&did=[deviceId]&ifa_type=[ifaType]&device_make=[deviceMake]&device_model=[deviceModel]&gdpr=1&gdpr_consent=[gdprConsent]&dnt=[lmt]&cb=[CACHEBUSTER]&pod_max_dur=130&pod_ad_slots=8&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://media.tvup.cloud/canales/color_lg_647454e566328d12f03b379b.png?t=1664334405" group-title="Noticias",Euronews
+https://euronews-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12ic=IAB12&content_genre=news&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e4541672a9605005a02bab0.png?t=1664334405" group-title="Noticias",DW en español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://media.tvup.cloud/canales/color_lg_5be96ae4d4f8fd004b02e03b.png?t=1664334405" group-title="Noticias",France 24 ES
+https://tvup-fti-france24.c456.transparentedge.io/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1682827207~acl=/live/F24_ES_HI_HLS/*~id=distribution~hmac=7598c6392b286c1aa3b0a1bcc92289cdfce145593a207f85033a659573be6d13&partner=tv_up
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c05177bb7adda22348eadc4_1785319588314.png?t=1664334405" group-title="Noticias",France 24 EN
+https://france24english-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://media.tvup.cloud/canales/color_lg_6523b7b6fd971de6c5568129.png?t=1664334405" group-title="Noticias",Record News
+https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB12
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://media.tvup.cloud/canales/color_lg_6731ef639767b3f9ec43808d_1737111455971.png?t=1664334405" group-title="Noticias",Bloomberg Television
+https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-tvup.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://media.tvup.cloud/canales/5b02d6c5c5895a2dc7b5d07blogoColor.png?t=1664334405" group-title="Noticias",BBC World News
+https://live.tvup.edge2befaster.io/bbcworldnews/bbcworldnews.mpd
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b02d73ec5895a2dc7b5d07c.png?t=1664334405" group-title="Noticias",Al Jazeera
+https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://media.tvup.cloud/canales/color_lg_61927ab0d9fba000248ab18b.png?t=1664334405" group-title="Noticias",Newsmax TV
+https://newsmaxtv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c84f0da7dff72004cb62270.png?t=1664334405" group-title="Noticias",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://media.tvup.cloud/canales/5c051509b7adda22348eadbelogoColor.png?t=1664334405" group-title="Noticias",NHK World
+https://tvup-fti-nhk.c456.transparentedge.io/00489ab02a9d71cc/wSAKzjrGiKX3RPFr/0d7733Vbd99f0bd8.m3u8
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://media.tvup.cloud/canales/color_lg_65c3a5d432f1684d375b8eae.png?t=1664334405" group-title="Noticias",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://media.tvup.cloud/canales/color_lg_62bb0117b1ff2c0026dab95a.png?t=1664334405" group-title="Noticias",OAN Plus
+https://oanplus-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="259" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f901eb373c9880074cc406f.png?t=1664334405" group-title="Noticias",BFM TV
+https://live-tcsand.c511.transparentedge.io/bmf/bmf.mpd
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4673312c340d44a9a4090_1740572313860.png?t=1664334405" group-title="Noticias",1+1 News
+https://1mas1news-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://media.tvup.cloud/canales/5c6d7d27a1759118f52096c6logoColor.png?t=1664334405" group-title="Noticias",Al Jazeera Arabic
+https://live-hls-apps-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-logo="https://media.tvup.cloud/canales/5cb8469bf75662004cbb4481logoColor.png?t=1664334405" group-title="Noticias",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-chno="511" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png?t=1664334405" group-title="Noticias",SIC Noticias
+https://live-tcsand.c511.transparentedge.io/sicnoticias/sicnoticias.mpd
+#EXTINF:-1 tvg-chno="527" tvg-logo="https://media.tvup.cloud/canales/color_lg_68db82075bd1f2856f6b9337_1760614241259.png?t=1664334405" group-title="Noticias",NTN 24
+https://live.tvup.edge2befaster.io/rcn-ntn24/rcn-ntn24.mpd
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png?t=1664334405" group-title="Cine",Cines Verdi TV
+https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b48767e6fddcd0fa1d473c2_1780297162727.png?t=1664334405" group-title="Cine",Hollywood
+https://live.tvup.edge2befaster.io/hollywood6/hollywood6.mpd
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://media.tvup.cloud/canales/color_lg_5afebca7d2fc610babd2b899.png?t=1682921510?t=1664334405" group-title="Cine",AXN Movies
+https://live.tvup.edge2befaster.io/axnwhite6/axnwhite6.mpd
+#EXTINF:-1 tvg-chno="46" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c066ce8af988941cfbcb14f.png?t=1664334405" group-title="Cine",Somos
+https://live.tvup.edge2befaster.io/somos6/somos6.mpd
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://media.tvup.cloud/canales/color_lg_649977e7ca8cb98b3d9ccf7c.png?t=1664334405" group-title="Cine",Cines Verdi TV
+https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png?t=1664334405" group-title="Cine",Cine Feel Good Verdi TV
+https://cinesfeelgood-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png?t=1664334405" group-title="Cine",Runtime Acción
+https://runtimeaccion-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png?t=1664334405" group-title="Cine",Runtime Comedia
+https://runtimecomedia-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969?t=1664334405" group-title="Cine",Runtime Thriller + Terror
+https://runtimethrillerterror-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611?t=1664334405" group-title="Cine",Runtime Crimen
+https://runtimecrimen-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205?t=1664334405" group-title="Cine",Runtime Romance
+https://runtimeromance-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="57" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png?t=1664334405" group-title="Cine",Runtime Clásicos
+https://runtimeclasicos-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d_1767862705619.png?t=1664334405" group-title="Cine",Runtime Familia
+https://runtimefamilia-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png?t=1664334405" group-title="Cine",Film&Co
+https://filmandco-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png?t=1664334405" group-title="Cine",Cine Friki
+https://cinefriki-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://media.tvup.cloud/canales/color_lg_68ed080f18549f63c2c541e8_1763553329707.png?t=1664334405" group-title="Cine",Todo Pasión
+https://todopasion-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b5d0a9f2fac47cd388dca.png?t=1664334405" group-title="Cine",Action Hollywood Movies
+https://actionhollywood-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b4877946fddcd0fa1d473c5_1770707346212.png?t=1664334405" group-title="Cine",AMC Western
+https://live.tvup.edge2befaster.io/buenviaje/buenviaje.mpd
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://media.tvup.cloud/canales/color_lg_64f9b2e2aae0260ae8e34fed.png?t=1664334405" group-title="Cine",Trailers
+https://amg01821-lovetv-amg01821c2-tivify-international-2007.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailerses-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&lmt=[lmt]&env=[tivify_env]&ifa_type=[ifaType]&ic=IAB24
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b48773f6fddcd0fa1d473c4.png?t=1664334405" group-title="Documentales",Historia
+https://live.tvup.edge2befaster.io/historia/historia.mpd
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://media.tvup.cloud/canales/5b4876d46fddcd0fa1d473c3logoColor.png?t=1664334405" group-title="Documentales",Odisea
+https://live.tvup.edge2befaster.io/odisea/odisea.mpd
+#EXTINF:-1 tvg-chno="73" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c93b54c96a41e3cdd08be35.png?t=1664334405" group-title="Documentales",AMC Crime
+https://live.tvup.edge2befaster.io/crimen-investigacion/crimen-investigacion.mpd
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://media.tvup.cloud/canales/color_lg_65d4940fb9dd5d34b151453a.png?t=1664334405" group-title="Documentales",Runtime A Sangre Fría
+https://runtimeasangrefria-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://media.tvup.cloud/canales/color_lg_668507f37af6025d72e24193.png?t=1664334405" group-title="Documentales",Historia y Vida
+https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&dnt=[lmt]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=130&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&url=tivify.tv&ifa_type=[ifaType]&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png?t=1664334405" group-title="Documentales",Love The Planet
+https://amg01821-lovetv-amg01821c9-tivify-international-2006.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&lmt=[lmt]&env=[tivify_env]&ifa_type=[ifaType]&ic=IAB20
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://media.tvup.cloud/canales/color_lg_6746f995367074ada7d2e66e_1733742227105.png?t=1664334405" group-title="Documentales",Crimen & Historia
+https://amg01821-amg01821c23-tivify-international-5838.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&dnt=[lmt]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=130&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&url=tivify.tv&ifa_type=[ifaType]&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png?t=1664334405" group-title="Documentales",Crímenes Reales
+https://crimenesreales-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="258" tvg-logo="https://media.tvup.cloud/canales/color_lg_6731ebee592b6de6d6789d04_1737111214259.png?t=1664334405" group-title="Documentales",Bloomberg Originals
+https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-bloomberg-quicktake-tvup.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12
+#EXTINF:-1 tvg-chno="456" tvg-logo="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png?t=1664334405" group-title="Documentales",4K Travel TV
+https://4ktraveltv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="457" tvg-logo="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png?t=1664334405" group-title="Documentales",Heritage+
+https://heritage-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="117" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b04156ab63af22346518c4c.png?t=1664334405" group-title="Deportes",Esport 3
+https://live.tvup.edge2befaster.io/esport3hd/esport3hd.mpd
+#EXTINF:-1 tvg-chno="118" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png?t=1664334405" group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e455c96531ee300764b5e5d.png?t=1664334405" group-title="Deportes",Motorvision TV
+https://motorvision-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB2&content_genre=automotive&language=es&carrier=[carrier]
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://media.tvup.cloud/canales/color_lg_64e720715bc77dacbbbb6ec8.png?t=1664334405" group-title="Deportes",Fuel TV
+https://fueltv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://media.tvup.cloud/canales/color_lg_6458cdd3462b2c49012785fe.png?t=1685004329?t=1664334405" group-title="Deportes",Trace Sport Stars
+https://daiconnect.com/live/hls/tvup/tvfy-tracesport/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png?t=1664334405" group-title="Deportes",Tennis Channel
+https://tennischannel-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png?t=1664334405" group-title="Deportes",Surf Channel TV
+https://surfchannel-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB17&content_genre=Sports&language=es&rating=TV-G&carrier=[carrier]
+#EXTINF:-1 tvg-chno="129" tvg-logo="https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1764334750092.png?t=1664334405" group-title="Deportes",DFB Play TV
+https://dfbplaytv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="130" tvg-logo="https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png?t=1664334405" group-title="Deportes",INTROUBLE
+https://introubleesp-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="459" tvg-logo="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png?t=1664334405" group-title="Deportes",Xtrem Sports
+https://xtremsports-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png?t=1664334405" group-title="Series y cine",AXN
+https://live.tvup.edge2befaster.io/axn-hd/axn-hd.mpd
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png?t=1664334405" group-title="Series y cine",AMC
+https://live.tvup.edge2befaster.io/amc-hd/amc-hd.mpd
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png?t=1664334405" group-title="Series y cine",Neox
+https://live.tvup.edge2befaster.io/neox6/neox6.mpd
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png?t=1664334405" group-title="Series y cine",Nova
+https://live.tvup.edge2befaster.io/nova6/nova6.mpd
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c44003080405b20a4fdf.png?t=1664334405" group-title="Series y cine",Atreseries
+https://live.tvup.edge2befaster.io/atresseries/atresseries.mpd
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://media.tvup.cloud/canales/5ac5e58003080405b20a4feblogoColor.png?t=1664334405" group-title="Series y cine",FDF
+https://live.tvup.edge2befaster.io/fdf6/fdf6.mpd
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d048b854e537001b828bec.png?t=1664334405" group-title="Series y cine",Runtime Series
+https://runtimeseries-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://media.tvup.cloud/canales/color_lg_6320a26ff8cf6500221fbcf1.png?t=1664334405" group-title="Series y cine",Ana y los 7
+https://anaylos7-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&carrier=[carrier]
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://media.tvup.cloud/canales/color_lg_6320a20a22c53300216710b9.png?t=1664334405" group-title="Series y cine",Curro Jiménez
+https://currojimenez-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&carrier=[carrier]
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://media.tvup.cloud/canales/color_lg_6a141d723ee4b064152ea1b6_1780562178641.png?t=1664334405" group-title="Series y cine",Rebelde
+https://rebelde-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&carrier=[carrier]
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://media.tvup.cloud/canales/color_lg_64109b6bc2b2b100249a9350.png?t=1664334405" group-title="Series y cine",Todo Novelas
+https://todonovelas-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&carrier=[carrier]
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://media.tvup.cloud/canales/color_lg_659d3df441ebff82eb57ddc8.png?t=1664334405" group-title="Series y cine",Mundo Series
+https://mundoseries-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://media.tvup.cloud/canales/color_lg_67ea6a60da42272606a72910_1748330325630.png?t=1664334405" group-title="Series y cine",Piel Salvaje
+https://amg00735-amg00735c47-tivify-international-7182.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedotvamorpielsalvajespanish-tivifyinternational/playlist.m3u8?w=1920&h=1080&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_store_url=[storeUrl]&app_name=[appName]&did=[deviceId]&ifa_type=[ifaType]&device_make=[deviceMake]&device_model=[deviceModel]&gdpr=1&gdpr_consent=[gdprConsent]&dnt=[lmt]&cb=[CACHEBUSTER]&pod_max_dur=130&pod_ad_slots=8&ic=IAB1-5&content_genre=TV&language=es&rating=TV-PG
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://media.tvup.cloud/canales/color_lg_67cec24e79bd3c9b51c27afa_1741619914243.png?t=1664334405" group-title="Series y cine",Águila Roja
+https://aguilaroja-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&carrier=[carrier]
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://media.tvup.cloud/canales/color_lg_67e67ee2c3fb97fb7204d759_1744374103578.png?t=1664334405" group-title="Series y cine",Yu-Gi-Oh!
+https://yugioh-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier[carrier]
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://media.tvup.cloud/canales/color_lg_68e64dbf30980f47123943bd_1759934147723.png?t=1664334405" group-title="Series y cine",Beyblade
+https://beyblade-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://media.tvup.cloud/canales/5c93b34396a41e3cdd08be30logoColor.png?t=1664334405" group-title="Series y cine",XTRM
+https://live.tvup.edge2befaster.io/xtrm6/xtrm6.mpd
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f7f1098e4fd9d00641b8783.png?t=1664334405" group-title="Series y cine",DARK
+https://live.tvup.edge2befaster.io/darksolo/darksolo.mpd
+#EXTINF:-1 tvg-chno="45" tvg-logo="https://media.tvup.cloud/canales/color_lg_5bd893517525c60f90c0ba6a.png?t=1664334405" group-title="Series y cine",Sundance TV
+https://live.tvup.edge2befaster.io/sundance6/sundance6.mpd
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c066e14af988941cfbcb153_1751352365899.png?t=1664334405" group-title="Series y cine",VinTV
+https://live.tvup.edge2befaster.io/enfamilia/enfamilia.mpd
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png?t=1664334405" group-title="Series y cine",Energy
+https://live.tvup.edge2befaster.io/energy6/energy6.mpd
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1664334405" group-title="Series y cine",Divinity
+https://live.tvup.edge2befaster.io/divinity6/divinity6.mpd
+#EXTINF:-1 tvg-chno="235" tvg-logo="https://media.tvup.cloud/canales/color_lg_651fb35205baf16cc0cee4b0.png?t=1664334405" group-title="Series y cine",Corazón
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=61&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB14
+#EXTINF:-1 tvg-chno="528" tvg-logo="https://media.tvup.cloud/canales/color_lg_68cc1b83887d33faebbd3d9f_1760601297613.png?t=1664334405" group-title="Series y cine",RCN Novelas
+https://live.tvup.edge2befaster.io/rcn-novelas/rcn-novelas.mpd
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://media.tvup.cloud/canales/color_lg_5c93b45f96a41e3cdd08be33.png?t=1664334405" group-title="Entretenimiento",AMC Break
+https://live.tvup.edge2befaster.io/amcbreak/amcbreak.mpd
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664334405" group-title="Entretenimiento",Mega
+https://live.tvup.edge2befaster.io/mega6/mega6.mpd
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png?t=1664334405" group-title="Entretenimiento",DKISS
+https://live.tvup.edge2befaster.io/dkissh/dkissh.mpd
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png?t=1664334405" group-title="Entretenimiento",Sin Filtros
+https://sinfiltros-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB15content_genre=Documentary&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf40c65774400228dc57a.png?t=1664334405" group-title="Entretenimiento",Vivir con gatos
+https://vivircongatos-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB16&content_genre=pets&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf372f712d6001b3a6484.png?t=1664334405" group-title="Entretenimiento",Vivir con perros
+https://vivirconperros-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB16&content_genre=pets&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://media.tvup.cloud/canales/color_lg_628ce71965774400228da9ae.png?t=1683806449?t=1687212737?t=1664334405" group-title="Entretenimiento",Inglés Total
+https://inglestotal-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://media.tvup.cloud/canales/color_lg_679b54f5c94f7e5c9b8effce_1739785565323.png?t=1664334405" group-title="Entretenimiento",Viajes y Sabores
+https://amg01821-amg01821c29-tivify-international-6648.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-tivifyinternational/playlist.m3u8?w=1920&h=1080&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_store_url=[storeUrl]&app_name=[appName]&did=[deviceId]&ifa_type=[ifaType]&device_make=[deviceMake]&device_model=[deviceModel]&gdpr=1&gdpr_consent=[gdprConsent]&dnt=[lmt]&cb=[CACHEBUSTER]&pod_max_dur=130&pod_ad_slots=8&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
+#EXTINF:-1 tvg-chno="106" tvg-logo="https://media.tvup.cloud/canales/color_lg_663deb3ceb5f8abe6bf6e6be.png?t=1664334405" group-title="Entretenimiento",FailArmy
+https://daiconnect.com/live/hls/tvup/tvfy-failarmy/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://media.tvup.cloud/canales/color_lg_663dec584c190de03c947e0d.png?t=1664334405" group-title="Entretenimiento",People Are Awesome
+https://daiconnect.com/live/hls/tvup/tvfy-peopleawesome/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://media.tvup.cloud/canales/color_lg_663ded11775791c05340c80d.png?t=1664334405" group-title="Entretenimiento",The Pet Collective
+https://daiconnect.com/live/hls/tvup/tvfy-petcollective/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&operadora=[carrier]
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://media.tvup.cloud/canales/color_lg_663dedb1775791c05340d9db.png?t=1664334405" group-title="Entretenimiento",WeatherSpy
+https://weatherspy-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="170" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png?t=1664334405" group-title="Entretenimiento",Private
+https://live.tvup.edge2befaster.io/private/private.mpd
+#EXTINF:-1 tvg-chno="171" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png?t=1664334405" group-title="Entretenimiento",Hustler TV
+https://live.tvup.edge2befaster.io/hustler/hustler.mpd
+#EXTINF:-1 tvg-chno="176" tvg-logo="https://media.tvup.cloud/canales/color_lg_679a35c3c94f7e5c9b8e94c2_1738159555540.png?t=1664334405" group-title="Entretenimiento",Satén TV | Promo
+https://default-tcs.fast.tcscdn.net/live/fast-channel-satenclassyvod-07d2466a/fast-channel-satenclassyvod-07d2466a.mpd
+#EXTINF:-1 tvg-chno="450" tvg-logo="https://media.tvup.cloud/canales/color_lg_62bb01b53dcf680021c84cc6.png?t=1664334405" group-title="Entretenimiento",AWE Plus
+https://aweplus-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12&content_genre=news&language=en&carrier=[carrier]
+#EXTINF:-1 tvg-chno="452" tvg-logo="https://media.tvup.cloud/canales/color_lg_628ced78865c19002327fcb2.png?t=1664334405" group-title="Entretenimiento",ITA | Principiante
+https://itaprincipiante-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="453" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cef295233d0002213a77a.png?t=1664334405" group-title="Entretenimiento",ITA | Intermedio
+https://itaintermedio-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="454" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png?t=1664334405" group-title="Entretenimiento",ITA | Avanzado
+https://itaavanzado-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="455" tvg-logo="https://media.tvup.cloud/canales/color_lg_6294d04cffcafa001a294054.png?t=1664334405" group-title="Entretenimiento",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=901&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB8
+#EXTINF:-1 tvg-chno="458" tvg-logo="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png?t=1664334405" group-title="Entretenimiento",Wedo Big Stories
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-tivify/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&dnt=&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&ic=IAB1
+#EXTINF:-1 tvg-chno="150" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e442b7a852d67006ca7e8c6.png?t=1664334405" group-title="Música",Mezzo
+https://live.tvup.edge2befaster.io/mezzo6/mezzo6.mpd
+#EXTINF:-1 tvg-chno="151" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e442cfa3eb7c200593cd2c9.png?t=1664334405" group-title="Música",Mezzo Live
+https://live.tvup.edge2befaster.io/mezzolivehd6/mezzolivehd6.mpd
+#EXTINF:-1 tvg-chno="154" tvg-logo="https://media.tvup.cloud/canales/color_lg_683ef0750f3cea6ce5be7721_1756996692168.png?t=1664334405" group-title="Música",Clips Don't Lie
+https://amg01821-amg01821c28-tivify-international-8120.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-clipsdontlie-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&dnt=&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&ic=IAB1
+#EXTINF:-1 tvg-chno="155" tvg-logo="https://media.tvup.cloud/canales/color_lg_653ba0f052f985e26c4180b1.png?t=1664334405" group-title="Música",SOL Música
+https://api-ott.solmusica.es/loggingmediaurlpassthrough/a.m3u8?version=12&id=558&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB1-6
+#EXTINF:-1 tvg-chno="156" tvg-logo="https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png?t=1664334405" group-title="Música",Qello Concerts
+https://qelloconcerts-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-6&carrier=[carrier]
+#EXTINF:-1 tvg-chno="157" tvg-logo="https://media.tvup.cloud/canales/color_lg_6458ca8827684c477680a0d9.png?t=1664334405" group-title="Música",Trace Urban
+https://traceurban-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-6&carrier=[carrier]
+#EXTINF:-1 tvg-chno="158" tvg-logo="https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png?t=1664334405" group-title="Música",Trace Latina
+https://tracelatina-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-6&carrier=[carrier]
+#EXTINF:-1 tvg-chno="159" tvg-logo="https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png?t=1664334405" group-title="Música",Trace Brasil
+https://tracebrasil-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="160" tvg-logo="https://media.tvup.cloud/canales/color_lg_659e8d1d33a4d3a2376bd1cc.png?t=1664334405" group-title="Música",ZUT TV
+https://zuttv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="161" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b5f2e77b3a0f30b1c97e3_1771317203255.png?t=1664334405" group-title="Música",that's ROCK
+https://nowrock-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="162" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd948e73d382_1771316325091.png?t=1664334405" group-title="Música",that's 70s
+https://now70s-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="163" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2_1771316710232.png?t=1664334405" group-title="Música",that's 80s
+https://now80s-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1-6&carrier=[carrier]
+#EXTINF:-1 tvg-chno="164" tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png?t=1664334405" group-title="Música",Qwest TV
+https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&lmt=[lmt]&env=[tivify_env]&ifa_type=[ifaType]&ic=IAB1-6
+#EXTINF:-1 tvg-chno="166" tvg-logo="https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png?t=1664334405" group-title="Música",Movie Music
+https://moviemusic-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="167" tvg-logo="https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png?t=1664334405" group-title="Música",Djazz
+https://djazz-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier[carrier]
+#EXTINF:-1 tvg-chno="168" tvg-logo="https://media.tvup.cloud/canales/color_lg_6793919497c8c3631a9e11ca_1741088534802.png?t=1664334405" group-title="Música",Naturescape
+https://naturescape-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB16&content_genre=health&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://media.tvup.cloud/canales/color_lg_67121d93af6b2ab3969ffa00_1729849402769.png?t=1664334405" group-title="Música",Stingray Total Hits Spain
+https://totalhitsesp-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd098af6b2ab3969f6d42_1729848689265.png?t=1664334405" group-title="Música",Stingray Today's Latin Pop
+https://todayslatinpop-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=music&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://media.tvup.cloud/canales/color_lg_67121a39093504d2d21a889b_1729849355723.png?t=1664334405" group-title="Música",Stingray Éxitos Latinos
+https://exitoslatinos-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://media.tvup.cloud/canales/color_lg_67121881af6b2ab3969ff8ff_1729849308293.png?t=1664334405" group-title="Música",Stingray Reggaeton
+https://reggaeton-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd257093504d2d219fbe4_1729849007618.png?t=1664334405" group-title="Música",Stingray Romance Latino
+https://romancelatino-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://media.tvup.cloud/canales/color_lg_670e514d15420ab3edffd881_1729848468099.png?t=1664334405" group-title="Música",Stingray Greatest Hits
+https://greatesthits-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd0ea093504d2d219fb32_1729848735485.png?t=1664334405" group-title="Música",Stingray Classic Rock
+https://classicrock-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd203af6b2ab3969f6e1c_1729848960734.png?t=1664334405" group-title="Música",Stingray Flashback 70s
+https://flashback70s-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fcf9daf6b2ab3969f6c5d_1729848589314.png?t=1664334405" group-title="Música",Stingray Remember the 80s
+https://remember80s-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd030af6b2ab3969f6cc7_1729848641227.png?t=1664334405" group-title="Música",Stingray Nothin' But 90s
+https://nothinbut90s-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fcef2af6b2ab3969f6bef_1729848541607.png?t=1664334405" group-title="Música",Stingray Smooth Jazz
+https://smoothjazz-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=music&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd19daf6b2ab3969f6e0d_1729848910423.png?t=1664334405" group-title="Música",Stingray Easy Listening
+https://easylistening-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://media.tvup.cloud/canales/color_lg_670fd13f093504d2d219fb5b_1729848846212.png?t=1664334405" group-title="Música",Stingray The Spa
+https://thespa-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://media.tvup.cloud/canales/color_lg_6710ec60093504d2d21a3e9d_1729849056447.png?t=1664334405" group-title="Música",Stingray Soul Storm
+https://soulstorm-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://media.tvup.cloud/canales/color_lg_671215c3093504d2d21a8822_1729849235326.png?t=1664334405" group-title="Música",Stingray DanceFloor Fillers
+https://dancefloorfillers-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=music&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png?t=1664334405" group-title="Local",Grupo Cadena Media
+https://gcm-tivify.fastlive.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-chno="290" tvg-logo="https://media.tvup.cloud/canales/color_lg_6050a6723662e20039601c62.png?t=1664334405" group-title="Local",Bon Dia TV
+https://live.tvup.edge2befaster.io/bondiatvsrt/bondiatvsrt.mpd
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://media.tvup.cloud/canales/color_lg_69b2eb3e5136c743f88eaa77_1773335379130.png?t=1664334405" group-title="Local",Distrito TV
+https://daiconnect.com/live/hls/tvup/distritotv-tivify/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB12&content_genre=news&language=es&rating=TV-PG&operadora=[carrier]
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png?t=1664334405" group-title="Local",La 8 Mediterráneo
+https://live.tvup.edge2befaster.io/la8mediterraneo/la8mediterraneo.mpd
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://media.tvup.cloud/canales/color_lg_613af4457038bc00229ea1a7.png?t=1664334405" group-title="Local",Mijas 3.40 TV
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://media.tvup.cloud/canales/color_lg_615bf5b52d185400263f4fa1.png?t=1664334405" group-title="Local",Onda Algeciras
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-logo="https://media.tvup.cloud/canales/color_lg_615bf89a2d185400263f544e.png?t=1649678472?t=1649687765?t=1649758826?t=1649769082?t=1664334405" group-title="Local",Canal San Roque
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://media.tvup.cloud/canales/color_lg_615c5924f6e98a001d68f893.jpg?t=1649758841?t=1664334405" group-title="Local",Estepona TV
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-logo="https://media.tvup.cloud/canales/color_lg_615c5aa3f6e98a001d68fb14.png?t=1649678577?t=1664334405" group-title="Local",9 La Loma TV
+https://9laloma.tv/live.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://media.tvup.cloud/canales/color_lg_616835e5f83e8a001af668d4.png?t=1664334405" group-title="Local",TVM Córdoba
+https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6c6af6535201300cb931a_1773129407197.png?t=1664334405" group-title="Local",8TV Chiclana
+https://s.emisoras.tv:8081/chiclana/index.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://media.tvup.cloud/canales/color_lg_698def4dc22523263e940c36_1771498988873.png?t=1664334405" group-title="Local",Almería 24h TV
+https://almeria24htv-tivify.fastlive.tcscdn.net/almeria24h_aac/index.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://media.tvup.cloud/canales/color_lg_699d7d33a9c0daace0fd2172_1776847801752.png?t=1664334405" group-title="Local",María Visión
+https://mariavision-tivify.fastlive.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://media.tvup.cloud/canales/color_lg_69e1f62d4926ce1ecabe3b87_1776847944975.png?t=1664334405" group-title="Local",Condavisión
+https://condavision-tivify.fastlive.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://media.tvup.cloud/canales/color_lg_69e1f5f14926ce1ecabe3b7c_1776935451216.png?t=1664334405" group-title="Local",Canal Costa
+https://canalcosta-tivify.fastlive.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://media.tvup.cloud/canales/color_lg_69e1f66c4926ce1ecabe3b97_1776848145030.png?t=1664334405" group-title="Local",Teleonuba
+https://teleonuba-tivify.fastlive.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://media.tvup.cloud/canales/color_lg_64071465501362001b232195.png?t=1664334405" group-title="Local",50TV
+https://video3.lhdserver.es/bsngongoratc/live.m3u8
+#EXTINF:-1 tvg-chno="332" tvg-logo="https://media.tvup.cloud/canales/color_lg_6048fa49f585750031e19839.png?t=1664334405" group-title="Local",Vallès Visió
+https://live.tvup.edge2befaster.io/vallesvisio/vallesvisio.m3u8
+#EXTINF:-1 tvg-chno="333" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ffff9413f2376002503bb2c.png?t=1664334405" group-title="Local",Televisió L'Hospitalet
+https://live.tvup.edge2befaster.io/tvhospitalet/tvhospitalet.mpd
+#EXTINF:-1 tvg-chno="334" tvg-logo="https://media.tvup.cloud/canales/color_lg_6007eebf9ee9270031e56568.png?t=1664334405" group-title="Local",BDN Televisió
+https://live.tvup.edge2befaster.io/bdnbadalona/bdnbadalona.mpd
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://media.tvup.cloud/canales/color_lg_618bac9b0cf6f10021217b45.png?t=1664334405" group-title="Local",TAC 12
+https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://media.tvup.cloud/canales/color_lg_5cfa47f9e1553f0057b85fd6.png?t=1664334405" group-title="Local",TV Ripollès
+https://tvup-fti-tvr.c456.transparentedge.io/0.m3u8
+#EXTINF:-1 tvg-chno="337" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6cc7a6535201300cb941a_1773130701192.png?t=1664334405" group-title="Local",Canal Terrassa
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://media.tvup.cloud/canales/color_lg_5bb5d815968944004b1fb4fd.png?t=1664334405" group-title="Local",Fibwi TV Autonómica
+https://live.tvup.edge2befaster.io/fibwitv1/fibwitv1.mpd
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://media.tvup.cloud/canales/color_lg_6915b9aa884f6dff8a65fc68_1765814597577.png?t=1664334405" group-title="Local",TeleVigo
+https://televigo-tivify.fastlive.tcscdn.net/mic/manifiest/hls/televigo3/televigo3.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://media.tvup.cloud/canales/color_lg_61a7b668b34bf5001a596e98.png?t=1648727061?t=1664334405" group-title="Local",Teleribera
+https://video3.lhdserver.es/teleribera/live.m3u8
+#EXTINF:-1 tvg-chno="353" tvg-logo="https://media.tvup.cloud/canales/color_lg_6390883685f6a400200dd4f9.png?t=1664334405" group-title="Local",Afortunadas TV
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-chno="354" tvg-logo="https://media.tvup.cloud/canales/color_lg_63e241ae57f5df001c248815.png?t=1664334405" group-title="Local",Canal 4 Mancha Centro
+https://tvup-fti-excom-mancha-centro.c456.transparentedge.io/canal4/canal4live/playlist.m3u8?
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://media.tvup.cloud/canales/color_lg_68dbacf408f02632a129362b_1760097164503.png?t=1664334405" group-title="Local",TeleBilbao
+https://telebilbao-tivify.fastlive.tcscdn.net/hls/tv/master.m3u8
+#EXTINF:-1 tvg-chno="356" tvg-logo="https://media.tvup.cloud/canales/color_lg_699d7accabee81b71e8e3ae2_1772622612516.png?t=1664334405" group-title="Local",LevanteTV
+https://levantetv-tivify.fastlive.tcscdn.net/levantetv.m3u8
+#EXTINF:-1 tvg-chno="358" tvg-logo="https://media.tvup.cloud/canales/color_lg_698deff91451746315cb0dfd_1774260112528.png?t=1664334405" group-title="Local",Canal 13 Canarias
+https://canal13canarias-tivify.fastlive.tcscdn.net/canal13canarias.m3u8
+#EXTINF:-1 tvg-chno="359" tvg-logo="https://media.tvup.cloud/canales/color_lg_68dbacd8fa03e9d7985cd6f4_1760096737452.png?t=1664334405" group-title="Local",12TV
+https://12tv-tivify.fastlive.tcscdn.net/hls/continuidad12tv.m3u8
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://media.tvup.cloud/canales/color_lg_69396ba549c4b5621a9f3276_1765814538344.png?t=1664334405" group-title="Local",CLICKRADIOTV
+https://clickradiotv-tivify.fastlive.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://media.tvup.cloud/canales/color_lg_699d7af2a9c0daace0fd20ad_1772623302224.png?t=1664334405" group-title="Local",CantabriaTV
+https://cantabriatv-tivify.fastlive.tcscdn.net/cantabriatv.m3u8
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://media.tvup.cloud/canales/color_lg_69315bd85403754785feb4b7_1767087314380.png?t=1664334405" group-title="Local",AC Principado
+https://acprincipado-tivify.fastlive.tcscdn.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="363" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6db753700a6374fc1227a_1773141863853.png?t=1664334405" group-title="Local",Guka Telebista
+https://streaming.ukt.eus/hls/test.m3u8
+#EXTINF:-1 tvg-chno="364" tvg-logo="https://media.tvup.cloud/canales/color_lg_69451ed748d8eb793e3bc08e_1767024873600.png?t=1664334405" group-title="Local",Calamocha TV
+https://calamochatv-tivify.fastlive.tcscdn.net/calamochatv.m3u8
+#EXTINF:-1 tvg-chno="365" tvg-logo="https://media.tvup.cloud/canales/color_lg_69451f51e698a88c0b0bb705_1767087197528.png?t=1664334405" group-title="Local",Popular TV Murcia
+https://populartvmurcia-tivify.fastlive.tcscdn.net/populartvmurcia.m3u8
+#EXTINF:-1 tvg-chno="366" tvg-logo="https://media.tvup.cloud/canales/color_lg_69452c2de698a88c0b0bba41_1767087247581.png?t=1664334405" group-title="Local",Tele Aranda
+https://telearanda-tivify.fastlive.tcscdn.net/telearanda.m3u8
+#EXTINF:-1 tvg-chno="367" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6ede36535201300cb9b5e_1773142173210.png?t=1664334405" group-title="Local",STZ Telebista
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 tvg-chno="368" tvg-logo="https://media.tvup.cloud/canales/color_lg_6967ab2361ba8dd3746d3efd_1771499255018.png?t=1664334405" group-title="Local",AhoraTV
+https://ahoratv-tivify.fastlive.tcscdn.net/hls/cam5.m3u8
+#EXTINF:-1 tvg-chno="369" tvg-logo="https://media.tvup.cloud/canales/color_lg_6915b90db2dff90fb6eb1efd_1771498615972.png?t=1664334405" group-title="Local",ImasTV
+https://imastv-tivify.fastlive.tcscdn.net/live/imastv-livestream.m3u8
+#EXTINF:-1 tvg-chno="370" tvg-logo="https://media.tvup.cloud/canales/color_lg_69451e57e698a88c0b0bb6e1_1767024708556.png?t=1664334405" group-title="Local",Canal 4 Tenerife
+https://canal4tenerife-tivify.fastlive.tcscdn.net/canal4tenerife.m3u8
+#EXTINF:-1 tvg-chno="371" tvg-logo="https://media.tvup.cloud/canales/color_lg_698e0b9bc22523263e941f04_1770976665373.png?t=1664334405" group-title="Local",Telemedina
+https://telemedina-tivify.fastlive.tcscdn.net/telemedina.m3u8
+#EXTINF:-1 tvg-chno="372" tvg-logo="https://media.tvup.cloud/canales/color_lg_698df1cdc22523263e940e07_1771498779991.png?t=1664334405" group-title="Local",Guada TV
+https://guadatv-tivify.fastlive.tcscdn.net/guadatv.m3u8
+#EXTINF:-1 tvg-chno="373" tvg-logo="https://media.tvup.cloud/canales/color_lg_698e0c08c22523263e941f45_1771498301451.png?t=1664334405" group-title="Local",Telemiño
+https://telemino-tivify.fastlive.tcscdn.net/laregionlive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="374" tvg-logo="https://media.tvup.cloud/canales/color_lg_698df533c22523263e94111d_1774260675359.png?t=1664334405" group-title="Local",11TV Cantabria
+https://oncetvcantabria-tivify.fastlive.tcscdn.net/live.m3u8
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://media.tvup.cloud/canales/color_lg_63c679168dcf980022d96090.png?t=1664334405" group-title="Local",Onda15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-chno="376" tvg-logo="https://media.tvup.cloud/canales/color_lg_698e0d24c22523263e941fc8_1771498035642.png?t=1664334405" group-title="Local",Televisió d'Eivissa i Formentera
+https://televisiodeivissaiformentera-tivify.fastlive.tcscdn.net/tef.m3u8
+#EXTINF:-1 tvg-chno="377" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6ce843700a6374fc1200f_1773130895483.png?t=1664334405" group-title="Local",Teleganés
+https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-chno="378" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6ca39e0dd35fa54bd2176_1773130556583.png?t=1664334405" group-title="Local",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-chno="379" tvg-logo="https://media.tvup.cloud/canales/color_lg_699d7a7eabee81b71e8e3ad0_1772623860523.png?t=1664334405" group-title="Local",987 León TV
+https://nueveleontv-tivify.fastlive.tcscdn.net/leon987tv.m3u8
+#EXTINF:-1 tvg-chno="380" tvg-logo="https://media.tvup.cloud/canales/color_lg_68dbad0fb99dbf0299283651_1760096916790.png?t=1664334405" group-title="Local",Déjate de Historias
+https://dejatedehistorias-tivify.fastlive.tcscdn.net/live/dejatedeh-livestream.m3u8
+#EXTINF:-1 tvg-chno="381" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6d26e4def1f78066f0516_1773131181611.png?t=1664334405" group-title="Local",TeleElx
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-chno="382" tvg-logo="https://media.tvup.cloud/canales/color_lg_63230482971329001b97dce5.png?t=1664334405" group-title="Local",Alcarria TV
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-chno="383" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6d714e0dd35fa54bd2304_1773141679474.png?t=1664334405" group-title="Local",Burriana TV
+https://www.burrianateve.com/hls/btv.m3u8
+#EXTINF:-1 tvg-chno="384" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6d41ce0dd35fa54bd22ca_1773141563313.png?t=1664334405" group-title="Local",Maestrat TV
+https://stream.maestrat.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6d028e0dd35fa54bd21fe_1773131101547.png?t=1664334405" group-title="Local",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+#EXTINF:-1 tvg-chno="386" tvg-logo="https://media.tvup.cloud/canales/color_lg_69a6d9fa3700a6374fc1224d_1773141790843.png?t=1664334405" group-title="Local",Goierri Irrati TV
+https://streaming.gitb.eus/hls/z.m3u8
+#EXTINF:-1 tvg-chno="389" tvg-logo="https://media.tvup.cloud/canales/color_lg_63d11c83cdcc0f0023cc5db7.png?t=1664334405" group-title="Local",Durangaldeko Telebista
+https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png?t=1664334405" group-title="Infantil",Boing
+https://live.tvup.edge2befaster.io/boing/boing.mpd
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_1777295907627.png?t=1664334405" group-title="Infantil",Clan
+https://live-tcsgra-orangecdn.thechannel.store/clan/clan.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-logo="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png?t=1664334405" group-title="Infantil",El Reino Infantil
+https://daiconnect.com/live/hls/tvup/tvfy-elreinoinfantil/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=645&content_genre=Children&language=es&rating=TV-Y&operadora=[carrier]
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png?t=1689255642?t=1664334405" group-title="Infantil",Pocoyó
+https://pocoyo-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier[carrier]
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://media.tvup.cloud/canales/color_lg_68c7df647c00ba20368f22dc_1757929316669.png?t=1664334405" group-title="Infantil",Rabbids Invasion
+https://rabbidsinvasion-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&US
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://media.tvup.cloud/canales/color_lg_6479dd1666328d12f0eb0843_1741875413804.png?t=1664334405" group-title="Infantil",La Abeja Maya
+https://planetajunior-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier[carrier]
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://media.tvup.cloud/canales/color_lg_6523ac255350806fd25f836e.png?t=1664334405" group-title="Infantil",Pitufo TV
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=37&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y
+#EXTINF:-1 tvg-chno="141" tvg-logo="https://media.tvup.cloud/canales/color_lg_67601bfe7efca0ff1f329ae4_1737652886676.png?t=1664334405" group-title="Infantil",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/tvfy-cartoonclassics/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=Entertainment&language=en&rating=TV-Y&operadora=[carrier]
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://media.tvup.cloud/canales/color_lg_63342bfa083416001a65a220.png?t=1667819871?t=1664334405" group-title="Infantil",Toon Goggles
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=266202&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB1
+#EXTINF:-1 tvg-chno="143" tvg-logo="https://media.tvup.cloud/canales/color_lg_63fcdb5499e4e400243a4cf0.png?t=1664334405" group-title="Infantil",DuckTV
+https://ducktv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="144" tvg-logo="https://media.tvup.cloud/canales/color_lg_623b5fa231f1e4001957f67e.png?t=1664334405" group-title="Infantil",Toon Goggles EN
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261205&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB1
+#EXTINF:-1 tvg-chno="145" tvg-logo="https://media.tvup.cloud/canales/color_lg_6294ce5effcafa001a293c8f.png?t=1664334405" group-title="Infantil",Gross Out TV
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261883&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB1
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://media.tvup.cloud/canales/color_lg_5bc6e42a057cb0004ba4037e.png?t=1664334405" group-title="Estilo de vida",Canal Cocina
+https://live.tvup.edge2befaster.io/canal-cocina/canal-cocina.mpd
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://media.tvup.cloud/canales/color_lg_5bc6e527057cb0004ba4037f_1770707234356.png?t=1664334405" group-title="Estilo de vida",AMC Living
+https://live.tvup.edge2befaster.io/decasa/decasa.mpd
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://media.tvup.cloud/canales/color_lg_639737a1355098001a413cbf.png?t=1664334405" group-title="Estilo de vida",Fashion TV
+https://fashiontv-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png?t=1664334405" group-title="Estilo de vida",El Mueble
+https://amg01821-amg01821c37-tivify-international-11037.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-elmueble-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&dnt=[lmt]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png?t=1664334405" group-title="Estilo de vida",ZenLIFE
+https://zenlife-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://media.tvup.cloud/canales/color_lg_64e4811a758e3601480d3262.png?t=1664334405" group-title="Estilo de vida",Love Wine
+https://amg01821-lovetv-amg01821c17-tivify-international-2005.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovewinespain-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&schain=&lmt=[lmt]&env=[tivify_env]&ifa_type=[ifaType]&ic=IAB20
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://media.tvup.cloud/canales/color_lg_67a0a8b17668774da52152b5_1739963810034.png?t=1664334405" group-title="Estilo de vida",INFAST
+https://infastesp-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB1&content_genre=entertainment&language=es&rating=TV-PG&carrier=[carrier]
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://media.tvup.cloud/canales/color_lg_67a0a93dc611ec8d7882eb67_1739964179800.png?t=1664334405" group-title="Estilo de vida",INWONDER
+https://inwonderesp-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://media.tvup.cloud/canales/color_lg_659e89f96ec850e29b4fc493.png?t=1664334405" group-title="Estilo de vida",Armonía TeVe Sana
+https://armoniatevesana-tivify.ssai.tcscdn.net/master.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&carrier=[carrier]
+#EXTINF:-1 tvg-chno="111" tvg-logo="https://media.tvup.cloud/canales/color_lg_6388e7e31cb5910021615cfd.png?t=1664334405" group-title="Estilo de vida",Nesting TV
+https://api-ott.nesting.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=100&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=60&pod_ad_slots=3&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB10&operadora=[carrier]
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://media.tvup.cloud/canales/color_lg_67b45f2312c340d44a9a3f59_1740572348048.png?t=1664334405" group-title="Estilo de vida",1+1 Travel
+https://daiconnect.com/live/hls/tvup/tvfy-1travel/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB20&operadora=[carrier]
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://media.tvup.cloud/canales/color_lg_651e64f3f6f120941fda9012.png?t=1664334405" group-title="Estilo de vida",Clic
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=63&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png?t=1664334405" group-title="Internacional",Azteca Internacional
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=648&partner=tvup&cb=[CACHEBUSTER]&ip=[ip]&ua=[userAgent]&app_bundle=[bundleId]&app_name=[appName]&app_store_url=[storeUrl]&did=[deviceId]&pod_max_dur=160&pod_ad_slots=8&gdpr_consent=[gdprConsent]&gdpr=1&device_make=[deviceMake]&device_model=[deviceModel]&ifa_type=[ifaType]&ic=IAB12
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://media.tvup.cloud/canales/color_lg_67dc515bd0b0cf2397ebee56_1742495177522.png?t=1664334405" group-title="Internacional",Daystar
+https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
