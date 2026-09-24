@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "titulo": "Sin Partidos Directos",
+        "portada": "",
+        "texto_ocr_portada": "",
+        "enlace_web": "https://www.tv.rfaf.es/",
+        "streams": [
+            "SIN_PARTIDOS_DISPONIBLES"
+        ]
+    }
+]
