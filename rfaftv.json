@@ -1,11 +1,11 @@
 [
     {
         "titulo": "Sin Partidos Directos",
-        "portada": "",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/697c110c87e24b0e90d5cdc98e08c03e.jpg",
         "texto_ocr_portada": "",
         "enlace_web": "https://www.tv.rfaf.es/",
         "streams": [
-            "SIN_PARTIDOS_DISPONIBLES"
+            "https://rfaftsmux.flumotion.cloud/ondemand/81dfc4cf-270b-4f67-b43a-de0c0dcae9d9/9b6698c0-8b2d-4a6d-8a90-f93627b3569a_Fast_H2500.mp4/chunk.m3u8"
         ]
     }
 ]
