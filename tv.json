@@ -648,14 +648,14 @@
               "options": [
                 {
                   "format": "m3u8",
-                  "url": "https://cartv-streaming.aranova.es/hls/live/adeportes_deporte7.m3u8",
+                  "url": "https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/dtmqa0td0lg1v/b9ba794c3d21470db3b37eea44518986/69934178aea15ae34fa39ad0/index_4.m3u8?es=eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com&_Expires=&_Key_Pair_Id=&_Policy=&_Signature=&proto=https&&CMCD=cid%3D%2269934178aea15ae34fa39ad0%22%2Cmtp%3D48500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220szZQFadkgZj8kYQqyXB2QksM8AVRsgP%22",
                   "geo2": null,
                   "res": null,
                   "lang": null
                 },
                 {
                   "format": "m3u8",
-                  "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8",
+                  "url": "https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/dtmqa0td0lg1v/b9ba794c3d21470db3b37eea44518986/69934178aea15ae34fa39ad0/index_4.m3u8?es=eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com&_Expires=&_Key_Pair_Id=&_Policy=&_Signature=&proto=https&&CMCD=cid%3D%2269934178aea15ae34fa39ad0%22%2Cmtp%3D50100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220szZQFadkgZj8kYQqyXB2QksM8AVRsgP%22",
                   "geo2": null,
                   "res": null,
                   "lang": null
