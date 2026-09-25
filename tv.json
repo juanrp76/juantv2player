@@ -875,13 +875,13 @@
             },
             {
               "name": "C\u00e1diz CF TV",
-              "web": "https://tv.cadizcf.com/24h",
+              "web": "https://www.cadizcf.com/plaiz-24-horas",
               "logo": "https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200",
               "epg_id": null,
               "options": [
                 {
                   "format": "stream",
-                  "url": "https://event.watchity.com/137a7607-8a40-49cb-b2f3-dda201b86376/landing",
+                  "url": "https://d3k6ckytm22qfj.cloudfront.net/wct-137a7607-8a40-49cb-b2f3-dda201b86376/continuous/f5ab1872-5cb1-4541-9c67-30ae765453ec/index.m3u8",
                   "geo2": null,
                   "res": null,
                   "lang": null
@@ -912,11 +912,18 @@
             },
             {
               "name": "Villareal CF TV",
-              "web": "https://villarrealcf.es/v-play/",
+              "web": "https://villarrealcf.es/es/v-play/",
               "logo": "https://graph.facebook.com/villarrealcf/picture?width=200&height=200",
               "epg_id": null,
               "options": [],
               "extra_info": [
+                {
+                  "format": "youtube",
+                  "url": "https://www.youtube.com/@villarrealcf/streams",
+                  "geo2": null,
+                  "res": null,
+                  "lang": null
+                }
                 "REG"
               ]
             },
@@ -928,7 +935,7 @@
               "options": [
                 {
                   "format": "youtube",
-                  "url": "https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live",
+                  "url": "https://www.youtube.com/@marca/streams",
                   "geo2": null,
                   "res": null,
                   "lang": null
@@ -990,7 +997,7 @@
               "options": [
                 {
                   "format": "youtube",
-                  "url": "https://www.youtube.com/channel/UC3w4rq4MqM3hPcbBdnxd_2A/live",
+                  "url": "https://www.youtube.com/@partidazocope/live",
                   "geo2": null,
                   "res": null,
                   "lang": null
@@ -1008,7 +1015,7 @@
               "options": [
                 {
                   "format": "youtube",
-                  "url": "https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live",
+                  "url": "https://www.youtube.com/@TiempodeJuegoCOPE/live",
                   "geo2": null,
                   "res": null,
                   "lang": null
@@ -1026,7 +1033,7 @@
               "options": [
                 {
                   "format": "youtube",
-                  "url": "https://www.youtube.com/channel/UCTapFcyNk2zzc7LnPUjNNQA/live",
+                  "url": "https://www.youtube.com/@CarruselDeportivo/live",
                   "geo2": null,
                   "res": null,
                   "lang": null
