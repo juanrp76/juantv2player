@@ -1,5 +1,14 @@
 [
   {
+    "event": "KK Partizan 🆚 Pallacanestro Olimpia Milano",
+    "image_url": null,
+    "streams": [
+      "https://jn191.sportvideodata.com/3327678764932193517_wM6gTM1UjN3cjN/o4-1.m3u8?sign=R0cHM6Ly9pbWdhcmVuYS1zdHJlYW1zLXByb2QtbGwtZXUtd2VzdC0xLmFrYW1haXplZC5uZXQvb3V0L3YxL3N0cmVhbS03LzUzNjUwNy00ODc3ODkvNTM2NTA3LTQ4Nzc4OS9oZG50bD1leHA9MTc5MDQ1MzkwN35hY2w9JTJmb3V0JTJmdjElMmZzdHJlYW0tNyUyZjUzNjUwNy00ODc3ODklMmY1MzY1MDctNDg3Nzg5JTJmKn5pZD1iMmIxYWRmNi00ZGVkLTQ0NTEtOTExYi00NDg5ZjUzZTE2MTF%2BZGF0YT1oZG50bH5obWFjPTRlYjRhNTE3ZDllYjAxZjY5MWQ5YTA4OGI3ZTVlNWQ0Y2JiYzkxZWY1ZjFiNTE2ZmU1MDE1NTgwNTMwZDkxMmIvcGxheWxpc3RfMS5tM3U4P2F3cy5tYW5pZmVzdHNldHRpbmdzPW1hbmlmZXN0X3dpbmRvd19zZWNvbmRzOjYkfCQwaH",
+      "https://jn191.sportvideodata.com/3327678764932193517_wM6gTM1UjN3cjN/p4.m3u8"
+    ],
+    "timestamp": "2026-09-25T22:21:25.117643"
+  },
+  {
     "event": "Polonia 🆚 Bosnia\n\n\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
     "image_url": null,
     "streams": [
@@ -951,14 +960,5 @@
       "https://cablered.iptvperu.tv:1936/cablered/espn2_new/l_104594_81378680_61282.ts?nimblesessionid=165662648"
     ],
     "timestamp": "2026-09-20T19:09:49.109816"
-  },
-  {
-    "event": "Juventus 🆚 Atalanta",
-    "image_url": null,
-    "streams": [
-      "https://august.ppvtv.icu/api/playlist.json?t=1789921243316",
-      "https://www.fctv33hd.pw/"
-    ],
-    "timestamp": "2026-09-20T18:21:13.908731"
   }
 ]
