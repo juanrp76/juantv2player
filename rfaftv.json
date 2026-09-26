@@ -32,7 +32,7 @@
         "texto_ocr_portada": "Domingo 27 de septiembre 12:30h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
         ]
     },
     {
