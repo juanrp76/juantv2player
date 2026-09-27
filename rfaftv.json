@@ -9,6 +9,24 @@
         ]
     },
     {
+        "titulo": "CD Albolote Futsal PYLTIN - Dvo. Unión África Ceutí",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/083da69b4ded4151a07aeda9a8e39f6e.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "EEE\nDIVISIÉN DE HOPER JUS UI- G5 / J2\nRFARY B/G\n7 - 8",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
+        "streams": [
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2"
+        ]
+    },
+    {
+        "titulo": "CD La Palma FS - Hamar CD",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/86284668e2254ae996fa98484a4d5009.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 26 de septiembre",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel3.smil/playlist.m3u8"
+        ]
+    },
+    {
         "titulo": "CD Isleño San Fernando FS - UD Alchoyano",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/8fa74be7b97047beb444411cbdba6fb2.png?w=400&h=226&quality=mid",
         "texto_ocr_portada": "Domingo 27 de septiembre 12:30h",
@@ -18,12 +36,21 @@
         ]
     },
     {
+        "titulo": "Baeza CF - CP Almería",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/babe22ad4c9049e2ae91ceffb7002e22.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 27 de septiembre 18:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
+        ]
+    },
+    {
         "titulo": "CD Tugia Juego Limpio - UD Cazorla",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/6e6dd6a999cd451187f2873fee2731b2.png?w=400&h=226&quality=mid",
         "texto_ocr_portada": "Domingo 27 de septiembre 20:00h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel6.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6"
         ]
     },
     {
