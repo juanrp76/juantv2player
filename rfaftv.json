@@ -5,16 +5,7 @@
         "texto_ocr_portada": "Sábado 26 de septiembre",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1"
-        ]
-    },
-    {
-        "titulo": "CD Albolote Futsal PYLTIN - Dvo. Unión África Ceutí",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/083da69b4ded4151a07aeda9a8e39f6e.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "EEE\nDIVISIÉN DE HOPER JUS UI- G5 / J2\nRFARY B/G\n7 - 8",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
-        "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel1.smil/playlist.m3u8"
         ]
     },
     {
@@ -41,7 +32,7 @@
         "texto_ocr_portada": "Domingo 27 de septiembre 18:30h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5"
         ]
     },
     {
@@ -50,7 +41,7 @@
         "texto_ocr_portada": "Domingo 27 de septiembre 20:00h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel6.smil/playlist.m3u8"
         ]
     },
     {
