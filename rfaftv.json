@@ -5,7 +5,106 @@
         "texto_ocr_portada": "FTTSCSCSC\n2 DIVISIGA BUSTATIMBE3\nL ARE  Y B  CLUBFLTBOL S\n O Q   ISH BOYY\n/ AN FE XS\nA A   AE\n RFARV MA CES",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2"
+        ]
+    },
+    {
+        "titulo": "Avanza Jaén Paraíso Interior - Barça Atletic",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/9ec559bdcf25418aa838a50e74c0ee03.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 13:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
+        "streams": [
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3"
+        ]
+    },
+    {
+        "titulo": "Granada FS - Melilla ciudad del deporte",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/ca8a6ca535f5461f85f301e0abcbe3a4.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 13:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "SIMA Granada FS - Imperio Los Rosales",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/23a5eda2685048859e25da77624d1ae8.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 15:45h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "Granada FSF - IES Luis de Camoens",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/2319759262864ecd89555ee950c3d5db.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 16:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel6.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Beconet Bujalance FS - Nawter Blanca FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/7e6418f2b2da4d13acb1dd371f37cf9e.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 18:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12849-rfaftv-7",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel7.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "Torremolinos FS - CD Dama de Baza",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/8bfc3f67de8d4dffae2fe1d4a75b97de.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 19:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12850-rfaftv-8",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel8.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "UD Alchoyano - CD Villalba FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/3c0274981a8148e7bfbeb6fc534a5aeb.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 20:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel9.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Virgili Cádiz - Crevillent Futsal Starts",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/7beff39d351f4dc3b90f3649a3245f3a.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 4 de octubre 12:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12852-rfaftv-10",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel0.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Benalup - CD Decorséneca",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/1a1c1c52506e4aea895a3547b7aa6225.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 4 de octubre 12:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/54694-rfaftv-11",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel11.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Cádiz Futsal - CD Isleño San Fernando FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/669b0202eb454123bb2513c3d01804cf.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "3\nRFARY FIAE/ LATED",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/54778-rfaftv-12",
+        "streams": [
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/54778-rfaftv-12"
+        ]
+    },
+    {
+        "titulo": "CD Vilches - Atlético Bailén 1808",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/1fb1b633fc3d494b97cdb33788410ddb.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 4 de octubre 17:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/54697-rfaftv-13",
+        "streams": [
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/54697-rfaftv-13"
         ]
     }
 ]
