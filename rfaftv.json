@@ -1,11 +1,11 @@
 [
     {
-        "titulo": "CD Malacitano Futsal - CD Sporting FS Almería",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/75d4b33f176f4096bd486acff4f2ffe6.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "BT\nRAR AY T",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1",
+        "titulo": "GTS Nazareno DHFS - Melilla ciudad del deporte",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/91fe546563af489a87916315e488dbe4.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "FTTSCSCSC\n2 DIVISIGA BUSTATIMBE3\nL ARE  Y B  CLUBFLTBOL S\n O Q   ISH BOYY\n/ AN FE XS\nA A   AE\n RFARV MA CES",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel1.smil/playlist.m3u8"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
         ]
     }
 ]
