@@ -5,7 +5,7 @@
         "texto_ocr_portada": "BT\nRAR AY T",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel1.smil/playlist.m3u8"
         ]
     },
     {
@@ -63,6 +63,15 @@
         ]
     },
     {
+        "titulo": "Torremolinos FS - CD Dama de Baza",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/8bfc3f67de8d4dffae2fe1d4a75b97de.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 3 de octubre 19:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12850-rfaftv-8",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel8.smil/playlist.m3u8"
+        ]
+    },
+    {
         "titulo": "UD Alchoyano - CD Villalba FS",
         "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/3c0274981a8148e7bfbeb6fc534a5aeb.png?w=400&h=226&quality=mid",
         "texto_ocr_portada": "Sábado 3 de octubre 20:00h",
@@ -95,7 +104,7 @@
         "texto_ocr_portada": "3\nRFARY FIAE/ LATED",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/54778-rfaftv-12",
         "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel12.smil/playlist.m3u8"
+            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/54778-rfaftv-12"
         ]
     },
     {
