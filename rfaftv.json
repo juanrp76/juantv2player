@@ -77,7 +77,43 @@
         "texto_ocr_portada": "Sábado 3 de octubre 20:00h",
         "enlace_web": "https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9",
         "streams": [
-            "[PENDIENTE_EMISION] https://www.tv.rfaf.es/videos/detail/12851-rfaftv-9"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel9.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Virgili Cádiz - Crevillent Futsal Starts",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/7beff39d351f4dc3b90f3649a3245f3a.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 4 de octubre 12:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12852-rfaftv-10",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel0.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Benalup - CD Decorséneca",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/1a1c1c52506e4aea895a3547b7aa6225.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 4 de octubre 12:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/54694-rfaftv-11",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel11.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Cádiz Futsal - CD Isleño San Fernando FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/669b0202eb454123bb2513c3d01804cf.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "3\nRFARY FIAE/ LATED",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/54778-rfaftv-12",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel12.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Vilches - Atlético Bailén 1808",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/1fb1b633fc3d494b97cdb33788410ddb.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 4 de octubre 17:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/54697-rfaftv-13",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel13.smil/playlist.m3u8"
         ]
     }
 ]
