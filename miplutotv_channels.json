@@ -1,0 +1,1720 @@
+{
+    "channels": [
+        {
+            "id": "5f1aa9bcd8160700076d45d1",
+            "name": "Pluto TV Junior",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1aab1d29b39600073e243f",
+            "name": "Pluto TV Kids",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1aadf373bed3000794d1d7",
+            "name": "MTV Originals",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ab3c7778230000735cf41",
+            "name": "MTV Catfish TV Show",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1abce155a03d0007718834",
+            "name": "Pluto TV Comedia made in Spain",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/5f1abce155a03d0007718834/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1abf5fafb5ee0007d4d0ca",
+            "name": "FailArmy",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ac1f1b66c76000790ef27",
+            "name": "Pluto TV Cine Estelar",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ac2591dd8880007bb7d6d",
+            "name": "Pluto TV Cine Acción",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ac8099c49f600076579b2",
+            "name": "Pluto TV Cine Comedia",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ac8a87cd38d000745d7cf",
+            "name": "Pluto TV Thrillers",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ac947dcd00d0007937c08",
+            "name": "Pluto TV Cine Drama",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1ac9a2d3611d0007a844bb",
+            "name": "Pluto TV Cine Romántico",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1aca0b4e448e00075e7c5e",
+            "name": "Bob Esponja",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1aca8310a30e00074fab92",
+            "name": "Los Asesinatos de Midsomer",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1acba0d1f6340007db8843",
+            "name": "Los nuevos detectives",
+            "category": "Crimen y misterio",
+            "logo": "https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1acbed25948a0007ffbe65",
+            "name": "Los archivos del FBI",
+            "category": "Crimen y misterio",
+            "logo": "https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1acce7f17797000718f9be",
+            "name": "Ana y los 7",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/5f1acce7f17797000718f9be/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1acd36779de70007a680d1",
+            "name": "Curro Jiménez",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/5f1acd36779de70007a680d1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f1acdaa8ba90f0007d5e760",
+            "name": "Pluto TV Cocina",
+            "category": "Estilo de Vida",
+            "logo": "https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f28009b150b2500077766b8",
+            "name": "Vaya semanita",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/5f28009b150b2500077766b8/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f6a38eaa5b68b0007a00e7a",
+            "name": "Pluto TV Sci-Fi",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f984f4a09e92d0007d74647",
+            "name": "Archivos Forenses",
+            "category": "Crimen y misterio",
+            "logo": "https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "5f98537a5a4341000733aefe",
+            "name": "MTV Embarazada a los 16",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/5f98537a5a4341000733aefe/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "600169ec77e6f70008fa9cf0",
+            "name": "MTV Ink Master",
+            "category": "Reality",
+            "logo": "https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "600ae6a78d801e0007117d21",
+            "name": "Pluto TV Animales",
+            "category": "Documentales",
+            "logo": "https://images.pluto.tv/channels/600ae6a78d801e0007117d21/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60218baa464ef900073168c1",
+            "name": "Empeños a lo bestia",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/60218baa464ef900073168c1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "604f8125c6669b00077f7699",
+            "name": "Wipeout",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/604f8125c6669b00077f7699/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "604f81a49ef73300070e554f",
+            "name": "MTV Teen Mom",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/604f81a49ef73300070e554f/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6080345ebb49b90007ce0baf",
+            "name": "Pluto TV Motor",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "608035b8d8705f0007260287",
+            "name": "Pluto TV Anime",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/608035b8d8705f0007260287/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6080381ab7c9ea00074ec64c",
+            "name": "World Poker Tour",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6086d3f420fc8500075f8dbf",
+            "name": "Runtime",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "609e7e423e9173000706a681",
+            "name": "Pluto TV Kids Classics",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60c343007bcabe0007242aa6",
+            "name": "El Comisario",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/60c343007bcabe0007242aa6/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c343007bcabe0007242aa6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60cc807324d60a0007708dc8",
+            "name": "Pluto TV Cine de autor",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/60cc807324d60a0007708dc8/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60d356a534f63f000850cdd7",
+            "name": "Top Gear",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/60d356a534f63f000850cdd7/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60d3583ef310610007fb02b1",
+            "name": "Euronews",
+            "category": "Noticias",
+            "logo": "https://images.pluto.tv/channels/60d3583ef310610007fb02b1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60dafb9a0df1ba000758d37b",
+            "name": "BBC Series",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60dd6b1da79e4d0007309455",
+            "name": "Nature Time",
+            "category": "Documentales",
+            "logo": "https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "60e45687313c5f0007bc8e94",
+            "name": "El encantador de perros",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "610c09219fc0430007a3fce6",
+            "name": "Rugrats",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "612ce5214bb5790007ad3016",
+            "name": "Pluto TV Paranormal",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/612ce5214bb5790007ad3016/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612ce5214bb5790007ad3016/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6130d8dc943001000708548d",
+            "name": "MTV Reality",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/6130d8dc943001000708548d/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6130d8dc943001000708548d/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "61373bb45168fe000773eecd",
+            "name": "Pluto TV Cine Clásico",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "61373f1a12dd9f00077dcd6f",
+            "name": "Las Tortugas Ninja",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6181404ef48321000797bc41",
+            "name": "iCarly",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/6181404ef48321000797bc41/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "61922be835f3910007fc58f6",
+            "name": "En el punto de mira",
+            "category": "Documentales",
+            "logo": "https://images.pluto.tv/channels/61922be835f3910007fc58f6/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61922be835f3910007fc58f6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "619b9f16b8fee4000832d447",
+            "name": "El Detective Endeavour",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/619b9f16b8fee4000832d447/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "61b9edc4a4ca6100070bb407",
+            "name": "Ice Pilots",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b9edc4a4ca6100070bb407/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "61bb2814ac085a00074309a6",
+            "name": "Unidad de investigación",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/61bb2814ac085a00074309a6/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61bb2814ac085a00074309a6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "61cd7b49543066000713b620",
+            "name": "Pluto TV Historia",
+            "category": "Documentales",
+            "logo": "https://images.pluto.tv/channels/61cd7b49543066000713b620/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "622f42b831233300078658cc",
+            "name": "Ciudadanos por el mundo",
+            "category": "Estilo de Vida",
+            "logo": "https://images.pluto.tv/channels/622f42b831233300078658cc/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6231ede1be5b460007f91bc1",
+            "name": "CBS News 24/7",
+            "category": "Noticias",
+            "logo": "https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6231ede1be5b460007f91bc1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6245c03922d9d4000760d205",
+            "name": "Melrose Place",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/6245c03922d9d4000760d205/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "62568a94ed1f380007b0211f",
+            "name": "Winx Club",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/62568a94ed1f380007b0211f/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62568a94ed1f380007b0211f/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6267d4d1fb694f0007a6af0e",
+            "name": "Pluto TV Horror",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "628751bb7154a40007168843",
+            "name": "South Park",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "629a066860ef810008267b70",
+            "name": "Detective Conan",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/629a066860ef810008267b70/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/629a066860ef810008267b70/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "62ac3d7dc23b400008ae5b5a",
+            "name": "MTV Jerseys",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ac3d7dc23b400008ae5b5a/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6304f530440dc90007f514d3",
+            "name": "Poirot & Miss Marple",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/6304f530440dc90007f514d3/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304f530440dc90007f514d3/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "632c6df43d2bc5000751f621",
+            "name": "Inazuma Eleven",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/632c6df43d2bc5000751f621/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632c6df43d2bc5000751f621/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6335a6b6e6f7a600076e589e",
+            "name": "Cazasubastas",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6335a6b6e6f7a600076e589e/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6385e82900ab2e000768a058",
+            "name": "Pluto TV Western",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/6385e82900ab2e000768a058/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "63c69c87808b740007599fe1",
+            "name": "Érase una vez...",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/63c69c87808b740007599fe1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "63d7a8e5a9957100086bfc23",
+            "name": "South Park Versión Original",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d7a8e5a9957100086bfc23/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "63eb944dc111bc0008fe7021",
+            "name": "Pluto TV Teen",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb944dc111bc0008fe7021/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "63eb9495a8b227000841bf64",
+            "name": "MTV Vergüenza ajena",
+            "category": "MTV en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/63eb9495a8b227000841bf64/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "63eb96754e83e70008ab8941",
+            "name": "Yu-Gi-Oh!",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/63eb96754e83e70008ab8941/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb96754e83e70008ab8941/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "645a309c5a0cd5000873f609",
+            "name": "Pluto TV Catástrofes",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/645a309c5a0cd5000873f609/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6475bfec536e0c0008858e9f",
+            "name": "Pluto TV K-Drama",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "64a3f200f238ce0008d47247",
+            "name": "Pluto TV True Crime",
+            "category": "Crimen y misterio",
+            "logo": "https://images.pluto.tv/channels/64a3f200f238ce0008d47247/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "64db2e0835425100080f2f5a",
+            "name": "Pluto TV Diseño",
+            "category": "Estilo de Vida",
+            "logo": "https://images.pluto.tv/channels/64db2e0835425100080f2f5a/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64db2e0835425100080f2f5a/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "64ddcbb14c5ed80008fad416",
+            "name": "Crimen & Historia",
+            "category": "Crimen y misterio",
+            "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ddcbb14c5ed80008fad416/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6523f672a6c38300088cb807",
+            "name": "El Reino Infantil",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/6523f672a6c38300088cb807/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6523f672a6c38300088cb807/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65254e8d81f9420008342cee",
+            "name": "La fiebre del Jade",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/65254e8d81f9420008342cee/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65254e8d81f9420008342cee/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "654a35ce346f420008d5c36e",
+            "name": "Pluto TV Invasión Alien",
+            "category": "Crimen y misterio",
+            "logo": "https://images.pluto.tv/channels/654a35ce346f420008d5c36e/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a35ce346f420008d5c36e/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6554bd45aa9ffb00088e5589",
+            "name": "COPS",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6554bd45aa9ffb00088e5589/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "655b5d865812e80008843bd1",
+            "name": "Pluto TV Comedias Románticas",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/655b5d865812e80008843bd1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655b5d865812e80008843bd1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65786888b228b7000843ad9a",
+            "name": "Pluto TV Zombies",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/65786888b228b7000843ad9a/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65786888b228b7000843ad9a/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "657868a7a620e30008fdbfeb",
+            "name": "Embrujadas",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/657868a7a620e30008fdbfeb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6578808014fbe400086e21bc",
+            "name": "Medium",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6578808014fbe400086e21bc/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6578836cdfed030008ce5bdb",
+            "name": "Sí quiero ese vestido",
+            "category": "Reality",
+            "logo": "https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6578836cdfed030008ce5bdb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65b91e530d9ab40008340d8d",
+            "name": "Al salir de clase",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b91e530d9ab40008340d8d/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65bd0f53dc10a40008e68b96",
+            "name": "Pluto TV Gasolina",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bd0f53dc10a40008e68b96/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65ce480a78df2200131c597b",
+            "name": "Pluto TV Psycho",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/65ce480a78df2200131c597b/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ce480a78df2200131c597b/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65cf6ab58145cb0008129ca8",
+            "name": "Pluto TV Series criminales",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65ddec1ef7f0af0008be4b65",
+            "name": "Pluto TV Series Sci-Fi",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ddec1ef7f0af0008be4b65/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65dded6966eec80008947157",
+            "name": "¡Llama a la Comadrona!",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/65dded6966eec80008947157/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dded6966eec80008947157/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65dded9a0d456100081417ae",
+            "name": "Primeval",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/65dded9a0d456100081417ae/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dded9a0d456100081417ae/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "65f96cd34e01740008ef1c97",
+            "name": "Realmadrid TV",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "660c29f80cd4630008f1547c",
+            "name": "FIFA+",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/660c29f80cd4630008f1547c/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660c29f80cd4630008f1547c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "662a69daa0a74e00087a1c72",
+            "name": "Pluto TV Telenovelas Clásicas",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/662a69daa0a74e00087a1c72/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6682bd9b8768aa0008f25be5",
+            "name": "Los misterios de Murdoch",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6682bd9b8768aa0008f25be5/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "66b0dfa1d512590008bfa7fd",
+            "name": "Pluto TV Gore & Slasher",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b0dfa1d512590008bfa7fd/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "66b0e00814a2bb00085f5934",
+            "name": "Pluto TV Terror Clásico",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/66b0e00814a2bb00085f5934/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b0e00814a2bb00085f5934/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "66c45c0de7f5e80008b82005",
+            "name": "CNN Headlines International",
+            "category": "Noticias",
+            "logo": "https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c45c0de7f5e80008b82005/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "66d71c656b63480008cf0427",
+            "name": "Cherif",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/66d71c656b63480008cf0427/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d71c656b63480008cf0427/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "66d71f8ee5de930008016f83",
+            "name": "Alice Nevers",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/66d71f8ee5de930008016f83/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d71f8ee5de930008016f83/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "67164414e40c4a00087f450d",
+            "name": "MODUS Super Series Darts",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/67164414e40c4a00087f450d/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67164414e40c4a00087f450d/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6745f0643a61d40008a61510",
+            "name": "Rookie Blue",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/6745f0643a61d40008a61510/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6745f0643a61d40008a61510/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "67517f923a61d40008c451f0",
+            "name": "Historia y Vida",
+            "category": "Documentales",
+            "logo": "https://images.pluto.tv/channels/67517f923a61d40008c451f0/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67517f923a61d40008c451f0/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "67517fae5534bb0008187997",
+            "name": "Actualidad 360",
+            "category": "Noticias",
+            "logo": "https://images.pluto.tv/channels/67517fae5534bb0008187997/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67517fae5534bb0008187997/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "676e7b4a4bd636000819c6a7",
+            "name": "SensaCine TV x Pluto",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/676e7b4a4bd636000819c6a7/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "67921b873de7c8cf94233f52",
+            "name": "UFC",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/67921b873de7c8cf94233f52/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67921b873de7c8cf94233f52/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6793ac47f5c74bff95d18a99",
+            "name": "TOP BARÇA",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6793ac47f5c74bff95d18a99/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "680ba8992472a7200a183eb5",
+            "name": "One Piece",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/680ba8992472a7200a183eb5/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680ba8992472a7200a183eb5/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "680ba8c3a48b3ead0db701cc",
+            "name": "Los caballeros del Zodiaco",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680ba8c3a48b3ead0db701cc/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6812206e1b3e3be031a5c363",
+            "name": "Águila Roja",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6812206e1b3e3be031a5c363/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68345650e8377f86acdeda83",
+            "name": "Pluto TV Series de Terror",
+            "category": "Halloween",
+            "logo": "https://images.pluto.tv/channels/68345650e8377f86acdeda83/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68345650e8377f86acdeda83/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "683457aebbc703dfd45a89eb",
+            "name": "Merlí",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/683457aebbc703dfd45a89eb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "683457e5f59cc6a13212fce4",
+            "name": "Lupin",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/683457e5f59cc6a13212fce4/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "685a996c7c4f2ad40cb4f276",
+            "name": "Dragon Ball",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/685a996c7c4f2ad40cb4f276/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "686cd84603ad75cfd132d672",
+            "name": "America's Next Top Model",
+            "category": "Reality",
+            "logo": "https://images.pluto.tv/channels/686cd84603ad75cfd132d672/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686cd84603ad75cfd132d672/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "686cd8bb9d079f48dbbdfecb",
+            "name": "Metal Rocks",
+            "category": "Música",
+            "logo": "https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686cd8bb9d079f48dbbdfecb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68779a09c691b3f0964127c6",
+            "name": "Heidi",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/68779a09c691b3f0964127c6/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68779a09c691b3f0964127c6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "688892172928933015abe479",
+            "name": "Barbie & Friends",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/688892172928933015abe479/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/688892172928933015abe479/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6888928eb52fb742416673d2",
+            "name": "Mattel Junior",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/6888928eb52fb742416673d2/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6888928eb52fb742416673d2/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68adc3fdd8f7693ae347a63a",
+            "name": "Los Gipsy Kings",
+            "category": "Reality",
+            "logo": "https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68adc3fdd8f7693ae347a63a/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68adc697116b783a33f99e6c",
+            "name": "Pluto TV Impacto",
+            "category": "Entretenimiento",
+            "logo": "https://images.pluto.tv/channels/68adc697116b783a33f99e6c/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68adc697116b783a33f99e6c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68d27949793c71d988ca624c",
+            "name": "Los Pitufos",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/68d27949793c71d988ca624c/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68d27949793c71d988ca624c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68d566603d3a9580eb461251",
+            "name": "Paramount Network de Pluto TV",
+            "category": "Cine",
+            "logo": "https://images.pluto.tv/channels/68d566603d3a9580eb461251/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68d566603d3a9580eb461251/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68de3db35fc0afe85de0b843",
+            "name": "Comedia a lo bestia de Pluto TV",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68de3db35fc0afe85de0b843/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68e8fd7c3ede4398bc69af93",
+            "name": "Dragon Ball Z",
+            "category": "Anime",
+            "logo": "https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68e8fd7c3ede4398bc69af93/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "68e8fe3bcba140ddfe903677",
+            "name": "Monster High",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68e8fe3bcba140ddfe903677/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "690dd10a37b131228d76d5b1",
+            "name": "El Mueble",
+            "category": "Estilo de Vida",
+            "logo": "https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/690dd10a37b131228d76d5b1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "69148c470155f9b136b5d856",
+            "name": "Pluto TV Snooker 900",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/69148c470155f9b136b5d856/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/69148c470155f9b136b5d856/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6964d2179ba4ac18051a18ce",
+            "name": "Léo Mattéï: Brigada de protección",
+            "category": "Policiacas",
+            "logo": "https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6964d2179ba4ac18051a18ce/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "696e02423b9ce349c90edef9",
+            "name": "Rally TV",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/696e02423b9ce349c90edef9/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/696e02423b9ce349c90edef9/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "69b3db5d61e8e298254c7108",
+            "name": "Space Live",
+            "category": "Documentales",
+            "logo": "https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/69b3db5d61e8e298254c7108/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "69c5100c3d2597380f0f6422",
+            "name": "Gata salvaje",
+            "category": "Series",
+            "logo": "https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/69c5100c3d2597380f0f6422/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "69c51060ed1b1f1acb5092dc",
+            "name": "Alaska y Mario",
+            "category": "Reality",
+            "logo": "https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/69c51060ed1b1f1acb5092dc/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "69f9c50202b6c1c00a213519",
+            "name": "Dominance FC TV",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/69f9c50202b6c1c00a213519/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "69fc906b90dc413f536059a1",
+            "name": "H2O & Friends",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/69fc906b90dc413f536059a1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/69fc906b90dc413f536059a1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a0c25d1c3b9403659196293",
+            "name": "Terapia con Charlie",
+            "category": "Comedia",
+            "logo": "https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a0c25d1c3b9403659196293/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a0c25fe09705ebdf7e4599a",
+            "name": "Pippi Calzaslargas",
+            "category": "Infantil",
+            "logo": "https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a0c25fe09705ebdf7e4599a/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a31544f2c1c785c1138dbb1",
+            "name": "Mr. Bean",
+            "category": "Nuevo en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a31544f2c1c785c1138dbb1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a43d26599d7b121476c351c",
+            "name": "Acapulco Shore",
+            "category": "Nuevo en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/6a43d26599d7b121476c351c/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a43d26599d7b121476c351c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a43d3bae0c1a33841302952",
+            "name": "Noche y día",
+            "category": "Nuevo en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a43d3bae0c1a33841302952/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a43d63071cbfff7dca61d23",
+            "name": "Los Misteriosos asesinatos de Miss Fisher",
+            "category": "Nuevo en Pluto TV",
+            "logo": "https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a43d63071cbfff7dca61d23/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a6a02ae3ee9d966427e62c4",
+            "name": "NFL Channel",
+            "category": "Deportes",
+            "logo": "https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a6a02ae3ee9d966427e62c4/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a846c44496b635ad62aa13e",
+            "name": "That's 80s",
+            "category": "Música",
+            "logo": "https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a846c44496b635ad62aa13e/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a846cb6840f7d654710df00",
+            "name": "That's 90s00s",
+            "category": "Música",
+            "logo": "https://images.pluto.tv/channels/6a846cb6840f7d654710df00/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a846cb6840f7d654710df00/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        },
+        {
+            "id": "6a846ccd99e7db5e8a1d9b5f",
+            "name": "That's Rock",
+            "category": "Música",
+            "logo": "https://images.pluto.tv/channels/6a846ccd99e7db5e8a1d9b5f/logo.png?fit=fill&fm=png&h=80&w=280",
+            "streams": [
+                {
+                    "type": "hls",
+                    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a846ccd99e7db5e8a1d9b5f/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=&deviceModel=&deviceType=1&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=ES&sid=&userId="
+                }
+            ]
+        }
+    ]
+}
