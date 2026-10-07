@@ -1,0 +1,962 @@
+[
+  {
+    "event": "20:45 h | Ucrania vs  Hungría",
+    "image_url": null,
+    "streams": [
+      "https://mileixd.futlivehd.com/disney5/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=1bc2d0a62d887b5a65ebdc9be1a197a1c521e954-9a-1791271646-1791217646",
+      "https://mileixd.futlivehd.com/disney5/index.m3u8?ip=79.72.63.218&token=1bc2d0a62d887b5a65ebdc9be1a197a1c521e954-9a-1791271646-1791217646",
+      "https://khala.futlivehd.com/global/disney5/index.m3u8?ip=79.72.63.218&token=1bc2d0a62d887b5a65ebdc9be1a197a1c521e954-9a-1791271646-1791217646"
+    ],
+    "timestamp": "2026-10-05T20:58:01.717203"
+  },
+  {
+    "event": "20:45 h | Irlanda del Norte vs Georgia",
+    "image_url": null,
+    "streams": [
+      "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=79.72.63.218&token=7969b480cbd9583c41089a85803e1215f3183c34-ba-1791271567-1791217567",
+      "https://mileixd.futlivehd.com/disney7/index.m3u8?ip=79.72.63.218&token=7969b480cbd9583c41089a85803e1215f3183c34-ba-1791271567-1791217567",
+      "https://mileixd.futlivehd.com/disney7/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=7969b480cbd9583c41089a85803e1215f3183c34-ba-1791271567-1791217567"
+    ],
+    "timestamp": "2026-10-05T20:57:25.252126"
+  },
+  {
+    "event": "20:45 h | Bosnia y Herzegovina vs Polonia",
+    "image_url": null,
+    "streams": [
+      "https://khala.futlivehd.com/global/disney8/index.m3u8?ip=79.72.63.218&token=a25beff7616616d94463a0540203f1bc11f0a753-c1-1791271554-1791217554",
+      "https://khala.futlivehd.com/disney8/index.m3u8?ip=79.72.63.218&token=a25beff7616616d94463a0540203f1bc11f0a753-c1-1791271554-1791217554",
+      "https://khala.futlivehd.com/disney8/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=a25beff7616616d94463a0540203f1bc11f0a753-c1-1791271554-1791217554"
+    ],
+    "timestamp": "2026-10-05T20:56:06.340729"
+  },
+  {
+    "event": "20:45 h | Rumanía vs Suecia",
+    "image_url": null,
+    "streams": [
+      "https://khala.futlivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=626ce2de111d5c3ce08e01ba0b231ccf1bc932eb-ed-1791271488-1791217488",
+      "https://khala.futlivehd.com/global/espn/index.m3u8?ip=79.72.63.218&token=0f8a25cf13aebc18ffad27759b8dcdbdc4b94a7e-d5-1791271475-1791217475",
+      "https://mileixd.futlivehd.com/espn/index.m3u8?ip=79.72.63.218&token=0f8a25cf13aebc18ffad27759b8dcdbdc4b94a7e-d5-1791271475-1791217475",
+      "https://mileixd.futlivehd.com/espn/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=0f8a25cf13aebc18ffad27759b8dcdbdc4b94a7e-d5-1791271475-1791217475",
+      "https://khala.futlivehd.com/global/espn2/index.m3u8?ip=79.72.63.218&token=626ce2de111d5c3ce08e01ba0b231ccf1bc932eb-ed-1791271488-1791217488",
+      "https://17.domhsd.com/disney3/index.m3u8?token=77d79570b7566b837f1b3aa77236a7dee72d3e90-3f-1791270737-1791216737&ip=77.241.115.100",
+      "https://khala.futlivehd.com/espn2/index.m3u8?ip=79.72.63.218&token=626ce2de111d5c3ce08e01ba0b231ccf1bc932eb-ed-1791271488-1791217488"
+    ],
+    "timestamp": "2026-10-05T20:55:53.976047"
+  },
+  {
+    "event": "20:45 h | Montenegro vs Armenia",
+    "image_url": null,
+    "streams": [
+      "https://khala.futlivehd.com/global/disney2/index.m3u8?ip=79.72.63.218&token=ead2d022047d59ceb98aa4043ab7c75fbf84f8e5-e1-1791271463-1791217463",
+      "https://lala4.futlivehd.com/disney2/index.m3u8?ip=79.72.63.218&token=ead2d022047d59ceb98aa4043ab7c75fbf84f8e5-e1-1791271463-1791217463",
+      "https://lala4.futlivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=ead2d022047d59ceb98aa4043ab7c75fbf84f8e5-e1-1791271463-1791217463"
+    ],
+    "timestamp": "2026-10-05T20:54:35.198627"
+  },
+  {
+    "event": "20:45 h | Italia vs Turquía",
+    "image_url": null,
+    "streams": [
+      "https://mileixd.futlivehd.com/disney3/index.m3u8?ip=79.72.63.218&token=6d8af066c08aea1227604f3a75398ac282210d2a-9f-1791271439-1791217439",
+      "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=79.72.63.218&token=6d8af066c08aea1227604f3a75398ac282210d2a-9f-1791271439-1791217439",
+      "https://mileixd.futlivehd.com/disney3/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=6d8af066c08aea1227604f3a75398ac282210d2a-9f-1791271439-1791217439",
+      "https://s3.envivoslatam99.sbs/espn2/index.m3u8?token=2d75a247d4b800ba74de49401a7701252e7f761d-85-1791270575-1791216575&ip=77.241.115.100"
+    ],
+    "timestamp": "2026-10-05T20:54:22.734039"
+  },
+  {
+    "event": "20:45 h | Francia vs Bélgica",
+    "image_url": null,
+    "streams": [
+      "https://khala.futlivehd.com/espn/index.m3u8?ip=79.72.63.218&token=60dc8f84d81905a01bc961369237f1f0b28993fd-09-1791271415-1791217415",
+      "https://khala.futlivehd.com/global/espn/index.m3u8?ip=79.72.63.218&token=60dc8f84d81905a01bc961369237f1f0b28993fd-09-1791271415-1791217415",
+      "https://khala.futlivehd.com/espn/tracks-v1a1/mono.m3u8?ip=79.72.63.218&token=60dc8f84d81905a01bc961369237f1f0b28993fd-09-1791271415-1791217415",
+      "https://s2.envivoslatam99.sbs/espn/index.m3u8?token=acdfde05d679214a3a55e8e731b02e5573161339-b7-1791270663-1791216663&ip=77.241.115.100"
+    ],
+    "timestamp": "2026-10-05T20:53:58.530852"
+  },
+  {
+    "event": "Inglaterra 🆚 España\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://ppvtv.icu/api/playlist.json?t=1790452389728"
+    ],
+    "timestamp": "2026-09-26T21:53:46.675081"
+  },
+  {
+    "event": "KK Partizan 🆚 Pallacanestro Olimpia Milano",
+    "image_url": null,
+    "streams": [
+      "https://jn191.sportvideodata.com/3327678764932193517_wM6gTM1UjN3cjN/o4-1.m3u8?sign=R0cHM6Ly9pbWdhcmVuYS1zdHJlYW1zLXByb2QtbGwtZXUtd2VzdC0xLmFrYW1haXplZC5uZXQvb3V0L3YxL3N0cmVhbS03LzUzNjUwNy00ODc3ODkvNTM2NTA3LTQ4Nzc4OS9oZG50bD1leHA9MTc5MDQ1MzkwN35hY2w9JTJmb3V0JTJmdjElMmZzdHJlYW0tNyUyZjUzNjUwNy00ODc3ODklMmY1MzY1MDctNDg3Nzg5JTJmKn5pZD1iMmIxYWRmNi00ZGVkLTQ0NTEtOTExYi00NDg5ZjUzZTE2MTF%2BZGF0YT1oZG50bH5obWFjPTRlYjRhNTE3ZDllYjAxZjY5MWQ5YTA4OGI3ZTVlNWQ0Y2JiYzkxZWY1ZjFiNTE2ZmU1MDE1NTgwNTMwZDkxMmIvcGxheWxpc3RfMS5tM3U4P2F3cy5tYW5pZmVzdHNldHRpbmdzPW1hbmlmZXN0X3dpbmRvd19zZWNvbmRzOjYkfCQwaH",
+      "https://jn191.sportvideodata.com/3327678764932193517_wM6gTM1UjN3cjN/p4.m3u8"
+    ],
+    "timestamp": "2026-09-25T22:21:25.117643"
+  },
+  {
+    "event": "Polonia 🆚 Bosnia\n\n\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/14707124.m3u8",
+      "https://live05.meung.app/live/14707124_tsc.m3u8",
+      "https://live05.miekgo.app/live/14707124_tsc.m3u8",
+      "https://live5.dyrur1.com/live/68932610_4d490de19d4680e6208273e4c12cd9b2_autoChange.m3u8?auth_key=1790379766-0-0-5414e0e534e901ea3c3b5fc2933196be",
+      "https://colatv88xi.cc/video2/output.m3u8"
+    ],
+    "timestamp": "2026-09-25T21:46:39.464102"
+  },
+  {
+    "event": "Hungría 🆚 Ucrania\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES\n\n\n\n\n\n\n[25/9, 21:08] null: 12:45 pm. UEFA Nations League",
+    "image_url": null,
+    "streams": [
+      "https://live05.miekgo.app/live/02456966_tsc.m3u8",
+      "https://live05.meung.app/live/02456966.m3u8",
+      "https://live1.dyrur1.com/live/68932752_07e1471fbf6c74422afe0fdfa59518b0_autoChange.m3u8?auth_key=1790379727-0-0-1929395b15f26fa72803dabfe0041ce8",
+      "https://live05.meung.app/live/02456966_tsc.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8"
+    ],
+    "timestamp": "2026-09-25T21:44:09.177689"
+  },
+  {
+    "event": "Suecia 🆚 Rumanía\n\n\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES\n\n\n\n\n\n\n[25/9, 20:57] null: 12:45 pm. UEFA Nations League",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/07428422_tsc.m3u8",
+      "https://live05.meung.app/live/07428422.m3u8",
+      "https://live05.miekgo.app/live/07428422_tsc.m3u8",
+      "https://live2.dyrur1.com/live/68932612_31eb6d34a42af4d0ebe9ad059bfb3959_autoChange.m3u8?auth_key=1790379269-0-0-e4f4877e14697873f50d08e89b5a60e5",
+      "https://colatv88xi.cc/video2/output.m3u8"
+    ],
+    "timestamp": "2026-09-25T21:41:49.639350"
+  },
+  {
+    "event": "Turkia 🆚 Francia\n\n\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/08552895_tsc.m3u8",
+      "https://live05.miekgo.app/live/16226575_tsc.m3u8",
+      "https://live05.meung.app/live/16226575.m3u8",
+      "https://live4.dyrur1.com/live/68931472_c16e563939c2c0c9d221c9fca25faeec_autoChange.m3u8?auth_key=1790379269-0-0-e3637da3edc7297b3a3347fa50f0d5f1",
+      "https://live05.meung.app/live/16226575_tsc.m3u8",
+      "https://live05.miekgo.app/live/08552895_tsc.m3u8",
+      "https://live05.meung.app/live/08552895.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8"
+    ],
+    "timestamp": "2026-09-25T21:39:21.476447"
+  },
+  {
+    "event": "Noruega - Dinamarca (20:45)\n\n\n\n\n\n\n\nUEFA Nations League: Serbia vs Grecia",
+    "image_url": null,
+    "streams": [
+      "https://eu.mdstrm.com/live-stream-playlist/69f82201907d412a7bc35c63.m3u8?_=1788089504769&dnt=true&player=699bddbe0712fddd5e3b3f72&access_token=n1h6iAXWLnkMxl9pK0Axyn6j9pYf1LTfGtkV8UOmWvaBCI3Pl0leKQZlVAgmDCQZpfF4iMvksTH&uid=sW1PWrBUS5pgnpRdoZNJrivCkXjyvNJT&sid=HN12wpDdWzynhUnR8IIS3HlHrpdLRWGD&pid=y05vzq1OpLPNbvXlwKYYD2d2EaDkVr4X&an=aragon-play-app-web&at=web-app&av=v1.0.101&sc=0&c=6a941375e08eaf0002647de9&profile_id=6a941376899ef98e89146008&ref=www.aragonplay.es&res=1440x900&ext_pb=0&CMCD=cid%3D%2269f82201907d412a7bc35c63%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22y05vzq1OpLPNbvXlwKYYD2d2EaDkVr4X%22%2Csu",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/f1.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/espnmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/vsport.m3u8",
+      "https://epidd.hundxvision.co.uk/main/secure/f0cc110828aaf52c737f2e64bc6c9c77b4f283d0d546d7efcec32756b2e8cca9/1789786110/dazn1-es.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sky.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/dep.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn4-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://tedesco.pawtner.com.au/tntmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/usa.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.pawtner.com.au/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/alt.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/chunks.m3u8",
+      "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/skymx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/golazo.m3u8",
+      "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/bitrate_3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/one.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/ncaa5.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sn.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/plus.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/tele.m3u8",
+      "https://us8.usaportal.workers.dev/https://live.tv247.site/live/375/index.m3u8?v=1&e=1789344964&k=9c2b78b2e403cffcb181f0653e80d2bf",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/nfl4.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/fox.m3u8",
+      "https://live.dyrur1.com/live/72478552_7d5d10ecfc7e086f7c02fc1e44feb14e_autoChange.m3u8?auth_key=1789323258-0-0-cb761902cec616759908700ec4c94b7b",
+      "https://ev2.vtoc.live/vdc10013007/Ik9YDKYUzxa4eJZ40QyVqA/2438f1aacaae645b1a70cd7d/1789911781/playlist.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/cbssn.m3u8",
+      "https://instreams.live/live/TR1/index.m3u8?st=K6RtZ_8L4_ZA9VNCL1_2sw&e=1789516216",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/bein.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tennis.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/leeds.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn4-mux%2Fchunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/abbiecadabrii.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn-mux%2Fchunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tnt2.m3u8",
+      "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/chunks.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/celta.m3u8",
+      "https://epidd.hundxvision.co.uk/main/secure/6fb3e43cc8d1d03ca84962c05f38e535429bc9ff07e0c9b334daa1166c60f40e/1789785811/dazn2-es.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/mlb3.m3u8",
+      "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sunderland.m3u8",
+      "http://stream.mcquack.net/142/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/hub.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/tennis.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/mls.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/stw.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/tnt3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxmas.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/espnmx.m3u8",
+      "https://tedesco.pawtner.com.au/tnt4.m3u8",
+      "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tnt.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn2-mux%2Fchunks.m3u8",
+      "http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/skymx.m3u8",
+      "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxsp.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/bein3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/skymx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tele.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.pawtner.com.au/dep.m3u8",
+      "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foot.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/dep.m3u8",
+      "https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w807497706_b1460000_sleng.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/pea.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/skymx.m3u8",
+      "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/espn2.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/fana2.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/fana.m3u8",
+      "https://us8.usaportal.workers.dev/https://live.tv247.site/live/537/index.m3u8?v=1&e=1789342404&k=7c0101e5f9f8b636293f0fc1d113626c",
+      "https://live05.miekgo.app/live/75748097.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/prem.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/mls2.m3u8",
+      "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD",
+      "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD",
+      "https://alfr-bks-10.cdn.vodafone.pt/bpk-token/1aa@wgwxvw0jy4w00f4lyr4mxmplnvvr3nvvwuedefba/LIVE/sdash/LIVE$151/index.mpd/Manifest?bkm-query",
+      "https://alfr-bks-09.cdn.vodafone.pt/bpk-token/1aa@0ae5hkz4q25iv3df2yav1i4pu0gaz5rk0wn3l2ca/LIVE/sdash/LIVE$153/index.mpd/Manifest?bkm-query"
+    ],
+    "timestamp": "2026-09-25T09:08:00.582034"
+  },
+  {
+    "event": "Portugal - Gales (20:45)",
+    "image_url": null,
+    "streams": [
+      "https://eu.mdstrm.com/live-stream-playlist/69f82201907d412a7bc35c63.m3u8?_=1788089504769&dnt=true&player=699bddbe0712fddd5e3b3f72&access_token=n1h6iAXWLnkMxl9pK0Axyn6j9pYf1LTfGtkV8UOmWvaBCI3Pl0leKQZlVAgmDCQZpfF4iMvksTH&uid=sW1PWrBUS5pgnpRdoZNJrivCkXjyvNJT&sid=HN12wpDdWzynhUnR8IIS3HlHrpdLRWGD&pid=y05vzq1OpLPNbvXlwKYYD2d2EaDkVr4X&an=aragon-play-app-web&at=web-app&av=v1.0.101&sc=0&c=6a941375e08eaf0002647de9&profile_id=6a941376899ef98e89146008&ref=www.aragonplay.es&res=1440x900&ext_pb=0&CMCD=cid%3D%2269f82201907d412a7bc35c63%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22y05vzq1OpLPNbvXlwKYYD2d2EaDkVr4X%22%2Csu",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/f1.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/espnmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/vsport.m3u8",
+      "https://epidd.hundxvision.co.uk/main/secure/f0cc110828aaf52c737f2e64bc6c9c77b4f283d0d546d7efcec32756b2e8cca9/1789786110/dazn1-es.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sky.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/dep.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn4-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://tedesco.pawtner.com.au/tntmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/usa.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.pawtner.com.au/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/alt.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/chunks.m3u8",
+      "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/skymx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/golazo.m3u8",
+      "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/bitrate_3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/one.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/ncaa5.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sn.m3u8",
+      "https://a117.azplay48.me/hls/streama267870/index.m3u8?cst=052ac62019d649ebcc9f818cc650a0d0",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/plus.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/tele.m3u8",
+      "https://us8.usaportal.workers.dev/https://live.tv247.site/live/375/index.m3u8?v=1&e=1789344964&k=9c2b78b2e403cffcb181f0653e80d2bf",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/nfl4.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/fox.m3u8",
+      "https://live.dyrur1.com/live/72478552_7d5d10ecfc7e086f7c02fc1e44feb14e_autoChange.m3u8?auth_key=1789323258-0-0-cb761902cec616759908700ec4c94b7b",
+      "https://ev2.vtoc.live/vdc10013007/Ik9YDKYUzxa4eJZ40QyVqA/2438f1aacaae645b1a70cd7d/1789911781/playlist.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/cbssn.m3u8",
+      "https://instreams.live/live/TR1/index.m3u8?st=K6RtZ_8L4_ZA9VNCL1_2sw&e=1789516216",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/bein.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tennis.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/leeds.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn4-mux%2Fchunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/abbiecadabrii.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn-mux%2Fchunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tnt2.m3u8",
+      "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/chunks.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/celta.m3u8",
+      "https://epidd.hundxvision.co.uk/main/secure/6fb3e43cc8d1d03ca84962c05f38e535429bc9ff07e0c9b334daa1166c60f40e/1789785811/dazn2-es.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/mlb3.m3u8",
+      "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sunderland.m3u8",
+      "http://stream.mcquack.net/142/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/hub.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/tennis.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/mls.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/stw.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/tnt3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxmas.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/espnmx.m3u8",
+      "https://tedesco.pawtner.com.au/tnt4.m3u8",
+      "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tnt.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn2-mux%2Fchunks.m3u8",
+      "http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/skymx.m3u8",
+      "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxsp.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/bein3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/skymx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tele.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.pawtner.com.au/dep.m3u8",
+      "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foot.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/dep.m3u8",
+      "https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w807497706_b1460000_sleng.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/pea.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/skymx.m3u8",
+      "https://a122.azplay48.me/hls/streama267870/index.m3u8?cst=a35be5cefa872deb65180a6a543d2af7",
+      "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/espn2.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/fana2.m3u8",
+      "https://a50.azplay48.me/hls/streama267870/index.m3u8?cst=5f28fb394d606ca2a6756907beb9ede2",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/fana.m3u8",
+      "https://us8.usaportal.workers.dev/https://live.tv247.site/live/537/index.m3u8?v=1&e=1789342404&k=7c0101e5f9f8b636293f0fc1d113626c",
+      "https://live05.miekgo.app/live/75748097.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/prem.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/mls2.m3u8",
+      "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD",
+      "https://alfr-bks-10.cdn.vodafone.pt/bpk-token/1aa@1uxbv4oa4gu0lg25tr0wtpdk33g3nivx1gfvenba/LIVE/sdash/LIVE$151/index.mpd/Manifest?bkm-query"
+    ],
+    "timestamp": "2026-09-25T09:06:57.503022"
+  },
+  {
+    "event": "Países Bajos - Alemania (20:45)",
+    "image_url": null,
+    "streams": [
+      "https://eu.mdstrm.com/live-stream-playlist/69f82201907d412a7bc35c63.m3u8?_=1788089504769&dnt=true&player=699bddbe0712fddd5e3b3f72&access_token=n1h6iAXWLnkMxl9pK0Axyn6j9pYf1LTfGtkV8UOmWvaBCI3Pl0leKQZlVAgmDCQZpfF4iMvksTH&uid=sW1PWrBUS5pgnpRdoZNJrivCkXjyvNJT&sid=HN12wpDdWzynhUnR8IIS3HlHrpdLRWGD&pid=y05vzq1OpLPNbvXlwKYYD2d2EaDkVr4X&an=aragon-play-app-web&at=web-app&av=v1.0.101&sc=0&c=6a941375e08eaf0002647de9&profile_id=6a941376899ef98e89146008&ref=www.aragonplay.es&res=1440x900&ext_pb=0&CMCD=cid%3D%2269f82201907d412a7bc35c63%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22y05vzq1OpLPNbvXlwKYYD2d2EaDkVr4X%22%2Csu",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/f1.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/espnmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/vsport.m3u8",
+      "https://epidd.hundxvision.co.uk/main/secure/f0cc110828aaf52c737f2e64bc6c9c77b4f283d0d546d7efcec32756b2e8cca9/1789786110/dazn1-es.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sky.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/dep.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn4-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://tedesco.pawtner.com.au/tntmx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/usa.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.pawtner.com.au/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/alt.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/chunks.m3u8",
+      "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/skymx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/golazo.m3u8",
+      "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/bitrate_3.m3u8",
+      "https://a121.azplay48.me/hls/streama260915/index.m3u8?cst=4e42f3a9ce8d2d9b4e01f871313f277e",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/one.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/ncaa5.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sn.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/plus.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/tele.m3u8",
+      "https://us8.usaportal.workers.dev/https://live.tv247.site/live/375/index.m3u8?v=1&e=1789344964&k=9c2b78b2e403cffcb181f0653e80d2bf",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/nfl4.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/fox.m3u8",
+      "https://live.dyrur1.com/live/72478552_7d5d10ecfc7e086f7c02fc1e44feb14e_autoChange.m3u8?auth_key=1789323258-0-0-cb761902cec616759908700ec4c94b7b",
+      "https://ev2.vtoc.live/vdc10013007/Ik9YDKYUzxa4eJZ40QyVqA/2438f1aacaae645b1a70cd7d/1789911781/playlist.m3u8",
+      "https://a121.azplay48.me/hls/streama260915/index.m3u8?cst=4a96888828f2257a56926222e63916b8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/cbssn.m3u8",
+      "https://instreams.live/live/TR1/index.m3u8?st=K6RtZ_8L4_ZA9VNCL1_2sw&e=1789516216",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/bein.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tennis.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/leeds.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn4-mux%2Fchunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/abbiecadabrii.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn-mux%2Fchunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tnt2.m3u8",
+      "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/chunks.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/celta.m3u8",
+      "https://epidd.hundxvision.co.uk/main/secure/6fb3e43cc8d1d03ca84962c05f38e535429bc9ff07e0c9b334daa1166c60f40e/1789785811/dazn2-es.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.formaturamaxi.com.br/mlb3.m3u8",
+      "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/sunderland.m3u8",
+      "http://stream.mcquack.net/142/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/hub.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/tennis.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/mls.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/stw.m3u8",
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/chunks.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.pawtner.com.au/tnt3.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxmas.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/espnmx.m3u8",
+      "https://tedesco.pawtner.com.au/tnt4.m3u8",
+      "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tnt.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://golxu.st/zn.php?url=http%3A%2F%2Fbantel-cdn1.iptvperu.tv%3A1935%2Fbtnscrtn%2Fespn2-mux%2Fchunks.m3u8",
+      "http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/skymx.m3u8",
+      "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.formaturamaxi.com.br/dep.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foxsp.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/bein3.m3u8",
+      "https://a94.azplay48.me/hls/streama260855/index.m3u8?cst=fb2ee9289c63849685d36715bc4438ea",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/skymx.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/tele.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin.pawtner.com.au/dep.m3u8",
+      "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/foot.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/dep.m3u8",
+      "https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w807497706_b1460000_sleng.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/pea.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/skymx.m3u8",
+      "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/espn2.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://tedesco.formaturamaxi.com.br/beines.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/fana2.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/fana.m3u8",
+      "https://us8.usaportal.workers.dev/https://live.tv247.site/live/537/index.m3u8?v=1&e=1789342404&k=7c0101e5f9f8b636293f0fc1d113626c",
+      "https://live05.miekgo.app/live/75748097.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=http://admin2.formaturamaxi.com.br/prem.m3u8",
+      "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=https://admin2.pawtner.com.au/mls2.m3u8",
+      "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD",
+      "https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD",
+      "https://alfr-bks-10.cdn.vodafone.pt/bpk-token/1aa@njq5cwtwb4ly4qv3n0o0ia5fmplc2xq3n1cltfaa/LIVE/sdash/LIVE$152/index.mpd/Manifest?bkm-query",
+      "https://alfr-bks-01.cdn.vodafone.pt/bpk-token/1aa@rygxaa5012ca2gwyj1fclnobaoewzfayroqzyraa/LIVE/sdash/LIVE$151/index.mpd/Manifest?bkm-query"
+    ],
+    "timestamp": "2026-09-25T09:05:54.110531"
+  },
+  {
+    "event": "Austria 🆚 Israel\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/07808742_tsc.m3u8",
+      "https://live05.meung.app/live/07808742_tsc-1790275624.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275618.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275622.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275625.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275616.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275629.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275627.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275628.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275619.ts?txspiseq=11744252917458912848",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/07808742_tsc-1790275623.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275620.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275617.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275626.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275621.ts?txspiseq=11744252917458912848",
+      "https://live05.meung.app/live/07808742_tsc-1790275630.ts?txspiseq=11744252917458912848"
+    ],
+    "timestamp": "2026-09-24T21:46:13.679779"
+  },
+  {
+    "event": "Países Bajos 🆚 Alemania\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/78905744_tsc.m3u8",
+      "https://live05.meung.app/live/78905744_tsc-1790267542.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267540.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267544.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267549.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267543.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267546.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267541.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267550.ts?txspiseq=115167528821139342910",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/78905744_tsc-1790267545.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267547.ts?txspiseq=115167528821139342910",
+      "https://live05.meung.app/live/78905744_tsc-1790267548.ts?txspiseq=115167528821139342910"
+    ],
+    "timestamp": "2026-09-24T21:42:48.244155"
+  },
+  {
+    "event": "Portugal 🆚 Gales\n\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/08552895_tsc.m3u8",
+      "https://live05.meung.app/live/08552895_tsc-1790274060.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274055.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274054.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274058.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274056.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274062.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274061.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274053.ts?txspiseq=117227072468393738685",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/08552895_tsc-1790274059.ts?txspiseq=117227072468393738685",
+      "https://live05.meung.app/live/08552895_tsc-1790274057.ts?txspiseq=117227072468393738685"
+    ],
+    "timestamp": "2026-09-24T21:41:05.044235"
+  },
+  {
+    "event": "Chelsea 🆚 Autria Wian\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/players.html?r=aHR0cHM6Ly9hYmlzbmV3cy5jb20vY2JzLnBocA%3D%3D"
+    ],
+    "timestamp": "2026-09-24T14:50:17.250648"
+  },
+  {
+    "event": "OH Leuven 🆚 Roma\n\n\n\n\n\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES\n\n\n\n\n\n\n[23/9, 19:25] null: Mundial Femenil SUB 20",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/07808742.m3u8",
+      "https://live05.meung.app/live/07808742_tsc.m3u8",
+      "https://live05.miekgo.app/live/07808742_tsc.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live1.dyrur1.com/live/74371792_bbde62ebf6e2cf6152e50c712d099c48_autoChange.m3u8?auth_key=1790202076-0-0-ecfc91514df9c84acde762f0e2ef8203",
+      "https://live05.meung.app/live/07808742_tsc-1790182753.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182737.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182749.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182752.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182735.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182758.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182747.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182756.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182757.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182755.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182760.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182754.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182736.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182748.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182751.ts?txspiseq=118307936380082176342",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/07808742_tsc-1790182750.ts?txspiseq=118307936380082176342",
+      "https://live05.meung.app/live/07808742_tsc-1790182759.ts?txspiseq=118307936380082176342"
+    ],
+    "timestamp": "2026-09-23T20:23:31.773483"
+  },
+  {
+    "event": "Servette Chenois 🆚 Lyon\n\n\n\n\n\nCOMPARTAN EL GRUPO CON SUS AMIGOS Y FAMILIARES\n\n\n\n\n\n\n[23/9, 18:50] null: 10:45 am Champions League Femenil",
+    "image_url": null,
+    "streams": [
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.meung.app/live/19919577.m3u8",
+      "https://live05.miekgo.app/live/19919577_tsc.m3u8",
+      "https://live.dyrur1.com/live/74371794_0c4f53faa3c27f8ebefe8743ce5963ee_autoChange.m3u8?auth_key=1790201722-0-0-2d84db09c9db4d45e75288010fa4a95e",
+      "https://live05.meung.app/live/19919577_tsc.m3u8",
+      "https://live05.meung.app/live/19919577_tsc-1790181882.ts?txspiseq=115167528822318925268",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/19919577_tsc-1790181880.ts?txspiseq=115167528822318925268"
+    ],
+    "timestamp": "2026-09-23T20:21:14.238341"
+  },
+  {
+    "event": "21:00Chelsea F - Austria Viena F",
+    "image_url": null,
+    "streams": [
+      "https://theog446.gk8bloud123lkitchen.sbs/es/football/uefa-womens-champions-league-4506877/chelsea-fc-women-vs-austria-wien-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-23T20:15:02.918221"
+  },
+  {
+    "event": "21:00Barcelona F - Paris FC F",
+    "image_url": null,
+    "streams": [
+      "https://theog446.gk8bloud123lkitchen.sbs/es/football/uefa-womens-champions-league-4506472/barcelona-women-vs-paris-fc-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-23T20:14:31.746301"
+  },
+  {
+    "event": "18:45Servette F - Lyon F",
+    "image_url": null,
+    "streams": [
+      "https://theog446.gk8bloud123lkitchen.sbs/es/football/uefa-womens-champions-league-4506470/servette-women-vs-ol-lyonnes-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-23T20:13:59.348794"
+  },
+  {
+    "event": "18:45Leuven F - Roma F",
+    "image_url": null,
+    "streams": [
+      "https://theog446.gk8bloud123lkitchen.sbs/es/football/uefa-womens-champions-league-4506874/oud-heverlee-leuven-women-vs-as-roma-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-23T20:13:26.928204"
+  },
+  {
+    "event": "Arsenal 🆚 HB Koge",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/08552895_tsc.m3u8",
+      "https://live05.meung.app/live/08552895_tsc-1790102659.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102663.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102668.ts?txspiseq=118301818655336136999",
+      "https://rosonera.blogspot.com/p/players.html?r=aHR0cHM6Ly9hYmlzbmV3cy5jb20vZXNwbmRlcG9ydGVzLnBocA%3D%3D",
+      "https://live05.meung.app/live/08552895_tsc-1790102665.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102660.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102667.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102664.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102661.ts?txspiseq=118301818655336136999",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/08552895_tsc-1790102662.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102666.ts?txspiseq=118301818655336136999"
+    ],
+    "timestamp": "2026-09-22T21:48:44.129845"
+  },
+  {
+    "event": "Arsenal 🆚 HB Koge\n\n\n\n\n\n\n\n\n\n\n\n\n[22/9, 21:20] null: 13:00 pm Champions League Femenil",
+    "image_url": null,
+    "streams": [
+      "https://live05.miekgo.app/live/08552895_tsc.m3u8",
+      "https://live05.meung.app/live/08552895.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.meung.app/live/08552895_tsc.m3u8",
+      "https://live05.meung.app/live/08552895_tsc-1790102625.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102627.ts?txspiseq=118301818655336136999",
+      "https://live05.meung.app/live/08552895_tsc-1790102626.ts?txspiseq=118301818655336136999",
+      "https://www.fctv33hd.co/"
+    ],
+    "timestamp": "2026-09-22T21:46:35.347727"
+  },
+  {
+    "event": "Real Madrid 🆚 PSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[22/9, 21:18] null: 13:00 pm Champions League Femenil",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/33982309_tsc.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_autoChange.m3u8?auth_key=1790120579-0-0-13c520f785b9c449f5d11e80faed0d87",
+      "https://live05.meung.app/live/33982309.m3u8",
+      "https://live05.miekgo.app/live/33982309_tsc.m3u8",
+      "https://live05.meung.app/live/33982309_tsc-1790102721.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102716.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102717.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102715.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102710.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102719.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102720.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102713.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102714.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102711.ts?txspiseq=11818711882644440699",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/33982309_tsc-1790102709.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102722.ts?txspiseq=11818711882644440699",
+      "https://live05.meung.app/live/33982309_tsc-1790102718.ts?txspiseq=11818711882644440699"
+    ],
+    "timestamp": "2026-09-22T21:44:55.641020"
+  },
+  {
+    "event": "Juventus 🆚 Benfica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[22/9, 21:06] null: 13:00 pm. Champions League Femenil",
+    "image_url": null,
+    "streams": [
+      "https://live05.miekgo.app/live/97885009_tsc.m3u8",
+      "https://live05.meung.app/live/97885009.m3u8",
+      "https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_autoChange.m3u8?auth_key=1790120413-0-0-5ad9a3d0cac032cc537147f154f41673",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.meung.app/live/97885009_tsc.m3u8",
+      "https://live05.meung.app/live/97885009_tsc-1790103205.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103201.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103194.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103202.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103206.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103200.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103196.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103199.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103198.ts?txspiseq=115167528820028622185",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/97885009_tsc-1790103195.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103203.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103204.ts?txspiseq=115167528820028622185"
+    ],
+    "timestamp": "2026-09-22T21:42:57.400860"
+  },
+  {
+    "event": "Juventus 🆚 Benfica",
+    "image_url": null,
+    "streams": [
+      "https://live05.miekgo.app/live/97885009_tsc.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.meung.app/live/97885009_tsc.m3u8",
+      "https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_autoChange.m3u8?auth_key=1790120001-0-0-a7b3228a014210bf285d47994a410fcf",
+      "https://live05.meung.app/live/97885009.m3u8",
+      "https://live05.meung.app/live/97885009_tsc-1790103155.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103147.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103156.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103159.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103163.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103160.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103148.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103162.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103157.ts?txspiseq=115167528820028622185",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/97885009_tsc-1790103158.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103161.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103164.ts?txspiseq=115167528820028622185",
+      "https://live05.meung.app/live/97885009_tsc-1790103146.ts?txspiseq=115167528820028622185"
+    ],
+    "timestamp": "2026-09-22T21:39:01.871608"
+  },
+  {
+    "event": "Bayern Múnich 🆚 Manchester City",
+    "image_url": null,
+    "streams": [
+      "https://live05.miekgo.app/live/14830711_tsc.m3u8",
+      "https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_autoChange.m3u8?auth_key=1790110669-0-0-cdd1f374ec113a4cfe446da1d9779748",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.meung.app/live/14830711_tsc.m3u8",
+      "https://live05.meung.app/live/14830711.m3u8",
+      "https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_autoChange.m3u8?auth_key=1790111129-0-0-de0f3c5b7b55a88f6efecf7323f53286",
+      "https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_autoChange.m3u8?auth_key=1790111061-0-0-b8e24b3df1a807c903f161ddba53516f",
+      "https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_autoChange.m3u8?auth_key=1790111829-0-0-43a32b530b53d271aaf0080e9019ad9b",
+      "https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_autoChange.m3u8?auth_key=1790111898-0-0-1b2ba4b3bba2ebce0f3bcc97f223b0a9",
+      "https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_autoChange.m3u8?auth_key=1790112294-0-0-a1f758238d5d910c1a50cda0ac9d8b33",
+      "https://live05.meung.app/live/14830711_tsc-1790095836.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095835.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095834.ts?txspiseq=115560509668217717022",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/14830711_tsc-1790095854.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095855.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095856.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095853.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095878.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095879.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790095877.ts?txspiseq=115560509668217717022",
+      "https://live05.meung.app/live/14830711_tsc-1790096916.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790096918.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790096917.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790097092.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790097091.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790097093.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790097197.ts?txspiseq=115560509670794559776",
+      "https://live05.meung.app/live/14830711_tsc-1790097195.ts?txspiseq=115560509670794559776"
+    ],
+    "timestamp": "2026-09-22T19:31:06.289384"
+  },
+  {
+    "event": "Inter 🆚 Hacken",
+    "image_url": null,
+    "streams": [
+      "https://live05.meung.app/live/90865415.m3u8",
+      "https://live05.meung.app/live/90865415_tsc.m3u8",
+      "https://colatv88xi.cc/video2/output.m3u8",
+      "https://live05.miekgo.app/live/90865415_tsc.m3u8",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790110669-0-0-d68d7919cab9ab19639436967e283e5d",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790111061-0-0-08de60df08ae01af514948de3f998959",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790111129-0-0-d8036136a59a932ce79aafc4f3df7e52",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790111435-0-0-12c83002c253fc304fdc1f7c27ffc97c",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790111829-0-0-b2f0efb5808d02bae90879f0ac5300e5",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790112223-0-0-d3c6adbec65599c421bea517ca217863",
+      "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_autoChange.m3u8?auth_key=1790112599-0-0-3641f0a4df499b7c184ad51e9bcd16c6",
+      "https://live05.meung.app/live/90865415_tsc-1790094085.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094083.ts?txspiseq=117878799148947604893",
+      "https://www.fctv33hd.co/",
+      "https://live05.meung.app/live/90865415_tsc-1790094084.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094100.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094101.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094098.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094099.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094102.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094097.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094127.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094128.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094129.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094153.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094152.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094205.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094206.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094207.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094267.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094265.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094266.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094456.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094457.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094455.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094548.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094547.ts?txspiseq=117878799148947604893",
+      "https://live05.meung.app/live/90865415_tsc-1790094549.ts?txspiseq=117878799148947604893"
+    ],
+    "timestamp": "2026-09-22T19:31:20.533360"
+  },
+  {
+    "event": "21:00Real Madrid F - PSG F\n\nEsport 3",
+    "image_url": null,
+    "streams": [
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/bitrate_2.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/bitrate_7.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+      "https://jack7kt9.4fguseaicu74adjective.sbs/es/football/uefa-womens-champions-league-4506538/real-madrid-women-vs-paris-saint-germain-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-22T15:47:05.867458"
+  },
+  {
+    "event": "21:00Juventus F - Benfica F  -",
+    "image_url": null,
+    "streams": [
+      "https://jack7kt9.4fguseaicu74adjective.sbs/es/football/uefa-womens-champions-league-4506484/juventus-women-vs-sl-benfica-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-22T15:46:21.572733"
+  },
+  {
+    "event": "21:00Arsenal F - Koge F",
+    "image_url": null,
+    "streams": [
+      "https://jack7kt9.4fguseaicu74adjective.sbs/es/football/uefa-womens-champions-league-4506873/arsenal-women-vs-hb-koge-womansw.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-22T15:45:50.379295"
+  },
+  {
+    "event": "18:45Inter F - Häcken F",
+    "image_url": null,
+    "streams": [
+      "https://jack7kt9.4fguseaicu74adjective.sbs/es/football/uefa-womens-champions-league-4507067/inter-milan-women-vs-bk-hacken-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-22T15:45:19.250804"
+  },
+  {
+    "event": "18:45Bayern Múnich F -\nManchester City F",
+    "image_url": null,
+    "streams": [
+      "https://jack7kt9.4fguseaicu74adjective.sbs/es/football/uefa-womens-champions-league-4506497/bayern-munchen-women-vs-manchester-city-women.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-22T15:44:48.002137"
+  },
+  {
+    "event": "Atlante 🆚 Queretaro",
+    "image_url": null,
+    "streams": [
+      "https://local;mn;signatureCipher;://;DpLJ49uy-Q07KEBk97-_w8_;yl;1969-12-31T19:15:29.000-04:45;cmo=pf;cmo;)\\u223b((];fl;},/\\\\\\u00d7;%3D;1969-12-31T20:30:51.000-03:30;undefined;index.m3u8",
+      "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg"
+    ],
+    "timestamp": "2026-09-21T23:37:08.055932"
+  },
+  {
+    "event": "Marseille vs PSG - Ligue 1",
+    "image_url": null,
+    "streams": [
+      "https://cp11.adabmedia.com/hls2/bein1.m3u8",
+      "https://live12.ir/sp/hls.html?link=https://cp11.adabmedia.com/hls2/bein1.m3u8&title=ayastv",
+      "https://live12.ir/sp/hls2.html?link=https://cp11.adabmedia.com/hls2/bein1.m3u8&title=ayastv",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982276612.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982307170.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982301064.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982337482.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982319209.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982313203.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982294971.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982282730.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982331439.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982325305.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982288841.ts",
+      "https://cp11.adabmedia.com/hls2/bein1-1789982270511.ts"
+    ],
+    "timestamp": "2026-09-21T11:19:09.976563"
+  },
+  {
+    "event": "Tapatío 🆚 Tlaxcala",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZmF1dTlMUlpWazdRMmtjOFJQZFVlNXNB",
+      "https://www.fctv33hd.pw/"
+    ],
+    "timestamp": "2026-09-21T00:58:54.260963"
+  },
+  {
+    "event": "Commanders 🆚 Cowboys",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZmF1dmE2RmF3a05MZjhXMTZZZk40eEhK"
+    ],
+    "timestamp": "2026-09-20T22:42:02.816664"
+  },
+  {
+    "event": "Seahawks 🆚 Cardinals",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZmF1dmE2RlJITW9SUm1LQkN0aGpoU3lI"
+    ],
+    "timestamp": "2026-09-20T22:41:31.163863"
+  },
+  {
+    "event": "Dolphins 🆚 49ers",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZmF1dmE2S3Y5czhDZWRNVUZXWjdyenpu"
+    ],
+    "timestamp": "2026-09-20T22:41:20.024895"
+  },
+  {
+    "event": "Raiders 🆚 Chargers",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZmF1dllVRENvblNQN0RjWVFvVVhYdWFn"
+    ],
+    "timestamp": "2026-09-20T22:03:09.722491"
+  },
+  {
+    "event": "Jaguars 🆚 Broncos",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZmF1dllVRDM5UHNUc3JSaVg5ZFNSN0dq"
+    ],
+    "timestamp": "2026-09-20T22:02:23.011613"
+  },
+  {
+    "event": "Valencia 🆚 Real Sociedad \n La Liga EA Sports ⚽🇪🇸🏆 \n Domingo 20 21:00h",
+    "image_url": null,
+    "streams": [
+      "https://ppvtv.icu/api/playlist.json?t=1789934107758",
+      "https://jack31eo.mpgreatestclgczbmiddle.my/es/football/26-27-4432814/valencia-cf-vs-real-sociedad.html?icg=RVM"
+    ],
+    "timestamp": "2026-09-20T21:55:28.848279"
+  },
+  {
+    "event": "Valencia 🆚 Real Sociedad",
+    "image_url": null,
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/dep.m3u8",
+      "https://live05.meung.app/live/14707124_tsc.m3u8",
+      "https://live05.meung.app/live/14707124_tsc-1789930698.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930699.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930695.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930693.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930703.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930697.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930705.ts?txspiseq=115404182155936055521",
+      "https://rosonera.blogspot.com/p/players.html?r=aHR0cHM6Ly9saXZlNC5sYXQvcGxheWVyL2NhcG80Lzcx",
+      "https://live05.meung.app/live/14707124_tsc-1789930704.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930694.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930702.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930696.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930701.ts?txspiseq=115404182155936055521",
+      "https://live05.meung.app/live/14707124_tsc-1789930700.ts?txspiseq=115404182155936055521"
+    ],
+    "timestamp": "2026-09-20T21:29:03.555031"
+  },
+  {
+    "event": "Pumas 🆚 Puebla",
+    "image_url": null,
+    "streams": [
+      "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg"
+    ],
+    "timestamp": "2026-09-20T20:30:12.222545"
+  },
+  {
+    "event": "Steelers 🆚 Patriots",
+    "image_url": null,
+    "streams": [
+      "https://rosonera.blogspot.com/p/repo.html?r=aHR0cHM6Ly93d3cudmRvY2l0eS5jb20vX0FmQVY4aXpWY042d0F5ZlRaZlpwZ0VycXhFRThzd3dOQndZUFVNQ3dZ"
+    ],
+    "timestamp": "2026-09-20T19:49:00.955524"
+  }
+]
