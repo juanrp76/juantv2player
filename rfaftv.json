@@ -1,11 +1,65 @@
 [
     {
-        "titulo": "Sin Partidos Directos",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/697c110c87e24b0e90d5cdc98e08c03e.jpg",
-        "texto_ocr_portada": "",
-        "enlace_web": "https://www.tv.rfaf.es/",
+        "titulo": "CD Villanueva - Jódar CF",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/5603f141f8624739a34f407705094564.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Viernes 9 de octubre",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9371-rfaftv-1",
         "streams": [
-            "https://rfaftsmux.flumotion.cloud/ondemand/81dfc4cf-270b-4f67-b43a-de0c0dcae9d9/9b6698c0-8b2d-4a6d-8a90-f93627b3569a_Fast_H2500.mp4/chunk.m3u8"
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel1.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Xerez Futsal - CD Marqués de Nervión",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/941a0b97287e4dbab3ce46cb7df846f2.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 10 de octubre 17:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10092-rfaftv-2",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel2.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "Oleoinnova Mengíbar FS - CD Virgili Cádiz",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/cb8ba6ab58d74819ac2f8b61c4c996e2.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 10 de octubre 18:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/10283-rfaftv-3",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel3.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD La Palma FS - CD Córdoba Futsal Patrimonio",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/45839c9d356a495f86dc98522dfa5cab.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Sábado 10 de octubre 18:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9847-rfaftv-4",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel4.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Albolote Futsal PYLTIN - Torremolinos FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/7211d9b083bd4ae7be588b1b06a47042.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 11 de octubre 11:30h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/9846-rfaftv-5",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "CD Decorséneca - UD Los Amigos",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/25b9ce7f556745309c54fde6330537b4.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "3 DIVIGIGN AGAAIABEL:\n  WEE\nRFARY FY A UN\nISAN SZ",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel6.smil/playlist.m3u8"
+        ]
+    },
+    {
+        "titulo": "Torremolinos FS - Granada FS",
+        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/4d2d98c6679f460aa856b5de366ca046.png?w=400&h=226&quality=mid",
+        "texto_ocr_portada": "Domingo 11 de octubre 13:00h",
+        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12849-rfaftv-7",
+        "streams": [
+            "https://cdnlive.codev8.net/rfaf20live/smil:channel7.smil/playlist.m3u8"
         ]
     }
 ]
