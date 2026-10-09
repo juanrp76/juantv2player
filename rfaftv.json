@@ -43,23 +43,5 @@
         "streams": [
             "https://cdnlive.codev8.net/rfaf20live/smil:channel5.smil/playlist.m3u8"
         ]
-    },
-    {
-        "titulo": "CD Decorséneca - UD Los Amigos",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/25b9ce7f556745309c54fde6330537b4.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "3 DIVIGIGN AGAAIABEL:\n  WEE\nRFARY FY A UN\nISAN SZ",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12848-rfaftv-6",
-        "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel6.smil/playlist.m3u8"
-        ]
-    },
-    {
-        "titulo": "Torremolinos FS - Granada FS",
-        "portada": "https://d1b70esudesffp.cloudfront.net/content_cards/4d2d98c6679f460aa856b5de366ca046.png?w=400&h=226&quality=mid",
-        "texto_ocr_portada": "Domingo 11 de octubre 13:00h",
-        "enlace_web": "https://www.tv.rfaf.es/videos/detail/12849-rfaftv-7",
-        "streams": [
-            "https://cdnlive.codev8.net/rfaf20live/smil:channel7.smil/playlist.m3u8"
-        ]
     }
 ]
